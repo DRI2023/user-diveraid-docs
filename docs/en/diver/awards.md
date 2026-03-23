@@ -14,7 +14,7 @@ Typical steps:
 2. Select a card/award.
 3. Start the order flow.
 
-![Awards list](/assets/screenshots/diver/en/awards.png)
+![Awards list](../../assets/screenshots/diver/en/awards.png)
 
 ## Award order
 

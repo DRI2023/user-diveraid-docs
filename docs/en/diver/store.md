@@ -14,7 +14,7 @@ Typical steps:
 2. Choose a course.
 3. Enter checkout.
 
-![Store](/assets/screenshots/diver/en/store.png)
+![Store](../../assets/screenshots/diver/en/store.png)
 
 ## Course checkout and order
 

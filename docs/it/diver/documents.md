@@ -8,7 +8,7 @@ Menu: **Diver -> Documents**
 
 Qui trovi i documenti messi a disposizione per te.
 
-![Documenti personali](/assets/screenshots/diver/it/documents-personal.png)
+![Documenti personali](../../assets/screenshots/diver/it/documents-personal.png)
 
 Passi tipici:
 
@@ -20,7 +20,7 @@ Passi tipici:
 
 Qui trovi i documenti associati al tuo profilo (tipicamente caricati/registrati a tuo nome).
 
-![Documenti caricati](/assets/screenshots/diver/it/documents-uploaded.png)
+![Documenti caricati](../../assets/screenshots/diver/it/documents-uploaded.png)
 
 Passi tipici:
 

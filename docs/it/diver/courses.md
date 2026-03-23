@@ -2,9 +2,9 @@
 
 ## Screenshot
 
-![Lista corsi](/assets/screenshots/diver/it/courses-list.png)
+![Lista corsi](../../assets/screenshots/diver/it/courses-list.png)
 
-![Corsi scaduti](/assets/screenshots/diver/it/courses-expired.png)
+![Corsi scaduti](../../assets/screenshots/diver/it/courses-expired.png)
 
 ## Dove lo trovi
 

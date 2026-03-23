@@ -14,7 +14,7 @@ Passi tipici:
 2. Seleziona una card/premio.
 3. Avvia l'ordine.
 
-![Elenco premi](/assets/screenshots/diver/it/awards.png)
+![Elenco premi](../../assets/screenshots/diver/it/awards.png)
 
 ## Ordine premio
 

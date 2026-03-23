@@ -12,7 +12,7 @@ Typical steps:
 2. Select a certification to view details.
 3. If available, open history to review progress and results.
 
-![Certifications list](/assets/screenshots/diver/en/certifications.png)
+![Certifications list](../../assets/screenshots/diver/en/certifications.png)
 
 ## Certification history
 

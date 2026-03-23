@@ -2,9 +2,9 @@
 
 ## Screenshot
 
-![Dashboard Diver](/assets/screenshots/diver/it/dashboard.png)
+![Dashboard Diver](../../assets/screenshots/diver/it/dashboard.png)
 
-![Libreria](/assets/screenshots/diver/it/library.png)
+![Libreria](../../assets/screenshots/diver/it/library.png)
 
 ## Scopo
 

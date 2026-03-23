@@ -23,7 +23,7 @@ Typical steps:
 1. Open the list.
 2. Select a free learning to open progress.
 
-![Free learnings](/assets/screenshots/diver/en/free-learnings-list.png)
+![Free learnings](../../assets/screenshots/diver/en/free-learnings-list.png)
 
 ## Progress
 Open a free learning item to see its progress and continue where you left off.

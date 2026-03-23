@@ -23,7 +23,7 @@ Passi tipici:
 1. Apri l'elenco.
 2. Seleziona un free learning per aprire il progress.
 
-![Free learnings](/assets/screenshots/diver/it/free-learnings-list.png)
+![Free learnings](../../assets/screenshots/diver/it/free-learnings-list.png)
 
 ## Progress
 

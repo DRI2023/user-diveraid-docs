@@ -8,7 +8,7 @@ Menu: **Diver -> Documents**
 
 This is where you find documents provided to you.
 
-![Personal documents](/assets/screenshots/diver/en/documents-personal.png)
+![Personal documents](../../assets/screenshots/diver/en/documents-personal.png)
 
 Typical steps:
 
@@ -20,7 +20,7 @@ Typical steps:
 
 This is where you find documents associated with your profile (typically uploaded/registered under your account).
 
-![Uploaded documents](/assets/screenshots/diver/en/documents-uploaded.png)
+![Uploaded documents](../../assets/screenshots/diver/en/documents-uploaded.png)
 
 Typical steps:
 

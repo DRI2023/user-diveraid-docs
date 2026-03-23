@@ -6,11 +6,11 @@ The **Diver** area is the part of the app dedicated to the diver (end user).
 
 ### Dashboard
 
-![Diver dashboard](/assets/screenshots/diver/en/dashboard.png)
+![Diver dashboard](../../assets/screenshots/diver/en/dashboard.png)
 
 ### Course list
 
-![Course list](/assets/screenshots/diver/en/courses-list.png)
+![Course list](../../assets/screenshots/diver/en/courses-list.png)
 
 ## Getting started
 

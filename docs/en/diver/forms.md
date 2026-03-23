@@ -8,7 +8,7 @@ Menu: **Diver -> Forms**
 
 This page lists available forms.
 
-![Forms](/assets/screenshots/diver/en/forms.png)
+![Forms](../../assets/screenshots/diver/en/forms.png)
 
 Typical steps:
 

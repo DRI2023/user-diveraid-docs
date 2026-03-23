@@ -2,9 +2,9 @@
 
 ## Screenshot
 
-![Course list](/assets/screenshots/diver/en/courses-list.png)
+![Course list](../../assets/screenshots/diver/en/courses-list.png)
 
-![Expired courses](/assets/screenshots/diver/en/courses-expired.png)
+![Expired courses](../../assets/screenshots/diver/en/courses-expired.png)
 
 ## Where to find it
 

@@ -12,7 +12,7 @@ Passi tipici:
 2. Seleziona una certificazione per vederne i dettagli.
 3. Se disponibile, apri lo storico per vedere progress e risultati.
 
-![Elenco certificazioni](/assets/screenshots/diver/it/certifications.png)
+![Elenco certificazioni](../../assets/screenshots/diver/it/certifications.png)
 
 ## Storico certificazione
 

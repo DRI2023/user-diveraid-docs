@@ -2,9 +2,9 @@
 
 ## Screenshot
 
-![Diver dashboard](/assets/screenshots/diver/en/dashboard.png)
+![Diver dashboard](../../assets/screenshots/diver/en/dashboard.png)
 
-![Library](/assets/screenshots/diver/en/library.png)
+![Library](../../assets/screenshots/diver/en/library.png)
 
 ## Purpose
 

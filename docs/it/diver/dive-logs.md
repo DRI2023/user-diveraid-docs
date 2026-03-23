@@ -6,7 +6,7 @@ Menu: **Diver -> Dive Logs**
 
 ## Elenco
 
-![Elenco dive log](/assets/screenshots/diver/it/dive-logs.png)
+![Elenco dive log](../../assets/screenshots/diver/it/dive-logs.png)
 
 ## Creazione
 
