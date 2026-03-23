@@ -1,4 +1,4 @@
-# DiverAid Docs (user-diveraid-docs)
+# DiveRaid Docs (user-diveraid-docs)
 
 Static, bilingual (IT/EN) user guide for `user.diveraid.com`.
 

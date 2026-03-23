@@ -1,4 +1,4 @@
-# DiverAid User Guide
+# DiveRaid User Guide
 
 This guide documents how to use `user.diveraid.com`.
 
