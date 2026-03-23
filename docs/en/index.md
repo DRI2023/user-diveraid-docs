@@ -10,13 +10,17 @@ Use the language selector in the header (IT/EN).
 
 ## URL structure
 
-Most "backend" pages live under a locale prefix `/{locale}` (e.g. `/it/...`, `/en/...`).
+Most pages (after login) include the language in the URL:
+
+```text
+https://user.diveraid.com/{locale}/...
+```
 
 Examples:
 
 ```text
-/it/diver/dashboard
-/en/diver/dashboard
+https://user.diveraid.com/it/diver/dashboard
+https://user.diveraid.com/en/diver/dashboard
 ```
 
 ## Status

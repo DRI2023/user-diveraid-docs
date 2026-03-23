@@ -27,10 +27,10 @@ Typical steps:
 <summary>For support (technical details)</summary>
 
 ```text
-GET /{locale}/diver/awards
-GET /{locale}/diver/awards/{card}/order
-GET /{locale}/diver/awards/order/success
-GET /{locale}/diver/awards/order/fail
+GET https://user.diveraid.com/{locale}/diver/awards
+GET https://user.diveraid.com/{locale}/diver/awards/{card}/order
+GET https://user.diveraid.com/{locale}/diver/awards/order/success
+GET https://user.diveraid.com/{locale}/diver/awards/order/fail
 ```
 
 </details>

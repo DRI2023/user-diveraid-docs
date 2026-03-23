@@ -23,7 +23,7 @@ Passi tipici:
 <summary>Per supporto (dettagli tecnici)</summary>
 
 ```text
-GET /{locale}/diver/forms/
+GET https://user.diveraid.com/{locale}/diver/forms/
 ```
 
 </details>

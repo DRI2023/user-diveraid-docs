@@ -49,21 +49,21 @@ Suggerimenti:
 Lista corsi:
 
 ```text
-GET /{locale}/diver/courses
-GET /{locale}/diver/courses/expired
+GET https://user.diveraid.com/{locale}/diver/courses
+GET https://user.diveraid.com/{locale}/diver/courses/expired
 ```
 
 Progress e tentativi:
 
 ```text
-GET /{locale}/diver/courses/progress/{log_code}
-GET /{locale}/diver/courses/progress/{log_code}/module/{module}
-GET /{locale}/diver/courses/progress/{log_code}/exam
-GET /{locale}/diver/courses/progress/{log_code}/skills
-GET /{locale}/diver/courses/progress/{log_code}/quiz/{quiz}
-GET /{locale}/diver/courses/progress/{log_code}/exam/{exam}
-GET /{locale}/diver/courses/progress/{log_code}/skill
-GET /{locale}/diver/courses/progress/{log_code}/skill/sign
+GET https://user.diveraid.com/{locale}/diver/courses/progress/{log_code}
+GET https://user.diveraid.com/{locale}/diver/courses/progress/{log_code}/module/{module}
+GET https://user.diveraid.com/{locale}/diver/courses/progress/{log_code}/exam
+GET https://user.diveraid.com/{locale}/diver/courses/progress/{log_code}/skills
+GET https://user.diveraid.com/{locale}/diver/courses/progress/{log_code}/quiz/{quiz}
+GET https://user.diveraid.com/{locale}/diver/courses/progress/{log_code}/exam/{exam}
+GET https://user.diveraid.com/{locale}/diver/courses/progress/{log_code}/skill
+GET https://user.diveraid.com/{locale}/diver/courses/progress/{log_code}/skill/sign
 ```
 
 </details>

@@ -37,11 +37,11 @@ Open a free learning item to see its progress and continue where you left off.
 <summary>For support (technical details)</summary>
 
 ```text
-GET /{locale}/diver/free-learnings/enroll
-GET /{locale}/diver/free-learnings
-GET /{locale}/diver/free-learnings/progress/{log_code}/
-GET /{locale}/diver/free-learnings/progress/{log_code}/module/{module}
-GET /{locale}/diver/free-learnings/progress/{log_code}/quiz/{quiz}
+GET https://user.diveraid.com/{locale}/diver/free-learnings/enroll
+GET https://user.diveraid.com/{locale}/diver/free-learnings
+GET https://user.diveraid.com/{locale}/diver/free-learnings/progress/{log_code}/
+GET https://user.diveraid.com/{locale}/diver/free-learnings/progress/{log_code}/module/{module}
+GET https://user.diveraid.com/{locale}/diver/free-learnings/progress/{log_code}/quiz/{quiz}
 ```
 
 </details>
