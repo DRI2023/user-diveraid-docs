@@ -27,11 +27,11 @@ Passi tipici:
 <summary>Per supporto (dettagli tecnici)</summary>
 
 ```text
-GET https://user.diveraid.com/{locale}/diver/dive_log
-GET https://user.diveraid.com/{locale}/diver/dive_log/new
-GET https://user.diveraid.com/{locale}/diver/dive_log/new_log/{skillLog?}/{skill?}
-GET https://user.diveraid.com/{locale}/diver/dive_log/view/{diveLog}
-GET https://user.diveraid.com/{locale}/diver/dive_log/update/{diveLog}
+GET https://user.diveraid.com/it/diver/dive_log
+GET https://user.diveraid.com/it/diver/dive_log/new
+GET https://user.diveraid.com/it/diver/dive_log/new_log/{skillLog?}/{skill?}
+GET https://user.diveraid.com/it/diver/dive_log/view/{diveLog}
+GET https://user.diveraid.com/it/diver/dive_log/update/{diveLog}
 ```
 
 </details>

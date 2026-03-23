@@ -37,8 +37,8 @@ Passi tipici:
 <summary>Per supporto (dettagli tecnici)</summary>
 
 ```text
-GET https://user.diveraid.com/{locale}/diver/my-documents
-GET https://user.diveraid.com/{locale}/diver/documents
+GET https://user.diveraid.com/it/diver/my-documents
+GET https://user.diveraid.com/it/diver/documents
 ```
 
 </details>

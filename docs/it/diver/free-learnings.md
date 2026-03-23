@@ -38,11 +38,11 @@ Apri un free learning per vedere il progress e continuare da dove eri rimasto.
 <summary>Per supporto (dettagli tecnici)</summary>
 
 ```text
-GET https://user.diveraid.com/{locale}/diver/free-learnings/enroll
-GET https://user.diveraid.com/{locale}/diver/free-learnings
-GET https://user.diveraid.com/{locale}/diver/free-learnings/progress/{log_code}/
-GET https://user.diveraid.com/{locale}/diver/free-learnings/progress/{log_code}/module/{module}
-GET https://user.diveraid.com/{locale}/diver/free-learnings/progress/{log_code}/quiz/{quiz}
+GET https://user.diveraid.com/it/diver/free-learnings/enroll
+GET https://user.diveraid.com/it/diver/free-learnings
+GET https://user.diveraid.com/it/diver/free-learnings/progress/{log_code}/
+GET https://user.diveraid.com/it/diver/free-learnings/progress/{log_code}/module/{module}
+GET https://user.diveraid.com/it/diver/free-learnings/progress/{log_code}/quiz/{quiz}
 ```
 
 </details>

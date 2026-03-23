@@ -34,11 +34,11 @@ Passi tipici:
 <summary>Per supporto (dettagli tecnici)</summary>
 
 ```text
-GET https://user.diveraid.com/{locale}/diver/store
-GET https://user.diveraid.com/{locale}/diver/store/course/{course}/checkout
-GET https://user.diveraid.com/{locale}/diver/store/course/{course}/order
-GET https://user.diveraid.com/{locale}/diver/store/course/success
-GET https://user.diveraid.com/{locale}/diver/store/course/fail
+GET https://user.diveraid.com/it/diver/store
+GET https://user.diveraid.com/it/diver/store/course/{course}/checkout
+GET https://user.diveraid.com/it/diver/store/course/{course}/order
+GET https://user.diveraid.com/it/diver/store/course/success
+GET https://user.diveraid.com/it/diver/store/course/fail
 ```
 
 </details>

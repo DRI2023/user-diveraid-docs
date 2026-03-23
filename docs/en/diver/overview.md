@@ -52,22 +52,23 @@ Main pages:
 Diver pages use a language prefix in the URL:
 
 ```text
-https://user.diveraid.com/{locale}/diver/...
+GET https://user.diveraid.com/it/diver/...
+GET https://user.diveraid.com/en/diver/...
 ```
 
 Examples:
 
 ```text
-https://user.diveraid.com/it/diver/dashboard
-https://user.diveraid.com/en/diver/dashboard
+GET https://user.diveraid.com/it/diver/dashboard
+GET https://user.diveraid.com/en/diver/dashboard
 ```
 
 There are also signed links (typically from emails) that redirect:
 
 ```text
-https://user.diveraid.com/actions/diver/certifications
-https://user.diveraid.com/actions/diver/awards
-https://user.diveraid.com/actions/diver/progress/{log_code}
+GET https://user.diveraid.com/actions/diver/certifications
+GET https://user.diveraid.com/actions/diver/awards
+GET https://user.diveraid.com/actions/diver/progress/{log_code}
 ```
 
 </details>

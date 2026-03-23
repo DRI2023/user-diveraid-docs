@@ -27,11 +27,11 @@ Typical steps:
 <summary>For support (technical details)</summary>
 
 ```text
-GET https://user.diveraid.com/{locale}/diver/dive_log
-GET https://user.diveraid.com/{locale}/diver/dive_log/new
-GET https://user.diveraid.com/{locale}/diver/dive_log/new_log/{skillLog?}/{skill?}
-GET https://user.diveraid.com/{locale}/diver/dive_log/view/{diveLog}
-GET https://user.diveraid.com/{locale}/diver/dive_log/update/{diveLog}
+GET https://user.diveraid.com/en/diver/dive_log
+GET https://user.diveraid.com/en/diver/dive_log/new
+GET https://user.diveraid.com/en/diver/dive_log/new_log/{skillLog?}/{skill?}
+GET https://user.diveraid.com/en/diver/dive_log/view/{diveLog}
+GET https://user.diveraid.com/en/diver/dive_log/update/{diveLog}
 ```
 
 </details>

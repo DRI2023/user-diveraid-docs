@@ -49,21 +49,21 @@ Tips:
 Course list:
 
 ```text
-GET https://user.diveraid.com/{locale}/diver/courses
-GET https://user.diveraid.com/{locale}/diver/courses/expired
+GET https://user.diveraid.com/en/diver/courses
+GET https://user.diveraid.com/en/diver/courses/expired
 ```
 
 Progress and attempts:
 
 ```text
-GET https://user.diveraid.com/{locale}/diver/courses/progress/{log_code}
-GET https://user.diveraid.com/{locale}/diver/courses/progress/{log_code}/module/{module}
-GET https://user.diveraid.com/{locale}/diver/courses/progress/{log_code}/exam
-GET https://user.diveraid.com/{locale}/diver/courses/progress/{log_code}/skills
-GET https://user.diveraid.com/{locale}/diver/courses/progress/{log_code}/quiz/{quiz}
-GET https://user.diveraid.com/{locale}/diver/courses/progress/{log_code}/exam/{exam}
-GET https://user.diveraid.com/{locale}/diver/courses/progress/{log_code}/skill
-GET https://user.diveraid.com/{locale}/diver/courses/progress/{log_code}/skill/sign
+GET https://user.diveraid.com/en/diver/courses/progress/{log_code}
+GET https://user.diveraid.com/en/diver/courses/progress/{log_code}/module/{module}
+GET https://user.diveraid.com/en/diver/courses/progress/{log_code}/exam
+GET https://user.diveraid.com/en/diver/courses/progress/{log_code}/skills
+GET https://user.diveraid.com/en/diver/courses/progress/{log_code}/quiz/{quiz}
+GET https://user.diveraid.com/en/diver/courses/progress/{log_code}/exam/{exam}
+GET https://user.diveraid.com/en/diver/courses/progress/{log_code}/skill
+GET https://user.diveraid.com/en/diver/courses/progress/{log_code}/skill/sign
 ```
 
 </details>

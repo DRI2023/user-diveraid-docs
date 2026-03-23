@@ -37,8 +37,8 @@ Typical steps:
 <summary>For support (technical details)</summary>
 
 ```text
-GET https://user.diveraid.com/{locale}/diver/my-documents
-GET https://user.diveraid.com/{locale}/diver/documents
+GET https://user.diveraid.com/en/diver/my-documents
+GET https://user.diveraid.com/en/diver/documents
 ```
 
 </details>

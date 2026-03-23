@@ -34,7 +34,7 @@ La home applicativa (`/`) reindirizza al login.
 <summary>Per supporto (dettagli tecnici)</summary>
 
 ```text
-GET https://user.diveraid.com/{locale}/diver/dashboard
+GET https://user.diveraid.com/it/diver/dashboard
 ```
 
 </details>

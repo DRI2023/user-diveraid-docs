@@ -25,11 +25,11 @@ Typical steps:
 <summary>For support (technical details)</summary>
 
 ```text
-GET https://user.diveraid.com/{locale}/diver/certifications
-GET https://user.diveraid.com/{locale}/diver/certifications/history/{certification}
-GET https://user.diveraid.com/{locale}/diver/certifications/history/{certification}/quiz/{quiz}
-GET https://user.diveraid.com/{locale}/diver/certifications/history/{certification}/exam/{exam}
-GET https://user.diveraid.com/{locale}/diver/certifications/history/{certification}/skills
+GET https://user.diveraid.com/en/diver/certifications
+GET https://user.diveraid.com/en/diver/certifications/history/{certification}
+GET https://user.diveraid.com/en/diver/certifications/history/{certification}/quiz/{quiz}
+GET https://user.diveraid.com/en/diver/certifications/history/{certification}/exam/{exam}
+GET https://user.diveraid.com/en/diver/certifications/history/{certification}/skills
 ```
 
 </details>

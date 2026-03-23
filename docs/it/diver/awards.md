@@ -27,10 +27,10 @@ Passi tipici:
 <summary>Per supporto (dettagli tecnici)</summary>
 
 ```text
-GET https://user.diveraid.com/{locale}/diver/awards
-GET https://user.diveraid.com/{locale}/diver/awards/{card}/order
-GET https://user.diveraid.com/{locale}/diver/awards/order/success
-GET https://user.diveraid.com/{locale}/diver/awards/order/fail
+GET https://user.diveraid.com/it/diver/awards
+GET https://user.diveraid.com/it/diver/awards/{card}/order
+GET https://user.diveraid.com/it/diver/awards/order/success
+GET https://user.diveraid.com/it/diver/awards/order/fail
 ```
 
 </details>

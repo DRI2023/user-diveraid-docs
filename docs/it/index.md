@@ -13,7 +13,8 @@ Puoi cambiare lingua dal selettore in alto (IT/EN).
 La maggior parte delle pagine (dopo login) include la lingua nell'URL:
 
 ```text
-https://user.diveraid.com/{locale}/...
+https://user.diveraid.com/it/...
+https://user.diveraid.com/en/...
 ```
 
 Esempi:

@@ -25,11 +25,11 @@ Passi tipici:
 <summary>Per supporto (dettagli tecnici)</summary>
 
 ```text
-GET https://user.diveraid.com/{locale}/diver/certifications
-GET https://user.diveraid.com/{locale}/diver/certifications/history/{certification}
-GET https://user.diveraid.com/{locale}/diver/certifications/history/{certification}/quiz/{quiz}
-GET https://user.diveraid.com/{locale}/diver/certifications/history/{certification}/exam/{exam}
-GET https://user.diveraid.com/{locale}/diver/certifications/history/{certification}/skills
+GET https://user.diveraid.com/it/diver/certifications
+GET https://user.diveraid.com/it/diver/certifications/history/{certification}
+GET https://user.diveraid.com/it/diver/certifications/history/{certification}/quiz/{quiz}
+GET https://user.diveraid.com/it/diver/certifications/history/{certification}/exam/{exam}
+GET https://user.diveraid.com/it/diver/certifications/history/{certification}/skills
 ```
 
 </details>
