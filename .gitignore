@@ -1,0 +1,9 @@
+site/
+.venv/
+__pycache__/
+.DS_Store
+node_modules/
+.idea/
+playwright.auth.json
+playwright-report/
+test-results/

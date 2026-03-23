@@ -1,0 +1,43 @@
+site_name: DiverAid User Guide
+site_description: User-facing documentation for user.diveraid.com (Diver first)
+site_dir: site
+
+theme:
+  name: material
+  language: en
+  palette:
+    - scheme: default
+      primary: teal
+      accent: amber
+  features:
+    - navigation.tracking
+    - navigation.top
+    - navigation.expand
+    - content.code.copy
+
+plugins:
+  - search
+  - i18n:
+      docs_structure: folder
+      languages:
+        - locale: it
+          name: Italiano
+          default: true
+          build: true
+        - locale: en
+          name: English
+          build: true
+
+nav:
+  - Home: index.md
+  - Diver:
+      - Overview: diver/overview.md
+      - Dashboard: diver/dashboard.md
+      - Documents: diver/documents.md
+      - Courses: diver/courses.md
+      - Free Learnings: diver/free-learnings.md
+      - Certifications: diver/certifications.md
+      - Awards: diver/awards.md
+      - Dive Logs: diver/dive-logs.md
+      - Store: diver/store.md
+      - Forms: diver/forms.md
