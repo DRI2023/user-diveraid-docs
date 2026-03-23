@@ -52,14 +52,12 @@ Main pages:
 Diver pages use a language prefix in the URL:
 
 ```text
-GET https://user.diveraid.com/it/diver/...
 GET https://user.diveraid.com/en/diver/...
 ```
 
 Examples:
 
 ```text
-GET https://user.diveraid.com/it/diver/dashboard
 GET https://user.diveraid.com/en/diver/dashboard
 ```
 

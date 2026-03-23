@@ -53,14 +53,12 @@ Le pagine Diver usano un prefisso lingua nell'URL:
 
 ```text
 GET https://user.diveraid.com/it/diver/...
-GET https://user.diveraid.com/en/diver/...
 ```
 
 Esempi:
 
 ```text
 GET https://user.diveraid.com/it/diver/dashboard
-GET https://user.diveraid.com/en/diver/dashboard
 ```
 
 Esistono anche link firmati (tipicamente da email) che reindirizzano:

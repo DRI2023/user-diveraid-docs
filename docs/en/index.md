@@ -13,14 +13,12 @@ Use the language selector in the header (IT/EN).
 Most pages (after login) include the language in the URL:
 
 ```text
-https://user.diveraid.com/it/...
 https://user.diveraid.com/en/...
 ```
 
 Examples:
 
 ```text
-https://user.diveraid.com/it/diver/dashboard
 https://user.diveraid.com/en/diver/dashboard
 ```
 

@@ -14,14 +14,12 @@ La maggior parte delle pagine (dopo login) include la lingua nell'URL:
 
 ```text
 https://user.diveraid.com/it/...
-https://user.diveraid.com/en/...
 ```
 
 Esempi:
 
 ```text
 https://user.diveraid.com/it/diver/dashboard
-https://user.diveraid.com/en/diver/dashboard
 ```
 
 ## Stato
