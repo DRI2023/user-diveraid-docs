@@ -25,6 +25,20 @@ const outRoot = path.join(docsRoot, "assets", "screenshots", "diver");
 const baseUrl = (process.env.DIVER_AID_BASE_URL || "http://127.0.0.1:8001").replace(/\/+$/, "");
 const storageStatePath = process.env.PLAYWRIGHT_STORAGE_STATE;
 
+async function hideDebugbar(page) {
+  // Hide Laravel Debugbar (phpdebugbar) so screenshots are clean.
+  await page.addStyleTag({
+    content: `
+      #phpdebugbar-container,
+      .phpdebugbar-openhandler,
+      .phpdebugbar-openhandler * {
+        display: none !important;
+        visibility: hidden !important;
+      }
+    `
+  });
+}
+
 function ensureDir(p) {
   fs.mkdirSync(p, { recursive: true });
 }
@@ -36,6 +50,30 @@ function outPath(locale, filename) {
 // Diver docs set. Extend later (professional/dive-center/distributor).
 const targets = [
   { key: "dashboard", file: "dashboard.png", pathByLocale: (l) => `/${l}/diver/dashboard` },
+  // Account dropdown menu (opened by clicking the profile photo/options icon).
+  {
+    key: "profile-menu",
+    file: "profile-menu.png",
+    pathByLocale: (l) => `/${l}/diver/dashboard`,
+    beforeScreenshot: async (page) => {
+      await page.locator("#options-menu").nth(1).click();
+      await page.waitForTimeout(500);
+    }
+  },
+  // Profile screenshot: navigates from dashboard by clicking the "My Profile" entry.
+  // Uses a regex to work across EN/IT labels (e.g. "My Profile", "Il mio profilo").
+  {
+    key: "profile",
+    file: "profile.png",
+    pathByLocale: (l) => `/${l}/diver/dashboard`,
+    beforeScreenshot: async (page) => {
+      // Open the account/options menu, then go to profile.
+      await page.locator("#options-menu").nth(1).click();
+      await page.getByRole("link", { name: /profile/i }).first().click();
+      await page.waitForLoadState("load");
+      await page.waitForTimeout(800);
+    }
+  },
   { key: "library", file: "library.png", pathByLocale: (l) => `/${l}/diver/library` },
 
   { key: "documents-personal", file: "documents-personal.png", pathByLocale: (l) => `/${l}/diver/my-documents` },
@@ -76,6 +114,11 @@ try {
       try {
         // `networkidle` is fragile with Livewire/polling. Use `load` and a small settle delay.
         await page.goto(url, { waitUntil: "load", timeout: 60_000 });
+        await hideDebugbar(page);
+        if (t.beforeScreenshot) {
+          await t.beforeScreenshot(page, locale);
+        }
+        await hideDebugbar(page);
         await page.waitForTimeout(800);
         await page.screenshot({ path: dest, fullPage: true });
         // eslint-disable-next-line no-console
