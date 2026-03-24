@@ -1,26 +1,47 @@
-# DiveRaid User Guide
+# Welcome to the DiveRaid User Guide
 
-This guide documents how to use `user.diveraid.com`.
+This guide helps you use `user.diveraid.com` to manage documents, courses, certifications, dive logs, and purchases.
 
 By design, documentation lives in a separate repository (`user-diveraid-docs`) and does not modify the Laravel application.
+
+## Main sections
+
+- [Dashboard](diver/dashboard.md)
+- [Documents](diver/documents.md)
+- [Courses](diver/courses.md)
+- [Certifications](diver/certifications.md)
+- [Awards](diver/awards.md)
+- [Dive Logs](diver/dive-logs.md)
+- [Store](diver/store.md)
+- [Forms](diver/forms.md)
+
+## Where to start
+
+1. **Portal access:** open **Diver -> Dashboard** and verify you are not blocked (for example, email not verified).
+2. **Profile setup:** upload your files in **Documents** (personal documents and uploaded documents).
+3. **Review certifications:** go to **Certifications** and open a card or your history.
+4. **Add a dive log:** go to **Dive Logs**, create a new log, then review/edit it.
 
 ## Languages
 
 Use the language selector in the header (IT/EN).
 
-## URL structure
+<details>
+<summary>For support (technical details)</summary>
 
-Most pages (after login) include the language in the URL:
+URL structure (after login):
 
 ```text
 https://user.diveraid.com/en/...
 ```
 
-Examples:
+Example:
 
 ```text
-https://user.diveraid.com/en/diver/dashboard
+GET https://user.diveraid.com/en/diver/dashboard
 ```
+
+</details>
 
 ## Status
 
