@@ -15,6 +15,15 @@ theme:
     - navigation.expand
     - content.code.copy
 
+extra_css:
+  - assets/styles/nav-fa.css
+
+# FontAwesome (same icon set used by the Laravel app) + sidebar icon injection.
+# IMPORTANT: this hotlinks the assets from your app domain; update the URL if needed.
+extra_javascript:
+  - https://user.diveraid.com/vendor/fontawesome/icons/js/all.min.js
+  - assets/scripts/nav-fa.js
+
 plugins:
   - search
   - i18n:
@@ -24,20 +33,110 @@ plugins:
           name: Italiano
           default: true
           build: true
+          nav_translations:
+            Home: Home
+            Diver: Diver
+            Overview: Panoramica
+            Dashboard: Dashboard
+            Documents: I miei documenti
+            Courses: I miei corsi
+            Free Learnings: Negozio FREE-Learning
+            Certifications: Le mie certificazioni
+            Awards: I miei awards
+            Dive Logs: Il mio Dive Log
+            Store: Negozio
+            Forms: Moduli Raid
         - locale: en
           name: English
           build: true
+          nav_translations:
+            Home: Home
+            Diver: Diver
+            Overview: Overview
+            Dashboard: Dashboard
+            Documents: Documents
+            Courses: Courses
+            Free Learnings: FREE-Learning shop
+            Certifications: Certifications
+            Awards: Awards
+            Dive Logs: Dive Logs
+            Store: Store
+            Forms: Raid Forms
+        - locale: de
+          name: Deutsch
+          build: true
+          nav_translations:
+            Home: Start
+            Diver: Diver
+            Overview: Uebersicht
+            Dashboard: Dashboard
+            Documents: Meine Dokumente
+            Courses: Meine Kurse
+            Free Learnings: FREE-Learning Shop
+            Certifications: Meine Zertifizierungen
+            Awards: Awards
+            Dive Logs: Mein Tauchlogbuch
+            Store: Laden
+            Forms: Ueberfallformulare
+        - locale: fr
+          name: Francais
+          build: true
+          nav_translations:
+            Home: Accueil
+            Diver: Diver
+            Overview: Apercu
+            Dashboard: Tableau de bord
+            Documents: Mes documents
+            Courses: Mes cours
+            Free Learnings: Boutique FREE-Learning
+            Certifications: Mes certifications
+            Awards: Awards
+            Dive Logs: Mon carnet de plongee
+            Store: Boutique
+            Forms: Formulaires Raid
+        - locale: es
+          name: Espanol
+          build: true
+          nav_translations:
+            Home: Inicio
+            Diver: Diver
+            Overview: Resumen
+            Dashboard: Cuadro de mandos
+            Documents: Mis documentos
+            Courses: Mis cursos
+            Free Learnings: Tienda FREE-Learning
+            Certifications: Mis certificaciones
+            Awards: Awards
+            Dive Logs: Mi diario de inmersiones
+            Store: Tienda
+            Forms: Formularios
+        - locale: nl
+          name: Nederlands
+          build: true
+          nav_translations:
+            Home: Home
+            Diver: Diver
+            Overview: Overzicht
+            Dashboard: Dashboard
+            Documents: Mijn Documenten
+            Courses: Mijn Cursussen
+            Free Learnings: FREE-Learning winkel
+            Certifications: Mijn Certificeringen
+            Awards: Awards
+            Dive Logs: Mijn Duiklogboek
+            Store: Winkel
+            Forms: Raid Formulieren
 
 nav:
   - Home: index.md
   - Diver:
       - Overview: diver/overview.md
       - Dashboard: diver/dashboard.md
-      - Documents: diver/documents.md
       - Courses: diver/courses.md
-      - Free Learnings: diver/free-learnings.md
       - Certifications: diver/certifications.md
       - Awards: diver/awards.md
       - Dive Logs: diver/dive-logs.md
+      - Documents: diver/documents.md
+      - Free Learnings: diver/free-learnings.md
       - Store: diver/store.md
       - Forms: diver/forms.md

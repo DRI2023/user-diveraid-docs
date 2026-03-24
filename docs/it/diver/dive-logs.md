@@ -2,7 +2,7 @@
 
 ## Dove lo trovi
 
-Menu: **Diver -> Dive Logs**
+Menu: **Il mio Dive Log**
 
 ## Elenco
 

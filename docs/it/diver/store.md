@@ -4,7 +4,7 @@ Lo store Diver e' usato tipicamente per acquistare corsi.
 
 ## Dove lo trovi
 
-Menu: **Diver -> Store**
+Menu: **Negozio**
 
 ## Home store
 

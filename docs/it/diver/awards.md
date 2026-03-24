@@ -4,7 +4,7 @@ I "premi" includono tipicamente card/riconoscimenti e relativo flusso ordine.
 
 ## Dove lo trovi
 
-Menu: **Diver -> Awards**
+Menu: **I miei awards**
 
 ## Elenco premi
 

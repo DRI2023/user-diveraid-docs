@@ -8,7 +8,7 @@
 
 ## Dove lo trovi
 
-Menu: **Diver -> Courses**
+Menu: **I miei corsi**
 
 ## Cosa puoi fare
 

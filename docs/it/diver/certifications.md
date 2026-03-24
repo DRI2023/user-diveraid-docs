@@ -2,7 +2,7 @@
 
 ## Dove lo trovi
 
-Menu: **Diver -> Certifications**
+Menu: **Le mie certificazioni**
 
 ## Elenco certificazioni
 

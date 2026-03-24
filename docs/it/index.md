@@ -2,29 +2,28 @@
 
 Questa guida ti aiuta a usare `user.diveraid.com` per gestire documenti, corsi, certificazioni, log immersioni e acquisti.
 
-Per scelta progettuale, la guida vive in un repository separato (`user-diveraid-docs`) e non modifica il progetto Laravel.
-
 ## Sezioni principali
 
 - [Dashboard](diver/dashboard.md)
-- [Documents](diver/documents.md)
-- [Courses](diver/courses.md)
-- [Certifications](diver/certifications.md)
-- [Awards](diver/awards.md)
-- [Dive Logs](diver/dive-logs.md)
-- [Store](diver/store.md)
-- [Forms](diver/forms.md)
+- [I miei corsi](diver/courses.md)
+- [Le mie certificazioni](diver/certifications.md)
+- [I miei awards](diver/awards.md)
+- [Il mio Dive Log](diver/dive-logs.md)
+- [I miei documenti / Documenti caricati](diver/documents.md)
+- [Negozio FREE-Learning](diver/free-learnings.md)
+- [Negozio](diver/store.md)
+- [Moduli Raid](diver/forms.md)
 
 ## Da dove iniziare
 
 1. **Accesso al portale:** entra in **Diver -> Dashboard** e verifica che non ci siano blocchi (es. email non verificata).
-2. **Impostazione del profilo:** carica i tuoi file in **Documents** (documenti personali e documenti caricati).
-3. **Consultazione certificazioni:** vai su **Certifications** e apri una card o lo storico.
-4. **Inserimento log immersioni:** vai su **Dive Logs**, crea un nuovo log e poi rivedilo/modificalo.
+2. **Impostazione del profilo:** carica i tuoi file in **I miei documenti / Documenti caricati**.
+3. **Consultazione certificazioni:** vai su **Le mie certificazioni** e apri una card o lo storico.
+4. **Inserimento log immersioni:** vai su **Il mio Dive Log**, crea un nuovo log e poi rivedilo/modificalo.
 
 ## Lingue
 
-Puoi cambiare lingua dal selettore in alto (IT/EN).
+Puoi cambiare lingua dal selettore in alto (IT/EN/DE/FR/ES/NL).
 
 <details>
 <summary>Per supporto (dettagli tecnici)</summary>

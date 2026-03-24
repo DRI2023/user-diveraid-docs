@@ -2,7 +2,10 @@
 
 ## Dove lo trovi
 
-Menu: **Diver -> Documents**
+Menu:
+
+- **Documenti caricati**
+- **I miei documenti**
 
 ## Documenti personali
 

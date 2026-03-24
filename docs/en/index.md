@@ -2,16 +2,15 @@
 
 This guide helps you use `user.diveraid.com` to manage documents, courses, certifications, dive logs, and purchases.
 
-By design, documentation lives in a separate repository (`user-diveraid-docs`) and does not modify the Laravel application.
-
 ## Main sections
 
 - [Dashboard](diver/dashboard.md)
-- [Documents](diver/documents.md)
 - [Courses](diver/courses.md)
 - [Certifications](diver/certifications.md)
 - [Awards](diver/awards.md)
 - [Dive Logs](diver/dive-logs.md)
+- [Documents](diver/documents.md)
+- [FREE-Learning shop](diver/free-learnings.md)
 - [Store](diver/store.md)
 - [Forms](diver/forms.md)
 
@@ -24,7 +23,7 @@ By design, documentation lives in a separate repository (`user-diveraid-docs`) a
 
 ## Languages
 
-Use the language selector in the header (IT/EN).
+Use the language selector in the header (IT/EN/DE/FR/ES/NL).
 
 <details>
 <summary>For support (technical details)</summary>

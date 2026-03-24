@@ -6,7 +6,7 @@ I free learning sono contenuti formativi accessibili con un flusso semplificato 
 
 ## Dove lo trovi
 
-Menu: **Diver -> Free Learnings**
+Menu: **Negozio FREE-Learning**
 
 ## Iscrizione
 
