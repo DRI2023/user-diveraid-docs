@@ -16,6 +16,7 @@ theme:
     - content.code.copy
 
 extra_css:
+  - assets/styles/nav-icons.css
   - assets/styles/nav-fa.css
 
 # FontAwesome (same icon set used by the Laravel app) + sidebar icon injection.

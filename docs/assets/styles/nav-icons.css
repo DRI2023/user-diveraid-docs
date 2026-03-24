@@ -1,0 +1,104 @@
+:root {
+  --dra-nav-icon-size: 1.1rem;
+  --dra-nav-icon-gap: 0.55rem;
+}
+
+/* Add icons to the left-side navigation based on target URL.
+   This avoids relying on markdown/emoji rendering in nav labels. */
+.md-nav__link {
+  /* Keep MkDocs Material default layout; don't force flex here. */
+}
+
+html:not(.dra-fa-ready) .md-nav__link::before {
+  content: "";
+  display: none; /* only show when we match a known target */
+  width: var(--dra-nav-icon-size);
+  height: var(--dra-nav-icon-size);
+  margin-right: var(--dra-nav-icon-gap);
+  background-color: currentColor;
+  vertical-align: -0.2em;
+  mask-repeat: no-repeat;
+  mask-position: center;
+  mask-size: contain;
+  -webkit-mask-repeat: no-repeat;
+  -webkit-mask-position: center;
+  -webkit-mask-size: contain;
+}
+
+/* Home is locale-dependent: /, /en/, /de/, ... */
+html:not(.dra-fa-ready) .md-nav__link[href="/"]::before,
+html:not(.dra-fa-ready) .md-nav__link[href="."]::before,
+html:not(.dra-fa-ready) .md-nav__link[href="./"]::before,
+html:not(.dra-fa-ready) .md-nav__link[href="../"]::before,
+html:not(.dra-fa-ready) .md-nav__link[href="../../"]::before,
+html:not(.dra-fa-ready) .md-nav__link[href="/it/"]::before,
+html:not(.dra-fa-ready) .md-nav__link[href="/en/"]::before,
+html:not(.dra-fa-ready) .md-nav__link[href="/de/"]::before,
+html:not(.dra-fa-ready) .md-nav__link[href="/fr/"]::before,
+html:not(.dra-fa-ready) .md-nav__link[href="/es/"]::before,
+html:not(.dra-fa-ready) .md-nav__link[href="/nl/"]::before {
+  display: inline-block;
+  mask-image: url("../icons/home.svg");
+  -webkit-mask-image: url("../icons/home.svg");
+}
+
+html:not(.dra-fa-ready) .md-nav__link[href*="diver/overview"]::before {
+  display: inline-block;
+  mask-image: url("../icons/info.svg");
+  -webkit-mask-image: url("../icons/info.svg");
+}
+
+html:not(.dra-fa-ready) .md-nav__link[href*="diver/dashboard"]::before {
+  display: inline-block;
+  mask-image: url("../icons/dashboard.svg");
+  -webkit-mask-image: url("../icons/dashboard.svg");
+}
+
+html:not(.dra-fa-ready) .md-nav__link[href*="diver/courses"]::before {
+  display: inline-block;
+  mask-image: url("../icons/users.svg");
+  -webkit-mask-image: url("../icons/users.svg");
+}
+
+html:not(.dra-fa-ready) .md-nav__link[href*="diver/certifications"]::before {
+  display: inline-block;
+  mask-image: url("../icons/id-card.svg");
+  -webkit-mask-image: url("../icons/id-card.svg");
+}
+
+html:not(.dra-fa-ready) .md-nav__link[href*="diver/documents"]::before {
+  display: inline-block;
+  mask-image: url("../icons/folder.svg");
+  -webkit-mask-image: url("../icons/folder.svg");
+}
+
+html:not(.dra-fa-ready) .md-nav__link[href*="diver/free-learnings"]::before {
+  display: inline-block;
+  mask-image: url("../icons/leaf.svg");
+  -webkit-mask-image: url("../icons/leaf.svg");
+}
+
+html:not(.dra-fa-ready) .md-nav__link[href*="diver/store"]::before {
+  display: inline-block;
+  mask-image: url("../icons/cart.svg");
+  -webkit-mask-image: url("../icons/cart.svg");
+}
+
+html:not(.dra-fa-ready) .md-nav__link[href*="diver/forms"]::before {
+  display: inline-block;
+  mask-image: url("../icons/form.svg");
+  -webkit-mask-image: url("../icons/form.svg");
+}
+
+html:not(.dra-fa-ready) .md-nav__link[href*="diver/dive-logs"]::before,
+html:not(.dra-fa-ready) .md-nav__link[href*="diver/dive_log"]::before {
+  display: inline-block;
+  mask-image: url("../icons/anchor.svg");
+  -webkit-mask-image: url("../icons/anchor.svg");
+}
+
+html:not(.dra-fa-ready) .md-nav__link[href*="diver/awards"]::before {
+  display: inline-block;
+  mask-image: url("../icons/trophy.svg");
+  -webkit-mask-image: url("../icons/trophy.svg");
+}
