@@ -33,6 +33,7 @@ plugins:
       languages:
         - locale: en
           name: English
+          site_name: DiveRaid User Guide
           default: true
           build: true
           nav_translations:
@@ -50,6 +51,7 @@ plugins:
             Forms: Raid Forms
         - locale: it
           name: Italiano
+          site_name: DiveRaid Guida utente
           build: true
           nav_translations:
             Home: Home
@@ -66,6 +68,7 @@ plugins:
             Forms: Moduli Raid
         - locale: de
           name: Deutsch
+          site_name: DiveRaid Benutzerhandbuch
           build: true
           nav_translations:
             Home: Start
@@ -82,6 +85,7 @@ plugins:
             Forms: Ueberfallformulare
         - locale: fr
           name: Francais
+          site_name: DiveRaid Guide utilisateur
           build: true
           nav_translations:
             Home: Accueil
@@ -98,6 +102,7 @@ plugins:
             Forms: Formulaires Raid
         - locale: es
           name: Espanol
+          site_name: DiveRaid Guia de usuario
           build: true
           nav_translations:
             Home: Inicio
@@ -114,6 +119,7 @@ plugins:
             Forms: Formularios
         - locale: nl
           name: Nederlands
+          site_name: DiveRaid Gebruikershandleiding
           build: true
           nav_translations:
             Home: Home
@@ -130,6 +136,7 @@ plugins:
             Forms: Raid Formulieren
         - locale: zh
           name: 简体中文
+          site_name: DiveRaid 用户指南
           build: true
           nav_translations:
             Home: 主页
@@ -144,6 +151,42 @@ plugins:
             Dive Logs: 我的潜水日志
             Store: 线上商店
             Forms: 表格工具
+
+        - locale: ko
+          name: 한국어
+          site_name: DiveRaid 사용자 가이드
+          build: true
+          nav_translations:
+            Home: 홈
+            Diver: 다이버
+            Overview: 개요
+            Dashboard: 대시보드
+            Documents: 내 문서
+            Courses: 내 코스
+            Free Learnings: 무료 학습 상점
+            Certifications: 내 인증
+            Awards: My Library
+            Dive Logs: 내 다이빙 로그
+            Store: 스토어
+            Forms: 레이드 양식
+
+        - locale: tr
+          name: Türkçe
+          site_name: DiveRaid Kullanıcı Kılavuzu
+          build: true
+          nav_translations:
+            Home: Ana sayfa
+            Diver: Dalgıç
+            Overview: Genel Bakış
+            Dashboard: Gösterge Tablosu
+            Documents: Belgelerim
+            Courses: Kurslarım
+            Free Learnings: FREe-Learning mağazası
+            Certifications: Sertifikalarım
+            Awards: Kitaplığım
+            Dive Logs: Dalış Kayıt Defterim
+            Store: Mağaza
+            Forms: RAID Formları
 
 nav:
   - Home: index.md

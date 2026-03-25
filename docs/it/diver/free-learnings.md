@@ -8,6 +8,8 @@ I free learning sono contenuti formativi accessibili con un flusso semplificato 
 
 Menu: **Negozio FREE-Learning**
 
+![Negozio FREE-Learning](../../assets/screenshots/diver/it/free-learnings-store.png)
+
 ## Iscrizione
 
 Passi tipici:
