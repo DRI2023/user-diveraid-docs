@@ -30,25 +30,9 @@ plugins:
   - i18n:
       docs_structure: folder
       languages:
-        - locale: it
-          name: Italiano
-          default: true
-          build: true
-          nav_translations:
-            Home: Home
-            Diver: Diver
-            Overview: Panoramica
-            Dashboard: Dashboard
-            Documents: I miei documenti
-            Courses: I miei corsi
-            Free Learnings: Negozio FREE-Learning
-            Certifications: Le mie certificazioni
-            Awards: I miei awards
-            Dive Logs: Il mio Dive Log
-            Store: Negozio
-            Forms: Moduli Raid
         - locale: en
           name: English
+          default: true
           build: true
           nav_translations:
             Home: Home
@@ -63,6 +47,22 @@ plugins:
             Dive Logs: Dive Logs
             Store: Store
             Forms: Raid Forms
+        - locale: it
+          name: Italiano
+          build: true
+          nav_translations:
+            Home: Home
+            Diver: Diver
+            Overview: Panoramica
+            Dashboard: Dashboard
+            Documents: I miei documenti
+            Courses: I miei corsi
+            Free Learnings: Negozio FREE-Learning
+            Certifications: Le mie certificazioni
+            Awards: I miei awards
+            Dive Logs: Il mio Dive Log
+            Store: Negozio
+            Forms: Moduli Raid
         - locale: de
           name: Deutsch
           build: true
