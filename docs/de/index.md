@@ -23,7 +23,7 @@ Dieser Guide hilft dir, `user.diveraid.com` zu nutzen, um Dokumente, Kurse, Zert
 
 ## Sprachen
 
-Nutze den Sprachwaehler im Header (IT/EN/DE/FR/ES/NL).
+Nutze den Sprachwaehler im Header (EN/IT/DE/FR/ES/NL/ZH).
 
 <details>
 <summary>Fuer Support (technische Details)</summary>

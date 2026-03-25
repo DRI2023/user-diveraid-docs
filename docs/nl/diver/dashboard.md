@@ -30,7 +30,7 @@ Rechtsboven, naast datum en tijd, vind je een paar snelkoppelingen:
 - **Profieliconen (Diver / PRO / Dive Center / Distributor):** wissel tussen de onderdelen.
   Iconen worden alleen getoond als je account de bijbehorende kwalificatie/rol heeft.
 - **Bij klikken:** je gaat naar het dashboard van het gekozen onderdeel.
-- **Taal (IT/EN/DE/FR/ES/NL):** wisselt de taal van de interface.
+- **Taal (EN/IT/DE/FR/ES/NL/ZH):** wisselt de taal van de interface.
 - **Volledig scherm:** schakelt full screen in/uit.
 - **Thema/contrast:** verandert de weergave (bijv. licht/donker).
 - **Profielfoto (account):** opent je accountmenu.
@@ -65,4 +65,3 @@ GET https://user.diveraid.com/nl/diver/dashboard
 </details>
 
 Volgende: [Documents](documents.md)
-

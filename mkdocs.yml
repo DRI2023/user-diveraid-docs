@@ -128,6 +128,22 @@ plugins:
             Dive Logs: Mijn Duiklogboek
             Store: Winkel
             Forms: Raid Formulieren
+        - locale: zh
+          name: 简体中文
+          build: true
+          nav_translations:
+            Home: 主页
+            Diver: 潜水员
+            Overview: 概览
+            Dashboard: 汇总信息
+            Documents: 常用文件
+            Courses: 我的课程
+            Free Learnings: 免费阅读（FREe-Learning）
+            Certifications: 我已获得的潜水员级认证
+            Awards: 我的荣誉卡
+            Dive Logs: 我的潜水日志
+            Store: 线上商店
+            Forms: 表格工具
 
 nav:
   - Home: index.md

@@ -23,7 +23,7 @@ Ce guide t'aide a utiliser `user.diveraid.com` pour gerer les documents, les cou
 
 ## Langues
 
-Utilise le selecteur de langue dans l'en-tete (IT/EN/DE/FR/ES/NL).
+Utilise le selecteur de langue dans l'en-tete (EN/IT/DE/FR/ES/NL/ZH).
 
 <details>
 <summary>Pour le support (details techniques)</summary>
