@@ -1,22 +1,51 @@
-# Diver: premi
+# Diver: I miei awards
 
-I "premi" includono tipicamente card/riconoscimenti e relativo flusso ordine.
+La pagina **I miei awards** contiene le recognition card (award) e il relativo flusso di ordine (quando disponibile).
 
 ## Dove lo trovi
 
-Menu: **I miei awards**
+Menu: **Diver -> I miei awards**
 
-## Elenco premi
+![I miei awards](../../assets/screenshots/diver/it/awards.png)
+
+## Tipi di award
+
+Esistono due tipi principali di award:
+
+**Diver (numero di immersioni registrate)**
+
+- 100 logged dives
+- 500 logged dives
+- 1000 logged dives
+- 5000 logged dives
+
+**Professional (certificazioni emesse)**
+
+- Bronze: 100 certifications issued
+- Silver: 500 certifications issued
+- Gold: 1000 certifications issued
+- Platinum: 5000 certifications issued
+
+## Elenco awards
 
 Passi tipici:
 
-1. Apri l'elenco premi.
+1. Apri l'elenco awards.
 2. Seleziona una card/premio.
 3. Avvia l'ordine.
 
-![Elenco premi](../../assets/screenshots/diver/it/awards.png)
+## Come li ottengo
 
-## Ordine premio
+Quando raggiungi una nuova soglia (immersioni registrate o certificazioni emesse), di solito il sistema ti avvisa nella dashboard
+e ti permette di ordinare la relativa award card.
+
+Passi tipici:
+
+1. (Opzionale) Usa la barra di ricerca per trovare una card.
+2. Seleziona una card/award dall'elenco.
+3. Avvia il flusso di ordine (se disponibile per il tuo account).
+
+Dopo l'ordine (esito positivo), la card viene emessa e la ritroverai in **I miei awards**.
 
 ## Problemi comuni
 

@@ -1,10 +1,30 @@
 # Diver: awards
 
-"Awards" typically includes recognition cards and their order flow.
+The **Awards** page lists your recognition cards and lets you order them (when available for your account).
 
 ## Where to find it
 
-Menu: **Diver -> Awards**
+Menu: **Diver -> My Awards**
+
+![My Awards](../../assets/screenshots/diver/en/awards.png)
+
+## Award types
+
+There are two main types of awards:
+
+**Diver (logged dives)**
+
+- 100 logged dives
+- 500 logged dives
+- 1000 logged dives
+- 5000 logged dives
+
+**Professional (certifications issued)**
+
+- Bronze: 100 certifications issued
+- Silver: 500 certifications issued
+- Gold: 1000 certifications issued
+- Platinum: 5000 certifications issued
 
 ## Awards list
 
@@ -14,9 +34,18 @@ Typical steps:
 2. Select a card/award.
 3. Start the order flow.
 
-![Awards list](../../assets/screenshots/diver/en/awards.png)
+## How you get an award
 
-## Award order
+When you reach a new milestone (logged dives or certifications issued), the system typically shows a message on your dashboard
+and lets you order the related award card.
+
+Typical steps:
+
+1. (Optional) Use the search bar to find a specific award.
+2. Select a card/award.
+3. Start the order flow (if available for your account).
+
+After a successful order, the card is issued and you will find it in **My Awards**.
 
 ## Common issues
 

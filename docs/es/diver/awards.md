@@ -1,10 +1,30 @@
 # Diver: awards
 
-"Awards" incluye normalmente recognition cards y su flujo de compra.
+La pagina **Awards** contiene tus recognition cards y el flujo de compra (si esta disponible para tu cuenta).
 
 ## Donde encontrarlo
 
-Menu: **Awards**
+Menu: **Diver -> Awards**
+
+![Awards](../../assets/screenshots/diver/en/awards.png)
+
+## Tipos de awards
+
+Hay dos tipos principales:
+
+**Diver (logged dives)**
+
+- 100 logged dives
+- 500 logged dives
+- 1000 logged dives
+- 5000 logged dives
+
+**Professional (certifications issued)**
+
+- Bronze: 100 certifications issued
+- Silver: 500 certifications issued
+- Gold: 1000 certifications issued
+- Platinum: 5000 certifications issued
 
 ## Lista
 
@@ -14,9 +34,18 @@ Pasos tipicos:
 2. Selecciona una tarjeta/award.
 3. Inicia el flujo de compra.
 
-![Awards list](../../assets/screenshots/diver/en/awards.png)
+## Como se obtienen
 
-## Pedido
+Cuando alcanzas un nuevo hito (logged dives o certifications issued), el sistema normalmente te avisa en la dashboard
+y te permite pedir la award card correspondiente.
+
+Pasos tipicos:
+
+1. (Opcional) Usa la busqueda para encontrar un award.
+2. Selecciona una tarjeta/award.
+3. Inicia el flujo de compra (si esta disponible para tu cuenta).
+
+Despues de un pedido correcto, la card se emite y la veras en **Awards**.
 
 ## Problemas comunes
 
