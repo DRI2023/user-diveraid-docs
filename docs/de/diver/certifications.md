@@ -4,17 +4,25 @@
 
 Menue: **Meine Zertifizierungen**
 
+![Zertifizierungs-Liste](../../assets/screenshots/diver/en/certifications-02.png)
+
 ## Liste
 
 Typische Schritte:
 
 1. Liste oeffnen.
 2. Eine Zertifizierung auswaehlen, um Details zu sehen.
-3. Falls verfuegbar: Historie oeffnen, um Fortschritt und Ergebnisse zu pruefen.
+3. Auf eine Zertifizierung klicken, um Details auf der anderen Seite zu sehen (Split View).
+4. Zertifizierung als **PDF** oder **PNG** herunterladen.
+5. Falls verfuegbar: **History/Historie** oeffnen, um Fortschritt und Ergebnisse zu pruefen.
 
-![Certifications list](../../assets/screenshots/diver/en/certifications.png)
+![Zertifizierungs-Details (Split View)](../../assets/screenshots/diver/en/certifications-01.png)
 
 ## Historie
+
+Die Historie zeigt Fortschrittsdetails zu einer bestimmten Zertifizierung.
+
+![Certification history](../../assets/screenshots/diver/en/certifications-history.png)
 
 ## Haeufige Probleme
 

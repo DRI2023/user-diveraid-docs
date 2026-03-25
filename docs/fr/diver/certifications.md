@@ -4,17 +4,25 @@
 
 Menu : **Mes certifications**
 
+![Liste des certifications](../../assets/screenshots/diver/en/certifications-02.png)
+
 ## Liste
 
 Etapes typiques :
 
 1. Ouvrir la liste.
 2. Selectionner une certification pour voir les details.
-3. Si disponible : ouvrir l'historique pour verifier progression et resultats.
+3. Cliquer sur une carte pour afficher les details de l'autre cote (split view).
+4. Telecharger la certification en **PDF** ou **PNG**.
+5. Si disponible : ouvrir **History/Historique** pour verifier progression et resultats.
 
-![Certifications list](../../assets/screenshots/diver/en/certifications.png)
+![Details (split view)](../../assets/screenshots/diver/en/certifications-01.png)
 
 ## Historique
+
+La page historique affiche les details de progression pour une certification.
+
+![Certification history](../../assets/screenshots/diver/en/certifications-history.png)
 
 ## Problemes frequents
 
