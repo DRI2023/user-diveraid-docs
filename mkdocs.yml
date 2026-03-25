@@ -1,5 +1,6 @@
 site_name: DiveRaid User Guide
 site_description: User-facing documentation for user.diveraid.com (Diver first)
+site_url: https://dri2023.github.io/user-diveraid-docs/
 site_dir: site
 
 theme:
