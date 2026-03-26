@@ -68,4 +68,4 @@ GET https://user.diveraid.com/tr/diver/courses/progress/{log_code}/skill/sign
 
 </details>
 
-Sonraki: [FREe-Learning mağazası](free-learnings.md)
+Sonraki: [FREE-Learning mağazası](free-learnings.md)

@@ -10,7 +10,7 @@ Bu kılavuz, `user.diveraid.com` üzerinde belgelerinizi, kurslarınızı, serti
 - [Kitaplığım](diver/awards.md)
 - [Dalış Kayıt Defterim](diver/dive-logs.md)
 - [Belgelerim / Yüklenen belgeler](diver/documents.md)
-- [FREe-Learning mağazası](diver/free-learnings.md)
+- [FREE-Learning mağazası](diver/free-learnings.md)
 - [Mağaza](diver/store.md)
 - [RAID Formları](diver/forms.md)
 
@@ -51,4 +51,3 @@ GET https://user.diveraid.com/tr/diver/dashboard
 - Distributor
 
 Git: [Dalgıç > Genel Bakış](diver/overview.md)
-

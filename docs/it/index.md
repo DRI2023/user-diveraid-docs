@@ -23,7 +23,7 @@ Questa guida ti aiuta a usare `user.diveraid.com` per gestire documenti, corsi, 
 
 ## Lingue
 
-Puoi cambiare lingua dal selettore in alto (EN/IT/DE/FR/ES/NL/ZH).
+Puoi cambiare lingua dal selettore in alto (EN/IT/DE/FR/ES/NL/ZH/KO/TR).
 
 <details>
 <summary>Per supporto (dettagli tecnici)</summary>

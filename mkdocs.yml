@@ -145,7 +145,7 @@ plugins:
             Dashboard: 汇总信息
             Documents: 常用文件
             Courses: 我的课程
-            Free Learnings: 免费阅读（FREe-Learning）
+            Free Learnings: 免费阅读（FREE-Learning）
             Certifications: 我已获得的潜水员级认证
             Awards: 我的荣誉卡
             Dive Logs: 我的潜水日志
@@ -165,7 +165,7 @@ plugins:
             Courses: 내 코스
             Free Learnings: 무료 학습 상점
             Certifications: 내 인증
-            Awards: My Library
+            Awards: 내 라이브러리
             Dive Logs: 내 다이빙 로그
             Store: 스토어
             Forms: 레이드 양식
@@ -181,7 +181,7 @@ plugins:
             Dashboard: Gösterge Tablosu
             Documents: Belgelerim
             Courses: Kurslarım
-            Free Learnings: FREe-Learning mağazası
+            Free Learnings: FREE-Learning mağazası
             Certifications: Sertifikalarım
             Awards: Kitaplığım
             Dive Logs: Dalış Kayıt Defterim

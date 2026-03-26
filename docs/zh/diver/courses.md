@@ -66,5 +66,4 @@ GET https://user.diveraid.com/zh/diver/courses/progress/{log_code}/skill/sign
 
 </details>
 
-下一步：[免费阅读（FREe-Learning）](free-learnings.md)
-
+下一步：[免费阅读（FREE-Learning）](free-learnings.md)

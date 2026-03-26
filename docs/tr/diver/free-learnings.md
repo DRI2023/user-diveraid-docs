@@ -1,12 +1,12 @@
-# Dalgıç: FREe-Learning mağazası
+# Dalgıç: FREE-Learning mağazası
 
 ## Nedir?
 
-FREe-Learning içerikleri, basitleştirilmiş bir akışla erişilebilen eğitim içerikleridir (genellikle satın alma olmadan).
+FREE-Learning içerikleri, basitleştirilmiş bir akışla erişilebilen eğitim içerikleridir (genellikle satın alma olmadan).
 
 ## Nerede bulurum?
 
-Menü: **Dalgıç -> FREe-Learning mağazası**
+Menü: **Dalgıç -> FREE-Learning mağazası**
 
 ## Kayıt (Enroll)
 

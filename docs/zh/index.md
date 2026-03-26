@@ -10,7 +10,7 @@
 - [我的荣誉卡](diver/awards.md)
 - [我的潜水日志](diver/dive-logs.md)
 - [常用文件 / 已上传的文件](diver/documents.md)
-- [免费阅读（FREe-Learning）](diver/free-learnings.md)
+- [免费阅读（FREE-Learning）](diver/free-learnings.md)
 - [线上商店](diver/store.md)
 - [表格工具](diver/forms.md)
 
@@ -23,7 +23,7 @@
 
 ## 语言
 
-你可以在页面顶部切换语言（EN/IT/DE/FR/ES/NL/ZH）。
+你可以在页面顶部切换语言（EN/IT/DE/FR/ES/NL/ZH/KO/TR）。
 
 <details>
 <summary>技术支持（技术细节）</summary>
@@ -51,4 +51,3 @@ GET https://user.diveraid.com/zh/diver/dashboard
 - Distributor
 
 下一步： [潜水员 > 概览](diver/overview.md)
-

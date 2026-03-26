@@ -44,4 +44,4 @@ GET https://user.diveraid.com/ko/diver/certifications/history/{certification}/sk
 
 </details>
 
-다음: [My Library](awards.md)
+다음: [내 라이브러리](awards.md)

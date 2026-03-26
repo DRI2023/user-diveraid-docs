@@ -1,12 +1,12 @@
-# 潜水员：免费阅读（FREe-Learning）
+# 潜水员：免费阅读（FREE-Learning）
 
 ## 这是什么
 
-“免费阅读（FREe-Learning）”是一个更简化的学习流程（通常不需要购买即可访问）。
+“免费阅读（FREE-Learning）”是一个更简化的学习流程（通常不需要购买即可访问）。
 
 ## 在哪里找到
 
-菜单：**潜水员 -> 免费阅读（FREe-Learning）**
+菜单：**潜水员 -> 免费阅读（FREE-Learning）**
 
 ## 申请/开通
 
@@ -48,4 +48,3 @@ GET https://user.diveraid.com/zh/diver/free-learnings/progress/{log_code}/quiz/{
 </details>
 
 下一步：[我已获得的潜水员级认证](certifications.md)
-

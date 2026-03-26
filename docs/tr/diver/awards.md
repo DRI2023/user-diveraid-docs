@@ -19,12 +19,12 @@ Menü: **Dalgıç -> Kitaplığım**
 - 1000 kayıtlı dalış
 - 5000 kayıtlı dalış
 
-**Professional (verilen sertifikalar)**
+**Profesyonel (verilen sertifikalar)**
 
-- Bronze: 100 certifications issued
-- Silver: 500 certifications issued
-- Gold: 1000 certifications issued
-- Platinum: 5000 certifications issued
+- Bronz: 100 sertifika verildi
+- Gümüş: 500 sertifika verildi
+- Altın: 1000 sertifika verildi
+- Platin: 5000 sertifika verildi
 
 ## Liste
 

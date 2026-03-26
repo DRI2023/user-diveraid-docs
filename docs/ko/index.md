@@ -7,7 +7,7 @@
 - [대시보드](diver/dashboard.md)
 - [내 코스](diver/courses.md)
 - [내 인증](diver/certifications.md)
-- [My Library](diver/awards.md)
+- [내 라이브러리](diver/awards.md)
 - [내 다이빙 로그](diver/dive-logs.md)
 - [내 문서 / Uploaded documents](diver/documents.md)
 - [무료 학습 상점](diver/free-learnings.md)
@@ -23,7 +23,7 @@
 
 ## 언어
 
-상단의 언어 선택기에서 변경할 수 있습니다 (EN/IT/DE/FR/ES/NL/ZH/KO).
+상단의 언어 선택기에서 변경할 수 있습니다 (EN/IT/DE/FR/ES/NL/ZH/KO/TR).
 
 <details>
 <summary>기술 지원 (기술 정보)</summary>
