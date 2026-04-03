@@ -30,7 +30,7 @@ En la esquina superior derecha, junto a la fecha y la hora, tienes algunos acces
 - **Iconos de perfil (Diver / PRO / Dive Center / Distributor):** permiten cambiar entre areas.
   Los iconos aparecen solo si tu cuenta tiene la cualificacion/rol correspondiente.
 - **Al hacer clic:** se abre el dashboard del area seleccionada.
-- **Idioma (EN/IT/DE/FR/ES/NL/ZH/KO/TR/PT/PL/RU):** cambia el idioma de la interfaz.
+- **Idioma (EN/IT/DE/FR/ES/ZH/AR/NL/KO/TR/PT/PL/RU):** cambia el idioma de la interfaz.
 - **Pantalla completa:** activa/desactiva el modo pantalla completa.
 - **Tema/contraste:** cambia el aspecto (por ejemplo claro/oscuro).
 - **Foto de perfil (cuenta):** abre el menu de la cuenta.

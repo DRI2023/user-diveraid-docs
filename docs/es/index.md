@@ -23,7 +23,7 @@ Esta guia te ayuda a usar `user.diveraid.com` para gestionar documentos, cursos,
 
 ## Idiomas
 
-Usa el selector de idioma en el encabezado (EN/IT/DE/FR/ES/NL/ZH/KO/TR/PT/PL/RU).
+Usa el selector de idioma en el encabezado (EN/IT/DE/FR/ES/ZH/AR/NL/KO/TR/PT/PL/RU).
 
 <details>
 <summary>Para soporte (detalles tecnicos)</summary>

@@ -30,7 +30,7 @@ Oben rechts, neben Datum und Uhrzeit, findest du einige Schnellzugriffe:
 - **Profil-Icons (Diver / PRO / Dive Center / Distributor):** Wechsel zwischen den Bereichen.
   Die Icons werden nur angezeigt, wenn dein Konto die entsprechende Qualifikation/Rolle hat.
 - **Beim Klick:** du landest im Dashboard des ausgewaehlten Bereichs.
-- **Sprache (EN/IT/DE/FR/ES/NL/ZH/KO/TR/PT/PL/RU):** wechselt die Sprache der Oberflaeche.
+- **Sprache (EN/IT/DE/FR/ES/ZH/AR/NL/KO/TR/PT/PL/RU):** wechselt die Sprache der Oberflaeche.
 - **Vollbild:** schaltet den Vollbildmodus um.
 - **Theme/Kontrast:** aendert das Erscheinungsbild (z.B. hell/dunkel).
 - **Profilfoto (Account):** oeffnet das Account-Menue.

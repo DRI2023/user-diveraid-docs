@@ -30,7 +30,7 @@ In alto a destra, accanto a data e ora, trovi alcune scorciatoie:
 - **Icone profilo (Diver / PRO / Dive Center / Distributor):** servono per passare da un'area all'altra.
   Compaiono solo se il tuo utente ha la qualifica/ruolo corrispondente (es. se sei solo Diver vedrai solo l'icona Diver).
 - **Cosa succede se clicchi:** vieni portato alla dashboard dell'area selezionata.
-- **Lingua (EN/IT/DE/FR/ES/NL/ZH/KO/TR/PT/PL/RU):** cambia la lingua dell'interfaccia.
+- **Lingua (EN/IT/DE/FR/ES/ZH/AR/NL/KO/TR/PT/PL/RU):** cambia la lingua dell'interfaccia.
 - **Schermo intero:** passa a modalita' full screen (utile su tablet o in presentazione).
 - **Tema/contrasto:** cambia aspetto dell'interfaccia (es. chiaro/scuro, a seconda della configurazione).
 - **Foto profilo (account):** apre il menu del tuo account.

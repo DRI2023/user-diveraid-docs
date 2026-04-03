@@ -23,7 +23,7 @@ This guide helps you use `user.diveraid.com` to manage documents, courses, certi
 
 ## Languages
 
-Use the language selector in the header (EN/IT/DE/FR/ES/NL/ZH/KO/TR/PT/PL/RU).
+Use the language selector in the header (EN/IT/DE/FR/ES/ZH/AR/NL/KO/TR/PT/PL/RU).
 
 <details>
 <summary>For support (technical details)</summary>

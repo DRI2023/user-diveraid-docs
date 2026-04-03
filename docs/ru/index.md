@@ -24,7 +24,7 @@
 
 ## Языки
 
-Вы можете переключить язык в верхней панели (EN/IT/DE/FR/ES/NL/ZH/KO/TR/PT/PL/RU).
+Вы можете переключить язык в верхней панели (EN/IT/DE/FR/ES/ZH/AR/NL/KO/TR/PT/PL/RU).
 
 <details>
 <summary>Для поддержки (технические детали)</summary>
@@ -52,4 +52,3 @@ GET https://user.diveraid.com/ru/diver/dashboard
 - Distributor
 
 Перейти: [Дайвер > Обзор](diver/overview.md)
-

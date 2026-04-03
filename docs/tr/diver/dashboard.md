@@ -30,7 +30,7 @@ Sağ üstte, tarih ve saatin yanında birkaç kısayol bulunur:
 - **Profil simgeleri (Diver / PRO / Dive Center / Distributor):** alanlar arasında geçiş yapmanızı sağlar.
   Simgeler yalnızca hesabınızda ilgili yetki/rol varsa görünür (ör. yalnızca Dalgıç iseniz sadece Diver simgesini görürsünüz).
 - **Tıklayınca:** seçilen alanın gösterge tablosuna yönlendirilirsiniz.
-- **Dil (Language) (EN/IT/DE/FR/ES/NL/ZH/KO/TR/PT/PL/RU):** arayüz dilini değiştirir.
+- **Dil (Language) (EN/IT/DE/FR/ES/ZH/AR/NL/KO/TR/PT/PL/RU):** arayüz dilini değiştirir.
 - **Tam ekran (Full screen):** tam ekran modunu aç/kapat (tabletlerde veya sunumlarda faydalı).
 - **Tema/kontrast (Theme/contrast):** arayüz görünümünü değiştirir (yapılandırmaya göre açık/koyu vb.).
 - **Profil fotoğrafı (hesap):** hesap menünüzü açar.

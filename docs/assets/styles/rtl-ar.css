@@ -1,0 +1,22 @@
+/* Arabic (RTL): keep code/snippets LTR for readability. */
+
+html[lang="ar"] {
+  direction: rtl;
+}
+
+html[lang="ar"] body {
+  direction: rtl;
+}
+
+/* Force code blocks and inline code to stay LTR inside RTL pages. */
+html[lang="ar"] pre,
+html[lang="ar"] code,
+html[lang="ar"] kbd,
+html[lang="ar"] samp,
+html[lang="ar"] .highlight,
+html[lang="ar"] .highlighttable {
+  direction: ltr;
+  unicode-bidi: isolate;
+  text-align: left;
+}
+
