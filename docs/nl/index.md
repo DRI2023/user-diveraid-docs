@@ -23,7 +23,7 @@ Deze gids helpt je `user.diveraid.com` te gebruiken om documenten, cursussen, ce
 
 ## Talen
 
-Gebruik de taalkeuze in de header (EN/IT/DE/FR/ES/NL/ZH/KO/TR).
+Gebruik de taalkeuze in de header (EN/IT/DE/FR/ES/NL/ZH/KO/TR/PT/PL).
 
 <details>
 <summary>Voor support (technische details)</summary>

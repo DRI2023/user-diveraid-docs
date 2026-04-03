@@ -16,17 +16,7 @@ Tipik adımlar:
 2. Bir belge seçin.
 3. (Arayüze bağlı olarak) görüntüleyin veya indirin.
 
-## Yüklenen belgeler (Uploaded documents)
-
-Profilinizle ilişkili belgeleri burada bulabilirsiniz (genellikle hesabınız altında yüklenen/kaydedilen belgeler).
-
-![Uploaded documents](../../assets/screenshots/diver/en/documents-uploaded.png)
-
-Tipik adımlar:
-
-1. Listeyi açın.
-2. (Varsa) filtreleyin veya arayın.
-3. Detayları incelemek için bir belgeyi açın.
+Yukledigini belgeler icin [Yüklenen belgeler](uploaded-documents.md) sayfasini acin.
 
 ## Yaygın sorunlar
 
@@ -38,7 +28,6 @@ Tipik adımlar:
 
 ```text
 GET https://user.diveraid.com/tr/diver/my-documents
-GET https://user.diveraid.com/tr/diver/documents
 ```
 
 </details>

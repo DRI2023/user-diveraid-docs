@@ -2,7 +2,7 @@
 
 ## Where to find it
 
-Menu: **Diver -> Documents**
+Menu: **Diver -> My Documents**
 
 ## Personal documents
 
@@ -16,17 +16,7 @@ Typical steps:
 2. Select a document.
 3. View or download (depending on the UI).
 
-## User-uploaded documents
-
-This is where you find documents associated with your profile (typically uploaded/registered under your account).
-
-![Uploaded documents](../../assets/screenshots/diver/en/documents-uploaded.png)
-
-Typical steps:
-
-1. Open the list.
-2. Filter or search (if available).
-3. Open a document to review details.
+For documents you uploaded, go to [Uploaded documents](uploaded-documents.md).
 
 ## Common issues
 
@@ -38,7 +28,6 @@ Typical steps:
 
 ```text
 GET https://user.diveraid.com/en/diver/my-documents
-GET https://user.diveraid.com/en/diver/documents
 ```
 
 </details>

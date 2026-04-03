@@ -9,7 +9,7 @@ This guide helps you use `user.diveraid.com` to manage documents, courses, certi
 - [Certifications](diver/certifications.md)
 - [Awards](diver/awards.md)
 - [Dive Logs](diver/dive-logs.md)
-- [Documents](diver/documents.md)
+- [My Documents](diver/documents.md)
 - [FREE-Learning shop](diver/free-learnings.md)
 - [Store](diver/store.md)
 - [Forms](diver/forms.md)
@@ -17,13 +17,13 @@ This guide helps you use `user.diveraid.com` to manage documents, courses, certi
 ## Where to start
 
 1. **Portal access:** open **Diver -> Dashboard** and verify you are not blocked (for example, email not verified).
-2. **Profile setup:** upload your files in **Documents** (personal documents and uploaded documents).
+2. **Profile setup:** upload your files in **My Documents** (personal documents and uploaded documents).
 3. **Review certifications:** go to **Certifications** and open a card or your history.
 4. **Add a dive log:** go to **Dive Logs**, create a new log, then review/edit it.
 
 ## Languages
 
-Use the language selector in the header (EN/IT/DE/FR/ES/NL/ZH/KO/TR).
+Use the language selector in the header (EN/IT/DE/FR/ES/NL/ZH/KO/TR/PT/PL).
 
 <details>
 <summary>For support (technical details)</summary>

@@ -16,17 +16,7 @@
 2. 选择一个文件。
 3. 查看或下载（取决于界面功能）。
 
-## 已上传的文件
-
-这里通常包含与你的账号资料关联的文件（一般是你上传/登记到个人资料下的文件）。
-
-![已上传的文件](../../assets/screenshots/diver/en/documents-uploaded.png)
-
-典型操作：
-
-1. 打开列表。
-2. 使用筛选/搜索（如果有）。
-3. 打开文件查看详情。
+你上传的文件请查看：[已上传的文件](uploaded-documents.md)。
 
 ## 常见问题
 
@@ -38,10 +28,8 @@
 
 ```text
 GET https://user.diveraid.com/zh/diver/my-documents
-GET https://user.diveraid.com/zh/diver/documents
 ```
 
 </details>
 
 下一步：[我的课程](courses.md)
-

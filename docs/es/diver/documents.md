@@ -1,11 +1,8 @@
-# Diver: documents
+# Diver: Mis documentos
 
 ## Donde encontrarlo
 
-Menu:
-
-- **Mis documentos** (documentos personales)
-- **Documentos cargados** (documentos asociados/subidos)
+Menu: **Mis documentos**
 
 ## Documentos personales
 
@@ -19,17 +16,7 @@ Pasos tipicos:
 2. Selecciona un documento.
 3. Visualiza o descarga (segun la interfaz).
 
-## Documentos subidos
-
-Aqui encuentras documentos asociados a tu perfil (normalmente subidos/registrados bajo tu cuenta).
-
-![Uploaded documents](../../assets/screenshots/diver/en/documents-uploaded.png)
-
-Pasos tipicos:
-
-1. Abre la lista.
-2. Filtra o busca (si esta disponible).
-3. Abre un documento para ver los detalles.
+Para documentos que has subido, ve a [Documentos cargados](uploaded-documents.md).
 
 ## Problemas comunes
 
@@ -41,7 +28,6 @@ Pasos tipicos:
 
 ```text
 GET https://user.diveraid.com/es/diver/my-documents
-GET https://user.diveraid.com/es/diver/documents
 ```
 
 </details>

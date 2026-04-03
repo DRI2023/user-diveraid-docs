@@ -1,11 +1,8 @@
-# Diver: documenten
+# Diver: mijn documenten
 
 ## Waar te vinden
 
-Menu:
-
-- **Geuploade documenten**
-- **Mijn Documenten**
+Menu: **Mijn Documenten**
 
 ## Persoonlijke documenten
 
@@ -19,17 +16,7 @@ Typische stappen:
 2. Selecteer een document.
 3. Bekijk of download (afhankelijk van de UI).
 
-## Geuploade documenten
-
-Hier vind je documenten die aan je profiel gekoppeld zijn (meestal door jou geupload/gekoppeld).
-
-![Uploaded documents](../../assets/screenshots/diver/en/documents-uploaded.png)
-
-Typische stappen:
-
-1. Open de lijst.
-2. Filter of zoek (als beschikbaar).
-3. Open een document om details te bekijken.
+Voor documenten die je hebt geupload, ga naar [Geuploade documenten](uploaded-documents.md).
 
 ## Veelvoorkomende problemen
 
@@ -41,10 +28,8 @@ Typische stappen:
 
 ```text
 GET https://user.diveraid.com/nl/diver/my-documents
-GET https://user.diveraid.com/nl/diver/documents
 ```
 
 </details>
 
 Volgende: [Courses](courses.md)
-

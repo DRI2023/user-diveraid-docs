@@ -16,7 +16,7 @@ The **Diver** area is the part of the app dedicated to the diver (end user).
 
 1. Sign in with your account.
 2. Go to **Diver -> Dashboard**.
-3. From there, go to the main sections: Courses, Certifications, Documents, Dive logs, Store.
+3. From there, go to the main sections: Courses, Certifications, My Documents, Dive logs, Store.
 
 ## Where to find it
 
@@ -26,7 +26,7 @@ Main pages:
 
 - Overview (this page)
 - Dashboard
-- Documents
+- My Documents
 - Courses
 - Certifications
 - Awards

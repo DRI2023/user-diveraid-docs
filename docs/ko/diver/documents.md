@@ -16,17 +16,7 @@
 2. 문서를 선택합니다.
 3. (UI에 따라) 보기 또는 다운로드를 수행합니다.
 
-## Uploaded documents (업로드된 문서)
-
-여기에서는 내 프로필에 연결된 문서를 확인할 수 있습니다(보통 내 계정으로 업로드/등록된 문서).
-
-![Uploaded documents](../../assets/screenshots/diver/en/documents-uploaded.png)
-
-일반적인 단계:
-
-1. 목록을 엽니다.
-2. (가능한 경우) 필터 또는 검색을 사용합니다.
-3. 문서를 열어 상세 내용을 확인합니다.
+내가 업로드한 문서는 [업로드한 문서](uploaded-documents.md)에서 확인합니다.
 
 ## 자주 발생하는 문제
 
@@ -38,7 +28,6 @@
 
 ```text
 GET https://user.diveraid.com/ko/diver/my-documents
-GET https://user.diveraid.com/ko/diver/documents
 ```
 
 </details>

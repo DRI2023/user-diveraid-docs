@@ -6,7 +6,7 @@
 //
 // This expects FontAwesome to be loaded via mkdocs.yml -> extra_javascript.
 (function () {
-  const LOCALES = new Set(["it", "en", "de", "fr", "es", "nl", "zh"]);
+  const LOCALES = new Set(["it", "en", "de", "fr", "es", "nl", "zh", "ko", "tr", "pt", "pl"]);
 
   function normalizePathname(href) {
     try {
@@ -35,6 +35,7 @@
     // Diver section
     if (pathname.includes("/diver/overview")) return "fa-circle-info";
     if (pathname.includes("/diver/dashboard")) return "fa-house";
+    if (pathname.includes("/diver/uploaded-documents")) return "fa-files";
     if (pathname.includes("/diver/documents")) return "fa-folder-open";
     if (pathname.includes("/diver/courses")) return "fa-screen-users";
     if (pathname.includes("/diver/free-learnings")) return "fa-narwhal";

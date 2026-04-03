@@ -18,8 +18,8 @@ Menu: **Dashboard**
 
 ## Wat kun je hier doen (typische stappen)
 
-1. Controleer gemarkeerde items (lopende cursussen, meldingen, deadlines).
-2. Ga naar **Mijn Cursussen** om een leerpad te vervolgen.
+1. Controleer gemarkeerde items (lopende cursussen, meldingen, deadlines en snelle acties zoals **Certificaat downloaden (Download Certification)** om het certificaat van al je certificeringen te downloaden, **Mijn duikcentrum (My Diving Center)** om je duikcentrum te bekijken/wijzigen of **Medisch formulier (Medical Form)** om het medische formulier in te vullen).
+2. Ga naar [Mijn Cursussen](courses.md) om een leerpad te vervolgen (open de cursuslijst, selecteer een cursus en ga verder met de volgende stap: module/quiz/examen/skills; als een cursus ontbreekt, controleer ook de *verlopen* sectie als die er is).
 3. Ga naar **Mijn Certificeringen** om kaarten en geschiedenis te bekijken.
 4. Ga naar **Mijn Duiklogboek** om logs te maken of bij te werken.
 
@@ -30,7 +30,7 @@ Rechtsboven, naast datum en tijd, vind je een paar snelkoppelingen:
 - **Profieliconen (Diver / PRO / Dive Center / Distributor):** wissel tussen de onderdelen.
   Iconen worden alleen getoond als je account de bijbehorende kwalificatie/rol heeft.
 - **Bij klikken:** je gaat naar het dashboard van het gekozen onderdeel.
-- **Taal (EN/IT/DE/FR/ES/NL/ZH):** wisselt de taal van de interface.
+- **Taal (EN/IT/DE/FR/ES/NL/ZH/PT/PL):** wisselt de taal van de interface.
 - **Volledig scherm:** schakelt full screen in/uit.
 - **Thema/contrast:** verandert de weergave (bijv. licht/donker).
 - **Profielfoto (account):** opent je accountmenu.
@@ -39,12 +39,19 @@ Rechtsboven, naast datum en tijd, vind je een paar snelkoppelingen:
 
 Het opent het accountmenu (zoals in de screenshot) met items zoals:
 
-- **My Profile:** je profieldetails.
-- **My Activities:** overzicht van je activiteit in het portaal.
-- **My Medical History:** medische informatie/formulieren (als ingeschakeld).
-- **My Security:** beveiligingsinstellingen/consents (als beschikbaar).
-- **My Privacy:** privacy-instellingen.
-- **Sign out:** uitloggen.
+- **Mijn profiel (My Profile):** je profieldetails.
+- **Mijn taken (My Task):** je assignments en uitnodigingen (indien beschikbaar).
+- **Mijn medische geschiedenis (My Medical History):** medische informatie/formulieren (als ingeschakeld).
+- **Mijn beveiliging (My Security):** beveiligingsinstellingen/consents (als beschikbaar).
+- **Mijn privacy (My Privacy):** privacy-instellingen.
+- **Uitloggen (Sign out):** uitloggen.
+
+In **Mijn taken (My Task)** kun je meestal:
+
+- Openstaande uitnodigingen en actieve samenwerkingen bekijken (bijv. Dive Center staff, Distributor staff, collaborations, translator).
+- Uitnodigingen **Confirm** of **Dismiss**.
+- **Stop collaborating** (intrekken) indien nodig (meestal met een bevestigingszin; sommige intrekkingen bieden opties zoals het verwijderen van eigen classrooms).
+- De collaborations-lijst zoeken, sorteren en pagineren (indien beschikbaar).
 
 ## Veelvoorkomende problemen
 
@@ -64,4 +71,4 @@ GET https://user.diveraid.com/nl/diver/dashboard
 
 </details>
 
-Volgende: [Documents](documents.md)
+Volgende: [Geuploade documenten](uploaded-documents.md)

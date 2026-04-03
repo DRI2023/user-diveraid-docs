@@ -18,8 +18,8 @@ Menü: **Dalgıç -> Gösterge Tablosu**
 
 ## Burada ne yapabilirim? (tipik adımlar)
 
-1. Öne çıkarılan öğeleri kontrol edin (devam eden kurslar, bildirimler, son tarihler).
-2. Öğrenme yolunu sürdürmek için **Kurslarım** bölümüne gidin.
+1. Öne çıkarılan öğeleri kontrol edin (devam eden kurslar, bildirimler, son tarihler ve **Sertifikayı indir (Download Certification)** ile sertifikalarınızın belgesini indirme, **Dalış merkezim (My Diving Center)** ile dalış merkezinizi goruntuleme/degistirme, **Tıbbi form (Medical Form)** ile tıbbi formu doldurma gibi hızlı işlemler).
+2. Öğrenme yolunu sürdürmek için [Kurslarım](courses.md) bölümüne gidin (kurs listesini açın, bir kurs seçin ve bir sonraki adıma devam edin: module/quiz/exam/skills; bir kurs görünmüyorsa varsa *"Expired" (süresi dolmuş)* bölümünü de kontrol edin).
 3. Kartları ve geçmişi incelemek için **Sertifikalarım** bölümüne gidin.
 4. Kayıt oluşturmak veya güncellemek için **Dalış Kayıt Defterim** bölümüne gidin.
 
@@ -30,21 +30,28 @@ Sağ üstte, tarih ve saatin yanında birkaç kısayol bulunur:
 - **Profil simgeleri (Diver / PRO / Dive Center / Distributor):** alanlar arasında geçiş yapmanızı sağlar.
   Simgeler yalnızca hesabınızda ilgili yetki/rol varsa görünür (ör. yalnızca Dalgıç iseniz sadece Diver simgesini görürsünüz).
 - **Tıklayınca:** seçilen alanın gösterge tablosuna yönlendirilirsiniz.
-- **Language (EN/IT/DE/FR/ES/NL/ZH/KO/TR):** arayüz dilini değiştirir.
-- **Full screen:** tam ekran modunu aç/kapat (tabletlerde veya sunumlarda faydalı).
-- **Theme/contrast:** arayüz görünümünü değiştirir (yapılandırmaya göre açık/koyu vb.).
+- **Dil (Language) (EN/IT/DE/FR/ES/NL/ZH/KO/TR/PT/PL):** arayüz dilini değiştirir.
+- **Tam ekran (Full screen):** tam ekran modunu aç/kapat (tabletlerde veya sunumlarda faydalı).
+- **Tema/kontrast (Theme/contrast):** arayüz görünümünü değiştirir (yapılandırmaya göre açık/koyu vb.).
 - **Profil fotoğrafı (hesap):** hesap menünüzü açar.
 
 ### Profil fotoğrafıma tıklarsam ne olur?
 
 Ekran görüntüsünde görüldüğü gibi aşağıdaki öğeleri içeren hesap menüsü açılır:
 
-- **My Profile:** profil bilgileriniz.
-- **My Activities:** portal etkinliği özetiniz.
-- **My Medical History:** tıbbi bilgiler/formlar (hesabınız için etkinse).
-- **My Security:** güvenlikle ilgili ayarlar/onaylar (varsa).
-- **My Privacy:** gizlilik ayarları.
-- **Sign out:** portaldan çıkış yapar.
+- **Profilim (My Profile):** profil bilgileriniz.
+- **Görevlerim (My Task):** atamalariniz ve davetleriniz (mevcutsa).
+- **Tıbbi geçmişim (My Medical History):** tıbbi bilgiler/formlar (hesabınız için etkinse).
+- **Güvenliğim (My Security):** güvenlikle ilgili ayarlar/onaylar (varsa).
+- **Gizliliğim (My Privacy):** gizlilik ayarları.
+- **Çıkış yap (Sign out):** portaldan çıkış yapar.
+
+**Görevlerim (My Task)** icinde genelde sunlari yapabilirsiniz:
+
+- Bekleyen davetleri ve aktif is birliklerini goruntuleme (ornegin Dive Center staff, Distributor staff, collaborations, translator).
+- Davetleri **Confirm** veya **Dismiss** etme.
+- Gerektiginde **Stop collaborating** (iptal/geri alma) (genellikle bir onay ifadesi yazmayi gerektirir; bazi iptallerde owned classroom silme gibi secenekler de olabilir).
+- Collaborations listesini arama, siralama ve sayfalama (varsa).
 
 ## Yaygın sorunlar
 
@@ -64,4 +71,4 @@ GET https://user.diveraid.com/tr/diver/dashboard
 
 </details>
 
-Sonraki: [Belgelerim](documents.md)
+Sonraki: [Yüklenen belgeler](uploaded-documents.md)

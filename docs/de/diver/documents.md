@@ -1,11 +1,8 @@
-# Diver: Documents
+# Diver: Meine Dokumente
 
 ## Wo finde ich das?
 
-Menue:
-
-- **Uploaded documents**
-- **Meine Dokumente**
+Menue: **Meine Dokumente**
 
 ## Persoenliche Dokumente
 
@@ -19,17 +16,7 @@ Typische Schritte:
 2. Dokument auswaehlen.
 3. Anzeigen oder herunterladen (je nach UI).
 
-## Hochgeladene Dokumente
-
-Hier findest du Dokumente, die deinem Profil zugeordnet sind (typischerweise von dir hochgeladen/registriert).
-
-![Uploaded documents](../../assets/screenshots/diver/en/documents-uploaded.png)
-
-Typische Schritte:
-
-1. Liste oeffnen.
-2. Filtern oder suchen (falls verfuegbar).
-3. Dokument oeffnen und Details ansehen.
+Fuer Dokumente, die du hochgeladen hast, gehe zu [Uploaded documents](uploaded-documents.md).
 
 ## Haeufige Probleme
 
@@ -41,7 +28,6 @@ Typische Schritte:
 
 ```text
 GET https://user.diveraid.com/de/diver/my-documents
-GET https://user.diveraid.com/de/diver/documents
 ```
 
 </details>

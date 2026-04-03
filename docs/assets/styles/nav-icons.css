@@ -37,7 +37,11 @@ html:not(.dra-fa-ready) .md-nav__link[href="/de/"]::before,
 html:not(.dra-fa-ready) .md-nav__link[href="/fr/"]::before,
 html:not(.dra-fa-ready) .md-nav__link[href="/es/"]::before,
 html:not(.dra-fa-ready) .md-nav__link[href="/nl/"]::before,
-html:not(.dra-fa-ready) .md-nav__link[href="/zh/"]::before {
+html:not(.dra-fa-ready) .md-nav__link[href="/zh/"]::before,
+html:not(.dra-fa-ready) .md-nav__link[href="/ko/"]::before,
+html:not(.dra-fa-ready) .md-nav__link[href="/tr/"]::before,
+html:not(.dra-fa-ready) .md-nav__link[href="/pt/"]::before,
+html:not(.dra-fa-ready) .md-nav__link[href="/pl/"]::before {
   display: inline-block;
   mask-image: url("../icons/home.svg");
   -webkit-mask-image: url("../icons/home.svg");
@@ -65,6 +69,12 @@ html:not(.dra-fa-ready) .md-nav__link[href*="diver/certifications"]::before {
   display: inline-block;
   mask-image: url("../icons/id-card.svg");
   -webkit-mask-image: url("../icons/id-card.svg");
+}
+
+html:not(.dra-fa-ready) .md-nav__link[href*="diver/uploaded-documents"]::before {
+  display: inline-block;
+  mask-image: url("../icons/files.svg");
+  -webkit-mask-image: url("../icons/files.svg");
 }
 
 html:not(.dra-fa-ready) .md-nav__link[href*="diver/documents"]::before {

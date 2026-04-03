@@ -1,11 +1,8 @@
-# Diver: documents
+# Diver: mes documents
 
 ## Ou le trouver
 
-Menu :
-
-- **Documents telecharges**
-- **Mes documents**
+Menu : **Mes documents**
 
 ## Documents personnels
 
@@ -19,17 +16,7 @@ Etapes typiques :
 2. Selectionner un document.
 3. Afficher ou telecharger (selon l'interface).
 
-## Documents televerses
-
-Ici tu trouves les documents associes a ton profil (generalement televerses/enregistres sous ton compte).
-
-![Uploaded documents](../../assets/screenshots/diver/en/documents-uploaded.png)
-
-Etapes typiques :
-
-1. Ouvrir la liste.
-2. Filtrer ou rechercher (si disponible).
-3. Ouvrir un document pour voir les details.
+Pour les documents que tu as televerses, va dans [Documents telecharges](uploaded-documents.md).
 
 ## Problemes frequents
 
@@ -41,7 +28,6 @@ Etapes typiques :
 
 ```text
 GET https://user.diveraid.com/fr/diver/my-documents
-GET https://user.diveraid.com/fr/diver/documents
 ```
 
 </details>

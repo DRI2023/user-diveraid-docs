@@ -41,7 +41,8 @@ plugins:
             Diver: Diver
             Overview: Overview
             Dashboard: Dashboard
-            Documents: Documents
+            Uploaded documents: Uploaded documents
+            Documents: My Documents
             Courses: Courses
             Free Learnings: FREE-Learning shop
             Certifications: Certifications
@@ -58,6 +59,7 @@ plugins:
             Diver: Diver
             Overview: Panoramica
             Dashboard: Dashboard
+            Uploaded documents: Documenti caricati
             Documents: I miei documenti
             Courses: I miei corsi
             Free Learnings: Negozio FREE-Learning
@@ -75,6 +77,7 @@ plugins:
             Diver: Diver
             Overview: Uebersicht
             Dashboard: Dashboard
+            Uploaded documents: Uploaded documents
             Documents: Meine Dokumente
             Courses: Meine Kurse
             Free Learnings: FREE-Learning Shop
@@ -92,6 +95,7 @@ plugins:
             Diver: Diver
             Overview: Apercu
             Dashboard: Tableau de bord
+            Uploaded documents: Documents telecharges
             Documents: Mes documents
             Courses: Mes cours
             Free Learnings: Boutique FREE-Learning
@@ -109,6 +113,7 @@ plugins:
             Diver: Diver
             Overview: Resumen
             Dashboard: Cuadro de mandos
+            Uploaded documents: Documentos cargados
             Documents: Mis documentos
             Courses: Mis cursos
             Free Learnings: Tienda FREE-Learning
@@ -126,6 +131,7 @@ plugins:
             Diver: Diver
             Overview: Overzicht
             Dashboard: Dashboard
+            Uploaded documents: Geuploade documenten
             Documents: Mijn Documenten
             Courses: Mijn Cursussen
             Free Learnings: FREE-Learning winkel
@@ -143,6 +149,7 @@ plugins:
             Diver: 潜水员
             Overview: 概览
             Dashboard: 汇总信息
+            Uploaded documents: 已上传的文件
             Documents: 常用文件
             Courses: 我的课程
             Free Learnings: 免费阅读（FREE-Learning）
@@ -161,6 +168,7 @@ plugins:
             Diver: 다이버
             Overview: 개요
             Dashboard: 대시보드
+            Uploaded documents: 업로드한 문서
             Documents: 내 문서
             Courses: 내 코스
             Free Learnings: 무료 학습 상점
@@ -179,6 +187,7 @@ plugins:
             Diver: Dalgıç
             Overview: Genel Bakış
             Dashboard: Gösterge Tablosu
+            Uploaded documents: Yüklenen belgeler
             Documents: Belgelerim
             Courses: Kurslarım
             Free Learnings: FREE-Learning mağazası
@@ -187,6 +196,42 @@ plugins:
             Dive Logs: Dalış Kayıt Defterim
             Store: Mağaza
             Forms: RAID Formları
+        - locale: pt
+          name: Portugues
+          site_name: DiveRaid Guia do utilizador
+          build: true
+          nav_translations:
+            Home: Home
+            Diver: Diver
+            Overview: Visao geral
+            Dashboard: Painel
+            Uploaded documents: Documentos Enviados
+            Documents: Meus Documentos
+            Courses: Meus Cursos
+            Free Learnings: E-Learning
+            Certifications: Meus Certificados
+            Awards: Minha Biblioteca
+            Dive Logs: Meu Log Book
+            Store: Loja
+            Forms: Formulários RAID
+        - locale: pl
+          name: Polski
+          site_name: DiveRaid Instrukcja uzytkownika
+          build: true
+          nav_translations:
+            Home: Home
+            Diver: Diver
+            Overview: Przegląd
+            Dashboard: Pulpit
+            Uploaded documents: Przesłane dokumenty
+            Documents: Moje dokumenty
+            Courses: Moje kursy
+            Free Learnings: Sklep FREE-Learning
+            Certifications: Moje certyfikaty
+            Awards: Moja biblioteka
+            Dive Logs: Mój dziennik nurkowy
+            Store: Sklep
+            Forms: Formularze RAID
 
 nav:
   - Home: index.md
@@ -197,6 +242,7 @@ nav:
       - Certifications: diver/certifications.md
       - Awards: diver/awards.md
       - Dive Logs: diver/dive-logs.md
+      - Uploaded documents: diver/uploaded-documents.md
       - Documents: diver/documents.md
       - Free Learnings: diver/free-learnings.md
       - Store: diver/store.md
