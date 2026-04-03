@@ -24,7 +24,7 @@ Ten przewodnik pomaga korzystac z `user.diveraid.com`, aby zarzadzac dokumentami
 
 ## Jezyki
 
-Uzyj selektora jezyka w naglowku (EN/IT/DE/FR/ES/NL/ZH/KO/TR/PT/PL).
+Uzyj selektora jezyka w naglowku (EN/IT/DE/FR/ES/NL/ZH/KO/TR/PT/PL/RU).
 
 <details>
 <summary>Dla wsparcia (szczegoly techniczne)</summary>

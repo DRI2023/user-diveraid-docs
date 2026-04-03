@@ -232,6 +232,24 @@ plugins:
             Dive Logs: Mój dziennik nurkowy
             Store: Sklep
             Forms: Formularze RAID
+        - locale: ru
+          name: Русский
+          site_name: Руководство пользователя DiveRaid
+          build: true
+          nav_translations:
+            Home: Главная
+            Diver: Дайвер
+            Overview: Обзор
+            Dashboard: Панель управления
+            Courses: Мои курсы
+            Certifications: Мои сертификаты
+            Awards: Моя библиотека
+            Dive Logs: Мой журнал погружений
+            Uploaded documents: Загруженные документы
+            Documents: Мои документы
+            Free Learnings: Магазин FREe-Learning
+            Store: Магазин
+            Forms: Формы рейдов
 
 nav:
   - Home: index.md

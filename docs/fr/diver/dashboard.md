@@ -30,7 +30,7 @@ En haut a droite, pres de la date et de l'heure, tu trouves quelques raccourcis 
 - **Icones de profil (Diver / PRO / Dive Center / Distributor) :** permettent de basculer entre les zones.
   Les icones apparaissent seulement si ton compte a la qualification/le role correspondant.
 - **Au clic :** tu es envoye vers le dashboard de la zone selectionnee.
-- **Langue (EN/IT/DE/FR/ES/NL/ZH/PT/PL) :** change la langue de l'interface.
+- **Langue (EN/IT/DE/FR/ES/NL/ZH/KO/TR/PT/PL/RU) :** change la langue de l'interface.
 - **Plein ecran :** active/desactive le plein ecran.
 - **Theme/contraste :** change l'apparence (par exemple clair/sombre).
 - **Photo de profil (compte) :** ouvre le menu du compte.

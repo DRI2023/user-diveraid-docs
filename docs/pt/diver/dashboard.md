@@ -30,7 +30,7 @@ No canto superior direito, junto a data e hora, encontras alguns atalhos:
 - **Icones de perfil (Diver / PRO / Dive Center / Distributor):** permitem alternar entre areas.
   Os icones so aparecem se a tua conta tiver a qualificacao/role correspondente (por exemplo, se fores apenas Diver veras apenas o icone Diver).
 - **Ao clicar:** es enviado para o painel da area selecionada.
-- **Idioma (Language) (EN/IT/DE/FR/ES/NL/ZH/KO/TR/PT/PL):** altera o idioma da interface.
+- **Idioma (Language) (EN/IT/DE/FR/ES/NL/ZH/KO/TR/PT/PL/RU):** altera o idioma da interface.
 - **Ecran completo (Full screen):** ativa/desativa o modo ecran completo (util em tablet ou apresentacoes).
 - **Tema/contraste (Theme/contrast):** altera o aspeto da interface (por exemplo claro/escuro, conforme configuracao).
 - **Foto de perfil (conta):** abre o menu da conta.

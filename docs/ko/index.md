@@ -23,7 +23,7 @@
 
 ## 언어
 
-상단의 언어 선택기에서 변경할 수 있습니다 (EN/IT/DE/FR/ES/NL/ZH/KO/TR/PT/PL).
+상단의 언어 선택기에서 변경할 수 있습니다 (EN/IT/DE/FR/ES/NL/ZH/KO/TR/PT/PL/RU).
 
 <details>
 <summary>기술 지원 (기술 정보)</summary>

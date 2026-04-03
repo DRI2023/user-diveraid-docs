@@ -30,7 +30,7 @@ In the top-right corner, next to date and time, you will find a few shortcuts:
 - **Profile icons (Diver / PRO / Dive Center / Distributor):** they let you switch between areas.
   Icons are shown only if your account has the related qualification/role (for example, if you are only a Diver you will only see the Diver icon).
 - **What happens when you click:** you are taken to the dashboard of the selected area.
-- **Language (EN/IT/DE/FR/ES/NL/ZH/PT/PL):** switches the UI language.
+- **Language (EN/IT/DE/FR/ES/NL/ZH/KO/TR/PT/PL/RU):** switches the UI language.
 - **Full screen:** toggles full screen mode (useful on tablets or during presentations).
 - **Theme/contrast:** changes the UI appearance (for example light/dark, depending on configuration).
 - **Profile photo (account):** opens your account menu.

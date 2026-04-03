@@ -41,7 +41,8 @@ html:not(.dra-fa-ready) .md-nav__link[href="/zh/"]::before,
 html:not(.dra-fa-ready) .md-nav__link[href="/ko/"]::before,
 html:not(.dra-fa-ready) .md-nav__link[href="/tr/"]::before,
 html:not(.dra-fa-ready) .md-nav__link[href="/pt/"]::before,
-html:not(.dra-fa-ready) .md-nav__link[href="/pl/"]::before {
+html:not(.dra-fa-ready) .md-nav__link[href="/pl/"]::before,
+html:not(.dra-fa-ready) .md-nav__link[href="/ru/"]::before {
   display: inline-block;
   mask-image: url("../icons/home.svg");
   -webkit-mask-image: url("../icons/home.svg");

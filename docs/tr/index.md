@@ -23,7 +23,7 @@ Bu kılavuz, `user.diveraid.com` üzerinde belgelerinizi, kurslarınızı, serti
 
 ## Diller
 
-Üst kısımdaki dil seçiciden dili değiştirebilirsiniz (EN/IT/DE/FR/ES/NL/ZH/KO/TR/PT/PL).
+Üst kısımdaki dil seçiciden dili değiştirebilirsiniz (EN/IT/DE/FR/ES/NL/ZH/KO/TR/PT/PL/RU).
 
 <details>
 <summary>Destek (teknik bilgiler)</summary>

@@ -6,7 +6,7 @@
 //
 // This expects FontAwesome to be loaded via mkdocs.yml -> extra_javascript.
 (function () {
-  const LOCALES = new Set(["it", "en", "de", "fr", "es", "nl", "zh", "ko", "tr", "pt", "pl"]);
+  const LOCALES = new Set(["it", "en", "de", "fr", "es", "nl", "zh", "ko", "tr", "pt", "pl", "ru"]);
 
   function normalizePathname(href) {
     try {

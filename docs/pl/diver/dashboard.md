@@ -30,7 +30,7 @@ W prawym gornym rogu, obok daty i godziny, znajdziesz kilka skrotow:
 - **Ikony profilu (Diver / PRO / Dive Center / Distributor):** pozwalaja przelaczac sie miedzy obszarami.
   Ikony sa widoczne tylko, jesli twoje konto ma odpowiednia kwalifikacje/role (np. jesli jestes tylko Diver, zobaczysz tylko ikone Diver).
 - **Po kliknieciu:** przechodzisz do pulpitu wybranego obszaru.
-- **Jezyk (Language) (EN/IT/DE/FR/ES/NL/ZH/KO/TR/PT/PL):** zmienia jezyk interfejsu.
+- **Jezyk (Language) (EN/IT/DE/FR/ES/NL/ZH/KO/TR/PT/PL/RU):** zmienia jezyk interfejsu.
 - **Pelny ekran (Full screen):** wlacza/wylacza tryb pelnoekranowy (przydatne na tabletach lub podczas prezentacji).
 - **Motyw/kontrast (Theme/contrast):** zmienia wyglad interfejsu (np. jasny/ciemny, w zaleznosci od konfiguracji).
 - **Zdjecie profilu (konto):** otwiera menu konta.

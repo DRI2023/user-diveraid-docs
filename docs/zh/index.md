@@ -23,7 +23,7 @@
 
 ## 语言
 
-你可以在页面顶部切换语言（EN/IT/DE/FR/ES/NL/ZH/KO/TR/PT/PL）。
+你可以在页面顶部切换语言（EN/IT/DE/FR/ES/NL/ZH/KO/TR/PT/PL/RU）。
 
 <details>
 <summary>技术支持（技术细节）</summary>
