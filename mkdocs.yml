@@ -7,9 +7,20 @@ theme:
   name: material
   language: en
   palette:
-    - scheme: default
+    - media: "(prefers-color-scheme: light)"
+      scheme: default
       primary: teal
       accent: amber
+      toggle:
+        icon: material/brightness-4
+        name: Switch to dark mode
+    - media: "(prefers-color-scheme: dark)"
+      scheme: slate
+      primary: teal
+      accent: amber
+      toggle:
+        icon: material/brightness-7
+        name: Switch to light mode
   features:
     - navigation.tracking
     - navigation.top
@@ -26,6 +37,7 @@ extra_css:
 extra_javascript:
   - https://user.diveraid.com/vendor/fontawesome/icons/js/all.min.js
   - assets/scripts/nav-fa.js
+  - assets/scripts/palette-menu.js
 
 plugins:
   - search
