@@ -25,6 +25,8 @@ Dieser Guide hilft dir, `user.diveraid.com` zu nutzen, um Dokumente, Kurse, Zert
 
 Nutze den Sprachwaehler im Header (EN/IT/DE/FR/ES/ZH/AR/NL/KO/TR/PT/PL/RU).
 
+Sprachsymbol in der Kopfzeile: :material-translate:
+
 <details>
 <summary>Fuer Support (technische Details)</summary>
 
@@ -41,13 +43,5 @@ GET https://user.diveraid.com/de/diver/dashboard
 ```
 
 </details>
-
-## Status
-
-Wir starten mit dem Bereich **Diver**. Nach deinem Review erweitern wir die Doku um:
-
-- Professional
-- Dive Center
-- Distributor
 
 Weiter: [Diver > Overview](diver/overview.md)

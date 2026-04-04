@@ -8,6 +8,8 @@ FREE-Learning to tresci szkoleniowe dostepne w uproszczonym trybie (zwykle bez z
 
 Menu: **Sklep FREE-Learning**
 
+![FREE-Learning shop](../../assets/screenshots/diver/en/free-learnings-store.png)
+
 ## Aktywacja (enroll)
 
 Typowe kroki:

@@ -8,6 +8,8 @@ Free Learnings sind Trainingsinhalte, die ueber einen vereinfachten Ablauf zugae
 
 Menue: **FREE-Learning Shop**
 
+![FREE-Learning shop](../../assets/screenshots/diver/en/free-learnings-store.png)
+
 ## Enroll (aktivieren)
 
 Typische Schritte:

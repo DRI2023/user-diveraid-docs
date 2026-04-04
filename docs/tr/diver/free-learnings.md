@@ -8,6 +8,8 @@ FREE-Learning içerikleri, basitleştirilmiş bir akışla erişilebilen eğitim
 
 Menü: **Dalgıç -> FREE-Learning mağazası**
 
+![FREE-Learning shop](../../assets/screenshots/diver/en/free-learnings-store.png)
+
 ## Kayıt (Enroll)
 
 Tipik adımlar:

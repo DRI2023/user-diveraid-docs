@@ -8,6 +8,8 @@
 
 القائمة: **غواص -> متجر التعلم الإلكتروني FREe**
 
+![FREE-Learning shop](../../assets/screenshots/diver/en/free-learnings-store.png)
+
 ## التسجيل
 
 خطوات شائعة:

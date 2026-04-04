@@ -25,6 +25,8 @@ Esta guia te ayuda a usar `user.diveraid.com` para gestionar documentos, cursos,
 
 Usa el selector de idioma en el encabezado (EN/IT/DE/FR/ES/ZH/AR/NL/KO/TR/PT/PL/RU).
 
+Icono de idioma en el encabezado: :material-translate:
+
 <details>
 <summary>Para soporte (detalles tecnicos)</summary>
 
@@ -41,13 +43,5 @@ GET https://user.diveraid.com/es/diver/dashboard
 ```
 
 </details>
-
-## Estado
-
-Empezamos con el area **Diver**. Despues de tu revision, ampliaremos a:
-
-- Professional
-- Dive Center
-- Distributor
 
 Ir a: [Diver > Overview](diver/overview.md)

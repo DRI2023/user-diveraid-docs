@@ -25,6 +25,8 @@ Questa guida ti aiuta a usare `user.diveraid.com` per gestire documenti, corsi, 
 
 Puoi cambiare lingua dal selettore in alto (EN/IT/DE/FR/ES/ZH/AR/NL/KO/TR/PT/PL/RU).
 
+Icona lingua nell'header: :material-translate:
+
 <details>
 <summary>Per supporto (dettagli tecnici)</summary>
 
@@ -41,13 +43,5 @@ GET https://user.diveraid.com/it/diver/dashboard
 ```
 
 </details>
-
-## Stato
-
-Si parte dall'area **Diver**. Dopo tua conferma, estenderemo la guida a:
-
-- Professional
-- Dive Center
-- Distributor
 
 Vai a: [Diver > Panoramica](diver/overview.md)

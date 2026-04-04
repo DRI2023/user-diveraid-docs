@@ -25,6 +25,8 @@ This guide helps you use `user.diveraid.com` to manage documents, courses, certi
 
 Use the language selector in the header (EN/IT/DE/FR/ES/ZH/AR/NL/KO/TR/PT/PL/RU).
 
+Language icon in the header: :material-translate:
+
 <details>
 <summary>For support (technical details)</summary>
 
@@ -41,13 +43,5 @@ GET https://user.diveraid.com/en/diver/dashboard
 ```
 
 </details>
-
-## Status
-
-We are starting with the **Diver** area. After you review and confirm, we will expand to:
-
-- Professional
-- Dive Center
-- Distributor
 
 Go to: [Diver > Overview](diver/overview.md)

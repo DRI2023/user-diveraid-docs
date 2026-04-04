@@ -8,6 +8,8 @@ E-Learning sao conteudos de formacao acessiveis por um fluxo simplificado (norma
 
 Menu: **E-Learning**
 
+![FREE-Learning shop](../../assets/screenshots/diver/en/free-learnings-store.png)
+
 ## Ativar (enroll)
 
 Passos tipicos:

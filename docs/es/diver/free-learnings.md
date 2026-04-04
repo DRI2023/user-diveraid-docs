@@ -8,6 +8,8 @@ Los free learnings son contenidos de formacion accesibles con un flujo simplific
 
 Menu: **Tienda FREE-Learning**
 
+![FREE-Learning shop](../../assets/screenshots/diver/en/free-learnings-store.png)
+
 ## Enroll
 
 Pasos tipicos:

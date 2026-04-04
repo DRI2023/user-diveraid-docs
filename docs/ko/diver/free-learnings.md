@@ -8,6 +8,8 @@
 
 메뉴: **다이버 -> 무료 학습 상점**
 
+![FREE-Learning shop](../../assets/screenshots/diver/en/free-learnings-store.png)
+
 ## 등록 (Enroll)
 
 일반적인 단계:

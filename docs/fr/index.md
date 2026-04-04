@@ -25,6 +25,8 @@ Ce guide t'aide a utiliser `user.diveraid.com` pour gerer les documents, les cou
 
 Utilise le selecteur de langue dans l'en-tete (EN/IT/DE/FR/ES/ZH/AR/NL/KO/TR/PT/PL/RU).
 
+Icone de langue dans l'en-tete : :material-translate:
+
 <details>
 <summary>Pour le support (details techniques)</summary>
 
@@ -41,13 +43,5 @@ GET https://user.diveraid.com/fr/diver/dashboard
 ```
 
 </details>
-
-## Statut
-
-On commence par la zone **Diver**. Apres ta validation, on etendra a :
-
-- Professional
-- Dive Center
-- Distributor
 
 Aller a : [Diver > Overview](diver/overview.md)

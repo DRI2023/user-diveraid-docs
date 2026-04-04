@@ -25,6 +25,8 @@ Bu kılavuz, `user.diveraid.com` üzerinde belgelerinizi, kurslarınızı, serti
 
 Üst kısımdaki dil seçiciden dili değiştirebilirsiniz (EN/IT/DE/FR/ES/ZH/AR/NL/KO/TR/PT/PL/RU).
 
+Üst çubuktaki dil simgesi: :material-translate:
+
 <details>
 <summary>Destek (teknik bilgiler)</summary>
 
@@ -41,13 +43,5 @@ GET https://user.diveraid.com/tr/diver/dashboard
 ```
 
 </details>
-
-## Durum
-
-Şimdilik **Dalgıç** alanıyla başlıyoruz. İncelemenizden sonra şu alanlara genişleteceğiz:
-
-- Professional
-- Dive Center
-- Distributor
 
 Git: [Dalgıç > Genel Bakış](diver/overview.md)

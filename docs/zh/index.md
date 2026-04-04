@@ -42,12 +42,4 @@ GET https://user.diveraid.com/zh/diver/dashboard
 
 </details>
 
-## 状态
-
-我们先从 **潜水员（Diver）** 区域开始。你确认后，我们会继续扩展到：
-
-- Professional
-- Dive Center
-- Distributor
-
 下一步： [潜水员 > 概览](diver/overview.md)

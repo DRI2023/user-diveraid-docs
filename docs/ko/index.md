@@ -25,6 +25,8 @@
 
 상단의 언어 선택기에서 변경할 수 있습니다 (EN/IT/DE/FR/ES/ZH/AR/NL/KO/TR/PT/PL/RU).
 
+헤더의 언어 아이콘: :material-translate:
+
 <details>
 <summary>기술 지원 (기술 정보)</summary>
 
@@ -41,13 +43,5 @@ GET https://user.diveraid.com/ko/diver/dashboard
 ```
 
 </details>
-
-## 상태
-
-현재는 **다이버** 영역부터 시작합니다. 검토 후 다음 영역으로 확장합니다:
-
-- Professional
-- Dive Center
-- Distributor
 
 이동: [다이버 > 개요](diver/overview.md)

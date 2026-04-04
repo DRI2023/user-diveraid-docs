@@ -8,6 +8,8 @@ Free learnings are training contents accessible via a simplified flow (typically
 
 Menu: **Diver -> Free Learnings**
 
+![FREE-Learning shop](../../assets/screenshots/diver/en/free-learnings-store.png)
+
 ## Enroll
 
 Typical steps:

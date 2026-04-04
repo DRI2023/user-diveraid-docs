@@ -25,6 +25,8 @@
 
 استخدم محدد اللغة في الشريط العلوي (EN/IT/DE/FR/ES/ZH/AR/NL/KO/TR/PT/PL/RU).
 
+أيقونة اللغة في الشريط العلوي: :material-translate:
+
 <details>
 <summary>للدعم (تفاصيل تقنية)</summary>
 
@@ -42,13 +44,4 @@ GET https://user.diveraid.com/ar/diver/dashboard
 
 </details>
 
-## الحالة
-
-نبدأ بمنطقة **الغواص**. بعد المراجعة والتأكيد، سنوسع الدليل إلى:
-
-- Professional
-- Dive Center
-- Distributor
-
 اذهب إلى: [غواص > نظرة عامة](diver/overview.md)
-

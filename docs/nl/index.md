@@ -25,6 +25,8 @@ Deze gids helpt je `user.diveraid.com` te gebruiken om documenten, cursussen, ce
 
 Gebruik de taalkeuze in de header (EN/IT/DE/FR/ES/ZH/AR/NL/KO/TR/PT/PL/RU).
 
+Taalpictogram in de header: :material-translate:
+
 <details>
 <summary>Voor support (technische details)</summary>
 
@@ -41,13 +43,5 @@ GET https://user.diveraid.com/nl/diver/dashboard
 ```
 
 </details>
-
-## Status
-
-We starten met het **Diver**-gedeelte. Na jouw review breiden we uit naar:
-
-- Professional
-- Dive Center
-- Distributor
 
 Ga naar: [Diver > Overview](diver/overview.md)

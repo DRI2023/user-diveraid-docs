@@ -26,6 +26,8 @@
 
 Вы можете переключить язык в верхней панели (EN/IT/DE/FR/ES/ZH/AR/NL/KO/TR/PT/PL/RU).
 
+Значок языка в шапке: :material-translate:
+
 <details>
 <summary>Для поддержки (технические детали)</summary>
 
@@ -42,13 +44,5 @@ GET https://user.diveraid.com/ru/diver/dashboard
 ```
 
 </details>
-
-## Статус
-
-Сейчас мы начинаем с области **Дайвер**. После вашего подтверждения мы расширим руководство на:
-
-- Professional
-- Dive Center
-- Distributor
 
 Перейти: [Дайвер > Обзор](diver/overview.md)

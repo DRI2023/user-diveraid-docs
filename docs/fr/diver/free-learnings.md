@@ -8,6 +8,8 @@ Les free learnings sont des contenus de formation accessibles via un flux simpli
 
 Menu : **Boutique FREE-Learning**
 
+![FREE-Learning shop](../../assets/screenshots/diver/en/free-learnings-store.png)
+
 ## Enroll
 
 Etapes typiques :

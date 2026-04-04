@@ -8,6 +8,8 @@
 
 菜单：**潜水员 -> 免费阅读（FREE-Learning）**
 
+![FREE-Learning shop](../../assets/screenshots/diver/en/free-learnings-store.png)
+
 ## 申请/开通
 
 典型操作：

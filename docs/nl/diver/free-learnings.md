@@ -8,6 +8,8 @@ Free learnings zijn trainingsinhoud die via een vereenvoudigde flow beschikbaar 
 
 Menu: **FREE-Learning winkel**
 
+![FREE-Learning shop](../../assets/screenshots/diver/en/free-learnings-store.png)
+
 ## Enroll
 
 Typische stappen:

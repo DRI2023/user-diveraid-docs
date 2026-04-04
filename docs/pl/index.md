@@ -26,6 +26,8 @@ Ten przewodnik pomaga korzystac z `user.diveraid.com`, aby zarzadzac dokumentami
 
 Uzyj selektora jezyka w naglowku (EN/IT/DE/FR/ES/ZH/AR/NL/KO/TR/PT/PL/RU).
 
+Ikona jezyka w naglowku: :material-translate:
+
 <details>
 <summary>Dla wsparcia (szczegoly techniczne)</summary>
 
@@ -42,13 +44,5 @@ GET https://user.diveraid.com/pl/diver/dashboard
 ```
 
 </details>
-
-## Status
-
-Zaczynamy od obszaru **Diver**. Po przegladzie i potwierdzeniu rozszerzymy dokumentacje na:
-
-- Professional
-- Dive Center
-- Distributor
 
 Przejdz do: [Diver > Przegląd](diver/overview.md)
