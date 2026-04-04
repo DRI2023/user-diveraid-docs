@@ -10,6 +10,9 @@
 // - System: clear persisted preference so OS setting takes effect
 (function () {
   const DRA_MODE_KEY = "dra_palette_mode";
+  const SYSTEM_MQL = typeof window !== "undefined" && window.matchMedia
+    ? window.matchMedia("(prefers-color-scheme: dark)")
+    : null;
 
   function lang() {
     return (document.documentElement.getAttribute("lang") || "en").toLowerCase();
@@ -168,6 +171,30 @@
     }
   }
 
+  function applyPaletteFromInput(input) {
+    if (!input) return;
+    const body = document.body;
+    if (!body) return;
+
+    const media = input.getAttribute("data-md-color-media");
+    const scheme = input.getAttribute("data-md-color-scheme");
+    const primary = input.getAttribute("data-md-color-primary");
+    const accent = input.getAttribute("data-md-color-accent");
+
+    if (media) body.setAttribute("data-md-color-media", media);
+    if (scheme) body.setAttribute("data-md-color-scheme", scheme);
+    if (primary) body.setAttribute("data-md-color-primary", primary);
+    if (accent) body.setAttribute("data-md-color-accent", accent);
+  }
+
+  function applySystemPaletteNow() {
+    // Keep Material unpinned and apply current OS preference live.
+    clearStoredPalette();
+    const mode = SYSTEM_MQL && SYSTEM_MQL.matches ? "dark" : "light";
+    applyPaletteFromInput(findPaletteInput(mode));
+    setTimeout(updateAnchorIcon, 0);
+  }
+
   function findPaletteInput(mode) {
     const form = getPaletteForm();
     if (!form) return null;
@@ -185,8 +212,7 @@
   function applyMode(mode) {
     setSelectedMode(mode);
     if (mode === "system") {
-      clearStoredPalette();
-      window.location.reload();
+      applySystemPaletteNow();
       return;
     }
 
@@ -233,6 +259,7 @@
   let menu = null;
   let anchorBtn = null;
   let lastMode = null;
+  let systemListenerAttached = false;
 
   function closeMenu() {
     if (!menu) return;
@@ -363,6 +390,51 @@
     );
 
     updateAnchorIcon();
+
+    // If user chose "System", keep the palette synced while the page stays open.
+    // Material doesn't reliably live-update on OS changes once a palette was ever stored,
+    // so we enforce it here.
+    if (!systemListenerAttached && SYSTEM_MQL) {
+      const onChange = () => {
+        try {
+          if (getSelectedMode() !== "system") return;
+        } catch {
+          return;
+        }
+        applySystemPaletteNow();
+      };
+      if (typeof SYSTEM_MQL.addEventListener === "function") SYSTEM_MQL.addEventListener("change", onChange);
+      else if (typeof SYSTEM_MQL.addListener === "function") SYSTEM_MQL.addListener(onChange);
+      systemListenerAttached = true;
+    }
+
+    // Some OS/browser combos only reflect the new scheme after the tab regains focus.
+    // This keeps "System" consistent even if the change happened while the page was backgrounded.
+    window.addEventListener(
+      "focus",
+      () => {
+        try {
+          if (getSelectedMode() !== "system") return;
+        } catch {
+          return;
+        }
+        applySystemPaletteNow();
+      },
+      { passive: true }
+    );
+    document.addEventListener(
+      "visibilitychange",
+      () => {
+        if (document.visibilityState !== "visible") return;
+        try {
+          if (getSelectedMode() !== "system") return;
+        } catch {
+          return;
+        }
+        applySystemPaletteNow();
+      },
+      { passive: true }
+    );
   }
 
   if (typeof window.document$ !== "undefined" && typeof window.document$.subscribe === "function") {
