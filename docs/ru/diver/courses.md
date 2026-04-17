@@ -24,24 +24,70 @@
 2. Выберите курс, чтобы открыть его прогресс.
 3. Если курс не виден, проверьте раздел просроченных (*Expired*), если он есть.
 
-Далее внутри курса:
+## Прогресс курса (сводка)
 
-1. Найдите следующий шаг (module, quiz, exam, skills).
+Когда вы открываете курс, вы попадаете на страницу **прогресса**. Это центр курса: что выполнено и что дальше.
+
+<!-- TODO(screenshot): docs/assets/screenshots/diver/ru/courses-progress.png -->
+![Прогресс курса (сводка)](../../assets/screenshots/diver/en/courses-progress.png)
+
+Типовые шаги:
+
+1. В курсе найдите следующий шаг (module, quiz, exam, skills).
 2. Выполните его и вернитесь к сводке прогресса, чтобы проверить продвижение.
 
 ## Попытки (quiz/exam/skills)
 
-Подсказки:
+Попытки это страницы, где вы **выполняете** задание (отвечаете, отправляете, подтверждаете).
 
-- Если вы открыли модуль и видите пустую страницу или ошибку, модуль может быть недоступен для вашего курса или уже пройден.
+### Попытка quiz (module)
+
+<!-- TODO(screenshot): docs/assets/screenshots/diver/ru/courses-quiz-attempt.png -->
+![Quiz attempt](../../assets/screenshots/diver/en/courses-quiz-attempt.png)
+
+Типовые шаги:
+
+1. В прогрессе курса откройте следующий шаг (module/quiz).
+2. Ответьте на вопросы.
+3. Отправьте.
+4. Откройте результаты (если доступны), чтобы проверить ответы.
+
+### Попытка exam
+
+<!-- TODO(screenshot): docs/assets/screenshots/diver/ru/courses-exam-attempt.png -->
+![Exam attempt](../../assets/screenshots/diver/en/courses-exam-attempt.png)
+
+Примечание: экзамен доступен только после завершения обязательных quiz/module и после того, как инструктор его активирует.
+
+Типовые шаги:
+
+1. В прогрессе курса откройте **Exam**.
+2. Завершите экзамен.
+3. Отправьте и дождитесь страницы результатов.
+
+### Skills
+
+Skills это практические шаги, которые могут требовать подтверждения в зависимости от курса.
+
+<!-- TODO(screenshot): docs/assets/screenshots/diver/ru/courses-skills.png -->
+![Skills signatures](../../assets/screenshots/diver/en/courses-skills.png)
+
+Примечание: подтвердить skills можно только после того, как инструктор отметит их как выполненные.
+
+Совет: если курс требует, не забудьте заполнить связанную запись Dive Log/Logbook для skills перед подтверждением.
 
 ## Детали прогресса (quiz/exam/skills)
 
+Детали прогресса это страницы, где вы смотрите **результаты** (например ответы quiz или результаты exam).
+
+<!-- TODO(screenshot): docs/assets/screenshots/diver/ru/courses-results.png -->
+![Детали прогресса (результаты)](../../assets/screenshots/diver/en/courses-results.png)
+
 ## Частые проблемы
 
-- Переадресация на вход: сессия истекла.
+- Перенаправление на логин: сессия истекла.
 - Доступ запрещен: email не подтвержден.
-- Курс не найден: старая ссылка или курс не привязан к вашему профилю.
+- Курс не найден: старая ссылка или курс не привязан к аккаунту.
 
 <details>
 <summary>Для поддержки (технические детали)</summary>
@@ -68,5 +114,5 @@ GET https://user.diveraid.com/ru/diver/courses/progress/{log_code}/skill/sign
 
 </details>
 
-Далее: [Магазин FREe-Learning](free-learnings.md)
+Далее: [FREE-Learning shop](free-learnings.md)
 

@@ -64,6 +64,7 @@ plugins:
             Courses: Courses
             Free Learnings: FREE-Learning shop
             Certifications: Certifications
+            My Library: My Library
             Awards: Awards
             Dive Logs: Dive Logs
             Store: Store
@@ -82,6 +83,7 @@ plugins:
             Courses: I miei corsi
             Free Learnings: Negozio FREE-Learning
             Certifications: Le mie certificazioni
+            My Library: La mia libreria
             Awards: I miei awards
             Dive Logs: Il mio Dive Log
             Store: Negozio
@@ -100,6 +102,7 @@ plugins:
             Courses: Meine Kurse
             Free Learnings: FREE-Learning Shop
             Certifications: Meine Zertifizierungen
+            My Library: Meine Bibliothek
             Awards: Awards
             Dive Logs: Mein Tauchlogbuch
             Store: Laden
@@ -118,6 +121,7 @@ plugins:
             Courses: Mes cours
             Free Learnings: Boutique FREE-Learning
             Certifications: Mes certifications
+            My Library: Ma bibliotheque
             Awards: Awards
             Dive Logs: Mon carnet de plongee
             Store: Boutique
@@ -136,6 +140,7 @@ plugins:
             Courses: Mis cursos
             Free Learnings: Tienda FREE-Learning
             Certifications: Mis certificaciones
+            My Library: Mi biblioteca
             Awards: Awards
             Dive Logs: Mi diario de inmersiones
             Store: Tienda
@@ -154,6 +159,7 @@ plugins:
             Courses: 我的课程
             Free Learnings: 免费阅读（FREE-Learning）
             Certifications: 我已获得的潜水员级认证
+            My Library: 我的资料库
             Awards: 我的荣誉卡
             Dive Logs: 我的潜水日志
             Store: 线上商店
@@ -172,6 +178,7 @@ plugins:
             Courses: دوراتي
             Free Learnings: متجر التعلم الإلكتروني FREe
             Certifications: شهاداتي
+            My Library: مكتبتي
             Awards: مكتبتي
             Dive Logs: سجل غوصي
             Store: المتجر
@@ -190,6 +197,7 @@ plugins:
             Courses: Mijn Cursussen
             Free Learnings: FREE-Learning winkel
             Certifications: Mijn Certificeringen
+            My Library: Mijn bibliotheek
             Awards: Awards
             Dive Logs: Mijn Duiklogboek
             Store: Winkel
@@ -209,6 +217,7 @@ plugins:
             Courses: 내 코스
             Free Learnings: 무료 학습 상점
             Certifications: 내 인증
+            My Library: 내 라이브러리
             Awards: 내 라이브러리
             Dive Logs: 내 다이빙 로그
             Store: 스토어
@@ -228,6 +237,7 @@ plugins:
             Courses: Kurslarım
             Free Learnings: FREE-Learning mağazası
             Certifications: Sertifikalarım
+            My Library: Kütüphanem
             Awards: Kitaplığım
             Dive Logs: Dalış Kayıt Defterim
             Store: Mağaza
@@ -246,6 +256,7 @@ plugins:
             Courses: Meus Cursos
             Free Learnings: E-Learning
             Certifications: Meus Certificados
+            My Library: Minha Biblioteca
             Awards: Minha Biblioteca
             Dive Logs: Meu Log Book
             Store: Loja
@@ -264,6 +275,7 @@ plugins:
             Courses: Moje kursy
             Free Learnings: Sklep FREE-Learning
             Certifications: Moje certyfikaty
+            My Library: Moja biblioteka
             Awards: Moja biblioteka
             Dive Logs: Mój dziennik nurkowy
             Store: Sklep
@@ -279,6 +291,7 @@ plugins:
             Dashboard: Панель управления
             Courses: Мои курсы
             Certifications: Мои сертификаты
+            My Library: Моя библиотека
             Awards: Моя библиотека
             Dive Logs: Мой журнал погружений
             Uploaded documents: Загруженные документы
@@ -294,6 +307,7 @@ nav:
       - Dashboard: diver/dashboard.md
       - Courses: diver/courses.md
       - Certifications: diver/certifications.md
+      - My Library: diver/library.md
       - Awards: diver/awards.md
       - Dive Logs: diver/dive-logs.md
       - Uploaded documents: diver/uploaded-documents.md

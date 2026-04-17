@@ -24,6 +24,13 @@ Typical steps:
 2. Select a course to open its progress.
 3. If a course is missing, also check the expired section (if available).
 
+## Course progress (summary)
+
+When you open a course, you are taken to a **progress** page. This page is the hub for the course: it shows what you have completed and what is next.
+
+<!-- TODO(screenshot): docs/assets/screenshots/diver/en/courses-progress.png -->
+![Course progress (summary)](../../assets/screenshots/diver/en/courses-progress.png)
+
 Typical steps:
 
 1. Inside the course, find the next step to complete (module, quiz, exam, skills).
@@ -31,11 +38,50 @@ Typical steps:
 
 ## Attempts (quiz/exam/skills)
 
-Tips:
+Attempts are the pages where you **do** the activity (answer questions, submit, confirm).
 
-- If you open a module and see an empty page or an error, the module may be unavailable for your course or already completed.
+### Quiz attempt (module)
+
+<!-- TODO(screenshot): docs/assets/screenshots/diver/en/courses-quiz-attempt.png -->
+![Quiz attempt](../../assets/screenshots/diver/en/courses-quiz-attempt.png)
+
+Typical steps:
+
+1. From course progress, open the next module/quiz step.
+2. Answer the questions.
+3. Submit.
+4. Open results (if available) to review your answers.
+
+### Exam attempt
+
+<!-- TODO(screenshot): docs/assets/screenshots/diver/en/courses-exam-attempt.png -->
+![Exam attempt](../../assets/screenshots/diver/en/courses-exam-attempt.png)
+
+Note: the exam becomes available only after you complete the required quizzes/modules, and after an instructor enables it.
+
+Typical steps:
+
+1. From course progress, open **Exam**.
+2. Complete the exam.
+3. Submit and wait for the result page.
+
+### Skills
+
+Skills are practical steps that can require confirmation/signature depending on how the course is configured.
+
+<!-- TODO(screenshot): docs/assets/screenshots/diver/en/courses-skills.png -->
+![Skills signatures](../../assets/screenshots/diver/en/courses-skills.png)
+
+Note: you can confirm/sign skills only after an instructor marks them as completed.
+
+Tip: if the course requires it, remember to create/complete the related dive logbook entry for the skills before confirming.
 
 ## Progress details (quiz/exam/skills)
+
+Progress details are the pages where you **review results** (for example the quiz answers or exam results).
+
+<!-- TODO(screenshot): docs/assets/screenshots/diver/en/courses-results.png -->
+![Progress details (results)](../../assets/screenshots/diver/en/courses-results.png)
 
 ## Common issues
 

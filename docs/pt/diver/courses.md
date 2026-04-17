@@ -8,7 +8,7 @@
 
 ## Onde encontrar
 
-Menu: **Meus Cursos**
+Menu: **Diver -> Meus Cursos**
 
 ## O que podes fazer
 
@@ -24,22 +24,70 @@ Passos tipicos:
 2. Seleciona um curso para abrir o progresso.
 3. Se um curso nao aparecer, verifica tambem a secao de expirados (se existir).
 
-Dentro do curso:
+## Progresso do curso (resumo)
 
-1. Encontra o proximo passo a concluir (modulo, quiz, exam, skills).
+Ao abrir um curso, es levado para a pagina de **progresso**. Esta pagina e o hub do curso: o que ja foi concluido e o que vem a seguir.
+
+<!-- TODO(screenshot): docs/assets/screenshots/diver/pt/courses-progress.png -->
+![Progresso do curso (resumo)](../../assets/screenshots/diver/en/courses-progress.png)
+
+Passos tipicos:
+
+1. No curso, encontra o proximo passo (modulo, quiz, exam, skills).
 2. Conclui e volta ao resumo do progresso para verificar o avancar.
 
 ## Tentativas (quiz/exam/skills)
 
-Dica:
+As tentativas sao as paginas onde **fazes** a atividade (responder, submeter, confirmar).
 
-- Se abrires um modulo e vires uma pagina vazia ou um erro, o modulo pode nao estar disponivel para o teu curso ou ja estar concluido.
+### Tentativa de quiz (modulo)
+
+<!-- TODO(screenshot): docs/assets/screenshots/diver/pt/courses-quiz-attempt.png -->
+![Quiz attempt](../../assets/screenshots/diver/en/courses-quiz-attempt.png)
+
+Passos tipicos:
+
+1. No progresso do curso, abre o proximo passo (modulo/quiz).
+2. Responde as perguntas.
+3. Submete.
+4. Abre os resultados (se disponivel) para rever as respostas.
+
+### Tentativa de exame
+
+<!-- TODO(screenshot): docs/assets/screenshots/diver/pt/courses-exam-attempt.png -->
+![Exam attempt](../../assets/screenshots/diver/en/courses-exam-attempt.png)
+
+Nota: o exame so fica disponivel depois de concluir os quizzes/modulos obrigatorios e depois de um instrutor o habilitar.
+
+Passos tipicos:
+
+1. No progresso do curso, abre **Exam**.
+2. Conclui o exame.
+3. Submete e aguarda a pagina de resultados.
+
+### Skills
+
+As skills sao passos praticos que podem exigir confirmacao conforme a configuracao do curso.
+
+<!-- TODO(screenshot): docs/assets/screenshots/diver/pt/courses-skills.png -->
+![Skills signatures](../../assets/screenshots/diver/en/courses-skills.png)
+
+Nota: so podes confirmar skills depois de um instrutor as marcar como concluidas.
+
+Dica: se o curso exigir, nao te esquecas de preencher o Dive Log/Logbook relacionado com as skills antes de confirmar.
+
+## Detalhes do progresso (quiz/exam/skills)
+
+Os detalhes do progresso sao as paginas onde revês **resultados** (por exemplo respostas do quiz ou resultados do exame).
+
+<!-- TODO(screenshot): docs/assets/screenshots/diver/pt/courses-results.png -->
+![Detalhes do progresso (resultados)](../../assets/screenshots/diver/en/courses-results.png)
 
 ## Problemas comuns
 
 - Redirecionado para login: sessao expirada.
 - Acesso negado: email nao verificado.
-- Curso nao encontrado: link antigo ou curso nao associado ao teu utilizador.
+- Curso nao encontrado: link antigo ou curso nao associado ao utilizador.
 
 <details>
 <summary>Para suporte (detalhes tecnicos)</summary>
@@ -66,5 +114,5 @@ GET https://user.diveraid.com/pt/diver/courses/progress/{log_code}/skill/sign
 
 </details>
 
-Seguinte: [E-Learning](free-learnings.md)
+Proximo: [FREE-Learning shop](free-learnings.md)
 

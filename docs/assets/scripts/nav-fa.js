@@ -40,6 +40,7 @@
     if (pathname.includes("/diver/courses")) return "fa-screen-users";
     if (pathname.includes("/diver/free-learnings")) return "fa-narwhal";
     if (pathname.includes("/diver/certifications")) return "fa-address-card";
+    if (pathname.includes("/diver/library")) return "fa-books";
     if (pathname.includes("/diver/awards")) return "fa-award";
     if (pathname.includes("/diver/dive-logs") || pathname.includes("/diver/dive_log"))
       return "fa-anchor";

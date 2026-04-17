@@ -96,6 +96,24 @@
         height: 1.35rem;
         fill: currentColor;
       }
+
+      /* Language selector: show current locale next to the icon */
+      .md-header__option .md-select > button.md-header__button.md-icon {
+        display: inline-flex;
+        align-items: center;
+        gap: 0.35rem;
+      }
+      .dra-lang-pill {
+        font-size: 0.72rem;
+        line-height: 1;
+        padding: 0.15rem 0.32rem;
+        border: 1px solid rgba(127, 127, 127, 0.35);
+        border-radius: 0.35rem;
+        background: rgba(127, 127, 127, 0.08);
+      }
+      .md-select__link[aria-current="true"] {
+        font-weight: 650;
+      }
     `;
     document.head.appendChild(style);
   }
@@ -261,6 +279,41 @@
   let lastMode = null;
   let systemListenerAttached = false;
 
+  function ensureLanguageIndicator() {
+    // MkDocs Material renders a language select as `.md-select` with a button and an inner list.
+    // By default the button is icon-only; add a small "EN/IT/..." pill so users can see
+    // which language is currently selected.
+    const btn = document.querySelector(".md-header__option .md-select > button.md-header__button.md-icon");
+    if (!btn) return;
+
+    const curLang = lang();
+    const curLink = document.querySelector(`.md-select__list a.md-select__link[hreflang="${curLang}"]`);
+    const curName = curLink ? (curLink.textContent || "").trim() : curLang.toUpperCase();
+    const pillText = curLang.toUpperCase();
+
+    // Mark current in the dropdown list.
+    try {
+      for (const a of document.querySelectorAll(".md-select__list a.md-select__link[hreflang]")) {
+        if (!(a instanceof HTMLElement)) continue;
+        a.setAttribute("aria-current", a.getAttribute("hreflang") === curLang ? "true" : "false");
+      }
+    } catch {
+      // noop
+    }
+
+    let pill = btn.querySelector(".dra-lang-pill");
+    if (!pill) {
+      pill = el("span", { class: "dra-lang-pill" });
+      pill.setAttribute("aria-hidden", "true");
+      btn.appendChild(pill);
+    }
+    pill.textContent = pillText;
+
+    // Keep accessibility useful (screen readers) and provide hover info.
+    btn.setAttribute("title", `Language: ${curName}`);
+    btn.setAttribute("aria-label", `Select language (current: ${curName})`);
+  }
+
   function closeMenu() {
     if (!menu) return;
     menu.remove();
@@ -390,6 +443,7 @@
     );
 
     updateAnchorIcon();
+    ensureLanguageIndicator();
 
     // If user chose "System", keep the palette synced while the page stays open.
     // Material doesn't reliably live-update on OS changes once a palette was ever stored,

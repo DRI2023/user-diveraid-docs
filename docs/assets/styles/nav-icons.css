@@ -72,6 +72,12 @@ html:not(.dra-fa-ready) .md-nav__link[href*="diver/certifications"]::before {
   -webkit-mask-image: url("../icons/id-card.svg");
 }
 
+html:not(.dra-fa-ready) .md-nav__link[href*="diver/library"]::before {
+  display: inline-block;
+  mask-image: url("../icons/library.svg");
+  -webkit-mask-image: url("../icons/library.svg");
+}
+
 html:not(.dra-fa-ready) .md-nav__link[href*="diver/uploaded-documents"]::before {
   display: inline-block;
   mask-image: url("../icons/files.svg");

@@ -1,50 +1,96 @@
-# Dalgıç: Kurslarım
+# Dalgic: kurslarim
 
-## Ekran görüntüleri
+## Ekran goruntuleri
 
 ![Course list](../../assets/screenshots/diver/en/courses-list.png)
 
 ![Expired courses](../../assets/screenshots/diver/en/courses-expired.png)
 
-## Nerede bulurum?
+## Nerede bulurum
 
-Menü: **Dalgıç -> Kurslarım**
+Menu: **Dalgic -> Kurslarim**
 
-## Neler yapabilirsiniz?
+## Neler yapabilirsin
 
-- Aktif ve süresi dolmuş kursları görüntüleyin.
-- Kurs ilerlemesini (progress) açın.
-- (Kursa göre) modüller/quiz'ler, sınav (exam) ve beceriler (skills) adımlarına devam edin.
+- Aktif ve suresi dolmus kurslari goruntule.
+- Kurs ilerlemesini ac.
+- Module/quiz, exam ve skills adimlarina devam et (kursa gore).
 
 ## Kurs listesi
 
-Tipik adımlar:
+Tipik adimlar:
 
-1. Kurs listesini açın.
-2. İlerlemesini görmek için bir kurs seçin.
-3. Bir kurs görünmüyorsa, varsa "Expired" (süresi dolmuş) bölümünü de kontrol edin.
+1. Kurs listesini ac.
+2. Ilerlemeyi gormek icin bir kurs sec.
+3. Bir kurs gorunmuyorsa, varsa expired bolumunu de kontrol et.
 
-Kurs içinde tipik adımlar:
+## Kurs ilerlemesi (ozet)
 
-1. Kurs içinde tamamlanacak bir sonraki adımı bulun (module, quiz, exam, skills).
-2. Tamamlayın ve ilerlemeyi kontrol etmek için progress özetine geri dönün.
+Bir kursu actiginda **ilerleme (progress)** sayfasina gidersin. Bu sayfa kursun merkezidir: tamamlananlari ve siradaki adimi gosterir.
 
-## Deneme hakları (quiz/exam/skills)
+<!-- TODO(screenshot): docs/assets/screenshots/diver/tr/courses-progress.png -->
+![Kurs ilerlemesi (ozet)](../../assets/screenshots/diver/en/courses-progress.png)
 
-İpuçları:
+Tipik adimlar:
 
-- Bir modülü açtığınızda boş sayfa veya hata görürseniz, modül kursunuz için aktif olmayabilir veya zaten tamamlanmış olabilir.
+1. Kursta bir sonraki adimi bul (module, quiz, exam, skills).
+2. Tamamla ve ilerleme ozetine geri don.
 
-## İlerleme detayları (quiz/exam/skills)
+## Denemeler (quiz/exam/skills)
 
-## Yaygın sorunlar
+Denemeler, aktiviteyi **yaptigin** sayfalardir (yanitlama, gonderme, onaylama).
 
-- Giriş sayfasına yönlendirilme: oturum süresi doldu.
-- Erişim reddedildi: e-posta doğrulanmamış olabilir.
-- Kurs bulunamadı: bağlantı eski olabilir veya kurs hesabınızla ilişkili değildir.
+### Quiz denemesi (module)
+
+<!-- TODO(screenshot): docs/assets/screenshots/diver/tr/courses-quiz-attempt.png -->
+![Quiz attempt](../../assets/screenshots/diver/en/courses-quiz-attempt.png)
+
+Tipik adimlar:
+
+1. Kurs ilerlemesinden bir sonraki module/quiz adimini ac.
+2. Sorulari yanitla.
+3. Gonder.
+4. (Varsa) sonuclari acip yanitlari kontrol et.
+
+### Exam denemesi
+
+<!-- TODO(screenshot): docs/assets/screenshots/diver/tr/courses-exam-attempt.png -->
+![Exam attempt](../../assets/screenshots/diver/en/courses-exam-attempt.png)
+
+Not: exam, gerekli quiz/module tamamlandiktan sonra ve egitmen etkinlestirdikten sonra kullanilabilir.
+
+Tipik adimlar:
+
+1. Kurs ilerlemesinden **Exam**'i ac.
+2. Sinavi tamamla.
+3. Gonder ve sonuc sayfasini bekle.
+
+### Skills
+
+Skills, kurs ayarlarina gore onay gerektirebilen pratik adimlardir.
+
+<!-- TODO(screenshot): docs/assets/screenshots/diver/tr/courses-skills.png -->
+![Skills signatures](../../assets/screenshots/diver/en/courses-skills.png)
+
+Not: skills onayi, egitmen tamamlandi olarak isaretledikten sonra yapilabilir.
+
+Ipucu: kurs gerektiriyorsa, onaydan once skills ile ilgili Dive Log/Logbook kaydini doldurmayi unutma.
+
+## Ilerleme detaylari (quiz/exam/skills)
+
+Ilerleme detaylari, **sonuclari** inceledigin sayfalardir (ornegin quiz cevaplari veya exam sonuclari).
+
+<!-- TODO(screenshot): docs/assets/screenshots/diver/tr/courses-results.png -->
+![Ilerleme detaylari (sonuclar)](../../assets/screenshots/diver/en/courses-results.png)
+
+## Yaygin sorunlar
+
+- Login'e yonlendirme: oturum suresi dolmus.
+- Erisim reddedildi: email dogrulanmamis.
+- Kurs bulunamadi: eski link veya kurs hesaba bagli degil.
 
 <details>
-<summary>Destek (teknik bilgiler)</summary>
+<summary>Destek icin (teknik ayrintilar)</summary>
 
 Kurs listesi:
 
@@ -53,7 +99,7 @@ GET https://user.diveraid.com/tr/diver/courses
 GET https://user.diveraid.com/tr/diver/courses/expired
 ```
 
-İlerleme ve denemeler:
+Ilerleme ve denemeler:
 
 ```text
 GET https://user.diveraid.com/tr/diver/courses/progress/{log_code}
@@ -68,4 +114,5 @@ GET https://user.diveraid.com/tr/diver/courses/progress/{log_code}/skill/sign
 
 </details>
 
-Sonraki: [FREE-Learning mağazası](free-learnings.md)
+Sonraki: [FREE-Learning shop](free-learnings.md)
+
