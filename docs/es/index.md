@@ -1,42 +1,30 @@
-# Bienvenido a la guia de usuario DiveRaid
+# Bienvenido a la Guia de usuario de DiveRaid
 
-Esta guia te ayuda a usar `user.diveraid.com` para gestionar documentos, cursos, certificaciones, registros de inmersion y compras.
+Esta guia te ayuda a usar `user.diveraid.com`.
 
-## Secciones principales
+## Secciones
 
-- [Cuadro de mandos](diver/dashboard.md)
-- [Mis cursos](diver/courses.md)
-- [Mis certificaciones](diver/certifications.md)
-- [Awards](diver/awards.md)
-- [Mi diario de inmersiones](diver/dive-logs.md)
-- [Mis documentos / Documentos cargados](diver/documents.md)
-- [Tienda FREE-Learning](diver/free-learnings.md)
-- [Tienda](diver/store.md)
-- [Formularios](diver/forms.md)
-
-## Por donde empezar
-
-1. **Acceso al portal:** abre **Cuadro de mandos** y comprueba que no estas bloqueado (por ejemplo, email no verificado).
-2. **Configuracion del perfil:** sube tus archivos en **Mis documentos / Documentos cargados**.
-3. **Consultar certificaciones:** ve a **Mis certificaciones** y abre una tarjeta o tu historial.
-4. **Anadir un dive log:** ve a **Mi diario de inmersiones**, crea un nuevo log y luego revisalo/modificalo.
+- [Diver](diver/overview.md): Gestionar cursos, certificaciones, documentos, registro de buceo y compras.
+- [Mi perfil](profile/overview.md): Gestionar tu cuenta, tareas, historial medico y ajustes de seguridad/privacidad.
+- Dive Center: Gestionar tu Dive Center y el staff (documentacion proximamente).
+- Distributor: Gestionar actividades de Distributor (documentacion proximamente).
 
 ## Idiomas
 
-Usa el selector de idioma en el encabezado (EN/IT/DE/FR/ES/ZH/AR/NL/KO/TR/PT/PL/RU).
+Usa el selector de idioma en el encabezado.
 
-Icono de idioma en el encabezado: :material-translate:
+Disponibles actualmente: English, Italiano, Deutsch, Francais, Espanol, 简体中文, العربية, Nederlands, 한국어, Türkçe, Portugues, Polski, Русский.
 
 <details>
 <summary>Para soporte (detalles tecnicos)</summary>
 
-Estructura de URL (despues de iniciar sesion):
+Estructura de URL (despues del login):
 
 ```text
 https://user.diveraid.com/es/...
 ```
 
-Ejemplo:
+Ejemplos:
 
 ```text
 GET https://user.diveraid.com/es/diver/dashboard
@@ -44,4 +32,4 @@ GET https://user.diveraid.com/es/diver/dashboard
 
 </details>
 
-Ir a: [Diver > Overview](diver/overview.md)
+Ir a: [Diver > Resumen](diver/overview.md)

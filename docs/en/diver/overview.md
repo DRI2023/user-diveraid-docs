@@ -1,50 +1,37 @@
 # Diver: overview
 
-The **Diver** area is the part of the app dedicated to the diver (end user).
-
-## Examples (screenshots)
-
-### Dashboard
-
-![Diver dashboard](../../assets/screenshots/diver/en/dashboard.png)
-
-### Course list
-
-![Course list](../../assets/screenshots/diver/en/courses-list.png)
-
-## Getting started
-
-1. Sign in with your account.
-2. Go to **Diver -> Dashboard**.
-3. From there, go to the main sections: Courses, Certifications, My Documents, Dive logs, Store.
+The **Diver** area is the section of the app for divers (end users).
 
 ## Where to find it
 
 Menu: **Diver**
 
-Main pages:
+## Main pages
 
 - Overview (this page)
 - Dashboard
-- My Documents
 - Courses
 - Certifications
+- My Library
 - Awards
 - Dive Logs
+- Uploaded documents
+- My Documents
+- Free Learnings
 - Store
 - Forms
 
-## Typical workflows
+## Typical flows
 
-1. Follow a course: **Courses** -> open a course -> complete the next steps.
-2. Check a certification: **Certifications** -> open a certification -> review history.
-3. Create a dive log: **Dive Logs** -> New -> fill in -> save -> review/update.
-4. Buy a course: **Store** -> choose course -> checkout -> confirm -> check result.
+1. Follow a course: **Courses** -> open a course -> complete the steps.
+2. Review a certification: **Certifications** -> open a card -> check history (if available).
+3. Upload a document: **Uploaded documents** -> add a document -> save -> verify in the list.
+4. Add a dive log: **Dive Logs** -> New -> fill -> save -> review/update.
 
-## If something goes wrong
+## If something does not work
 
 - Redirected to login: sign in again (session may have expired).
-- Access blocked: make sure your email is verified.
+- Access blocked/error: verify your email.
 
 <details>
 <summary>For support (technical details)</summary>
@@ -55,13 +42,7 @@ Diver pages use a language prefix in the URL:
 GET https://user.diveraid.com/en/diver/...
 ```
 
-Examples:
-
-```text
-GET https://user.diveraid.com/en/diver/dashboard
-```
-
-There are also signed links (typically from emails) that redirect:
+Signed links (typically from email) may redirect:
 
 ```text
 GET https://user.diveraid.com/actions/diver/certifications

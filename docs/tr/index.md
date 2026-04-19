@@ -1,42 +1,30 @@
-# DiveRaid Kullanıcı Kılavuzu'na hoş geldiniz
+# DiveRaid Kullanici Kilavuzuna hos geldiniz
 
-Bu kılavuz, `user.diveraid.com` üzerinde belgelerinizi, kurslarınızı, sertifikalarınızı, dalış kayıtlarınızı ve satın alımlarınızı yönetmenize yardımcı olur.
+Bu kilavuz `user.diveraid.com` kullaniminiza yardimci olur.
 
-## Ana bölümler
+## Bolumler
 
-- [Gösterge Tablosu](diver/dashboard.md)
-- [Kurslarım](diver/courses.md)
-- [Sertifikalarım](diver/certifications.md)
-- [Kitaplığım](diver/awards.md)
-- [Dalış Kayıt Defterim](diver/dive-logs.md)
-- [Belgelerim / Yüklenen belgeler](diver/documents.md)
-- [FREE-Learning mağazası](diver/free-learnings.md)
-- [Mağaza](diver/store.md)
-- [RAID Formları](diver/forms.md)
-
-## Nereden başlamalı?
-
-1. **Portal erişimi:** **Dalgıç -> Gösterge Tablosu**'nu açın ve erişiminizin engellenmediğini kontrol edin (ör. e-posta doğrulanmamış olabilir).
-2. **Profil kurulumu:** **Belgelerim / Yüklenen belgeler** bölümünde dosyalarınızı yükleyin.
-3. **Sertifikaları inceleme:** **Sertifikalarım** bölümünde bir kartı veya geçmişinizi açın.
-4. **Dalış kaydı ekleme:** **Dalış Kayıt Defterim** bölümünde yeni bir kayıt oluşturun, ardından görüntüleyin/düzenleyin.
+- [Diver](diver/overview.md): Kurslari, sertifikalari, belgeleri, dalis kayitlarini ve satin almalari yonetme.
+- [Profilim](profile/overview.md): Hesap, gorevler, tibbi gecmis ve guvenlik/gizlilik ayarlarini yonetme.
+- Dive Center: Dive Center ve personeli yonetme (dokumantasyon yakinda).
+- Distributor: Distributor aktivitelerini yonetme (dokumantasyon yakinda).
 
 ## Diller
 
-Üst kısımdaki dil seçiciden dili değiştirebilirsiniz (EN/IT/DE/FR/ES/ZH/AR/NL/KO/TR/PT/PL/RU).
+Ust kisimdaki dil seciciyi kullanin.
 
-Üst çubuktaki dil simgesi: :material-translate:
+Su anda mevcut: English, Italiano, Deutsch, Francais, Espanol, 简体中文, العربية, Nederlands, 한국어, Türkçe, Portugues, Polski, Русский.
 
 <details>
-<summary>Destek (teknik bilgiler)</summary>
+<summary>Destek icin (teknik detaylar)</summary>
 
-URL yapısı (giriş yaptıktan sonra):
+URL yapisi (giris sonrasi):
 
 ```text
 https://user.diveraid.com/tr/...
 ```
 
-Örnek:
+Ornekler:
 
 ```text
 GET https://user.diveraid.com/tr/diver/dashboard
@@ -44,4 +32,4 @@ GET https://user.diveraid.com/tr/diver/dashboard
 
 </details>
 
-Git: [Dalgıç > Genel Bakış](diver/overview.md)
+Git: [Diver > Genel Bakis](diver/overview.md)

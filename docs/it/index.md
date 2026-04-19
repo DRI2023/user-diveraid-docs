@@ -1,31 +1,19 @@
 # Benvenuto nella guida utente DiveRaid
 
-Questa guida ti aiuta a usare `user.diveraid.com` per gestire documenti, corsi, certificazioni, log immersioni e acquisti.
+Questa guida ti aiuta a usare `user.diveraid.com`.
 
-## Sezioni principali
+## Sezioni
 
-- [Dashboard](diver/dashboard.md)
-- [I miei corsi](diver/courses.md)
-- [Le mie certificazioni](diver/certifications.md)
-- [I miei awards](diver/awards.md)
-- [Il mio Dive Log](diver/dive-logs.md)
-- [I miei documenti / Documenti caricati](diver/documents.md)
-- [Negozio FREE-Learning](diver/free-learnings.md)
-- [Negozio](diver/store.md)
-- [Moduli Raid](diver/forms.md)
-
-## Da dove iniziare
-
-1. **Accesso al portale:** entra in **Diver -> Dashboard** e verifica che non ci siano blocchi (es. email non verificata).
-2. **Impostazione del profilo:** carica i tuoi file in **I miei documenti / Documenti caricati**.
-3. **Consultazione certificazioni:** vai su **Le mie certificazioni** e apri una card o lo storico.
-4. **Inserimento log immersioni:** vai su **Il mio Dive Log**, crea un nuovo log e poi rivedilo/modificalo.
+- [Diver](diver/overview.md): Gestire corsi, certificazioni, documenti, log immersioni e acquisti.
+- [Il mio profilo](profile/overview.md): Gestire account, attività, storia medica e impostazioni di sicurezza/privacy.
+- Dive Center: Gestire il tuo Dive Center e lo staff (documentazione in arrivo).
+- Distributor: Gestire attivita Distributor (documentazione in arrivo).
 
 ## Lingue
 
-Puoi cambiare lingua dal selettore in alto (EN/IT/DE/FR/ES/ZH/AR/NL/KO/TR/PT/PL/RU).
+Usa il selettore lingua nell’header.
 
-Icona lingua nell'header: :material-translate:
+Attualmente disponibili: English, Italiano, Deutsch, Francais, Espanol, 简体中文, العربية, Nederlands, 한국어, Türkçe, Portugues, Polski, Русский.
 
 <details>
 <summary>Per supporto (dettagli tecnici)</summary>
@@ -36,7 +24,7 @@ Struttura URL (dopo login):
 https://user.diveraid.com/it/...
 ```
 
-Esempio:
+Esempi:
 
 ```text
 GET https://user.diveraid.com/it/diver/dashboard

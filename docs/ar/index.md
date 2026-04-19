@@ -1,42 +1,30 @@
-# مرحبا بك في دليل مستخدم DiveRaid
+# مرحبًا بك في دليل مستخدم DiveRaid
 
-يساعدك هذا الدليل على استخدام `user.diveraid.com` لإدارة المستندات والدورات والشهادات وسجلات الغوص والمشتريات.
+يساعدك هذا الدليل على استخدام `user.diveraid.com`.
 
-## الأقسام الرئيسية
+## الأقسام
 
-- [لوحة التحكم](diver/dashboard.md)
-- [دوراتي](diver/courses.md)
-- [شهاداتي](diver/certifications.md)
-- [مكتبتي](diver/awards.md)
-- [سجل غوصي](diver/dive-logs.md)
-- [مستنداتي](diver/documents.md)
-- [متجر التعلم الإلكتروني FREe](diver/free-learnings.md)
-- [المتجر](diver/store.md)
-- [نماذج الغارات](diver/forms.md)
-
-## من أين تبدأ
-
-1. **الدخول إلى البوابة:** افتح **غواص -> لوحة التحكم** وتحقق من عدم وجود حظر (مثلا: البريد الإلكتروني غير موثق).
-2. **إعداد الملف الشخصي:** ارفع ملفاتك في **مستنداتي** (المستندات الشخصية والمستندات المرفوعة).
-3. **مراجعة الشهادات:** اذهب إلى **شهاداتي** وافتح بطاقة أو التاريخ.
-4. **إضافة سجل غوص:** اذهب إلى **سجل غوصي** وأنشئ سجلا جديدا ثم راجعه أو عدله.
+- [Diver](diver/overview.md): إدارة الدورات والشهادات والمستندات وسجل الغوص وعمليات الشراء.
+- [ملفي](profile/overview.md): إدارة الحساب والمهام والسجل الطبي وإعدادات الأمان والخصوصية.
+- Dive Center: إدارة مركز الغوص والطاقم (التوثيق قريبًا).
+- Distributor: إدارة أنشطة الموزّع (التوثيق قريبًا).
 
 ## اللغات
 
-استخدم محدد اللغة في الشريط العلوي (EN/IT/DE/FR/ES/ZH/AR/NL/KO/TR/PT/PL/RU).
+استخدم محدد اللغة في رأس الصفحة.
 
-أيقونة اللغة في الشريط العلوي: :material-translate:
+المتاح حاليًا: English, Italiano, Deutsch, Francais, Espanol, 简体中文, العربية, Nederlands, 한국어, Türkçe, Portugues, Polski, Русский.
 
 <details>
 <summary>للدعم (تفاصيل تقنية)</summary>
 
-بنية الروابط (بعد تسجيل الدخول):
+بنية الرابط (بعد تسجيل الدخول):
 
 ```text
 https://user.diveraid.com/ar/...
 ```
 
-مثال:
+أمثلة:
 
 ```text
 GET https://user.diveraid.com/ar/diver/dashboard
@@ -44,4 +32,4 @@ GET https://user.diveraid.com/ar/diver/dashboard
 
 </details>
 
-اذهب إلى: [غواص > نظرة عامة](diver/overview.md)
+اذهب إلى: [Diver > Overview](diver/overview.md)

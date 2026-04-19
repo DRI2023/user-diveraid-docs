@@ -24,7 +24,7 @@ theme:
   features:
     - navigation.tracking
     - navigation.top
-    - navigation.expand
+    - navigation.prune
     - content.code.copy
 
 extra_css:
@@ -69,6 +69,11 @@ plugins:
             Dive Logs: Dive Logs
             Store: Store
             Forms: Raid Forms
+            My Profile: My Profile
+            My Tasks: My Tasks
+            My Medical History: My Medical History
+            My Security: My Security
+            My Privacy: My Privacy
         - locale: it
           name: Italiano
           site_name: DiveRaid Guida utente
@@ -88,6 +93,11 @@ plugins:
             Dive Logs: Il mio Dive Log
             Store: Negozio
             Forms: Moduli Raid
+            My Profile: Il mio profilo
+            My Tasks: Le mie attività
+            My Medical History: La mia storia medica
+            My Security: La mia sicurezza
+            My Privacy: La mia privacy
         - locale: de
           name: Deutsch
           site_name: DiveRaid Benutzerhandbuch
@@ -107,6 +117,11 @@ plugins:
             Dive Logs: Mein Tauchlogbuch
             Store: Laden
             Forms: Ueberfallformulare
+            My Profile: Mein Profil
+            My Tasks: Meine Aufgaben
+            My Medical History: Meine Krankengeschichte
+            My Security: Meine Sicherheit
+            My Privacy: Meine Privatsphaere
         - locale: fr
           name: Francais
           site_name: DiveRaid Guide utilisateur
@@ -126,6 +141,11 @@ plugins:
             Dive Logs: Mon carnet de plongee
             Store: Boutique
             Forms: Formulaires Raid
+            My Profile: Mon profil
+            My Tasks: Mes tâches
+            My Medical History: Mes antécédents médicaux
+            My Security: Ma sécurité
+            My Privacy: Ma confidentialité
         - locale: es
           name: Espanol
           site_name: DiveRaid Guia de usuario
@@ -145,6 +165,11 @@ plugins:
             Dive Logs: Mi diario de inmersiones
             Store: Tienda
             Forms: Formularios
+            My Profile: Mi perfil
+            My Tasks: Mis tareas
+            My Medical History: Mi historial medico
+            My Security: Mi seguridad
+            My Privacy: Mi vida privada
         - locale: zh
           name: 简体中文
           site_name: DiveRaid 用户指南
@@ -164,6 +189,11 @@ plugins:
             Dive Logs: 我的潜水日志
             Store: 线上商店
             Forms: 表格工具
+            My Profile: 我的常规信息
+            My Tasks: 我的职责
+            My Medical History: 我过往提交的《医疗健康声明和问卷》
+            My Security: 我的安全设置
+            My Privacy: 我的个人隐私
         - locale: ar
           name: العربية
           site_name: دليل مستخدم DiveRaid
@@ -183,6 +213,11 @@ plugins:
             Dive Logs: سجل غوصي
             Store: المتجر
             Forms: نماذج الغارات
+            My Profile: ملفي الشخصي
+            My Tasks: مهامي
+            My Medical History: سجلي الطبي
+            My Security: أمني
+            My Privacy: خصوصيتي
         - locale: nl
           name: Nederlands
           site_name: DiveRaid Gebruikershandleiding
@@ -202,6 +237,11 @@ plugins:
             Dive Logs: Mijn Duiklogboek
             Store: Winkel
             Forms: Raid Formulieren
+            My Profile: Mijn Profiel
+            My Tasks: Mijn taken
+            My Medical History: Mijn Medische Geschiedenis
+            My Security: Mijn veiligheid
+            My Privacy: Mijn privacy
 
         - locale: ko
           name: 한국어
@@ -222,6 +262,11 @@ plugins:
             Dive Logs: 내 다이빙 로그
             Store: 스토어
             Forms: 레이드 양식
+            My Profile: 내 프로필
+            My Tasks: 내 할 일
+            My Medical History: 나의 병력
+            My Security: 내 보안
+            My Privacy: 내 개인정보
 
         - locale: tr
           name: Türkçe
@@ -242,6 +287,11 @@ plugins:
             Dive Logs: Dalış Kayıt Defterim
             Store: Mağaza
             Forms: RAID Formları
+            My Profile: Benim profilim
+            My Tasks: Görevlerim
+            My Medical History: Tıbbi Geçmişim
+            My Security: Benim güvenliğim
+            My Privacy: Benim özelim
         - locale: pt
           name: Portugues
           site_name: DiveRaid Guia do utilizador
@@ -261,6 +311,11 @@ plugins:
             Dive Logs: Meu Log Book
             Store: Loja
             Forms: Formulários RAID
+            My Profile: Meu Perfil
+            My Tasks: Minhas Tarefas
+            My Medical History: Meu Histórico Médico
+            My Security: Minha Segurança
+            My Privacy: Minha Privacidade
         - locale: pl
           name: Polski
           site_name: DiveRaid Instrukcja uzytkownika
@@ -280,6 +335,11 @@ plugins:
             Dive Logs: Mój dziennik nurkowy
             Store: Sklep
             Forms: Formularze RAID
+            My Profile: Mój profil
+            My Tasks: Moje zadania
+            My Medical History: Moja historia chorób
+            My Security: Moje bezpieczenstwo
+            My Privacy: Moja prywatnosc
         - locale: ru
           name: Русский
           site_name: Руководство пользователя DiveRaid
@@ -299,9 +359,21 @@ plugins:
             Free Learnings: Магазин FREe-Learning
             Store: Магазин
             Forms: Формы рейдов
+            My Profile: Мой профиль
+            My Tasks: Мои задачи
+            My Medical History: Моя медицинская история
+            My Security: Моя безопасность
+            My Privacy: Моя конфиденциальность
 
 nav:
   - Home: index.md
+  - My Profile:
+      - Overview: profile/overview.md
+      - My Profile: profile/my-profile.md
+      - My Tasks: profile/my-tasks.md
+      - My Medical History: profile/my-medical.md
+      - My Security: profile/my-security.md
+      - My Privacy: profile/my-privacy.md
   - Diver:
       - Overview: diver/overview.md
       - Dashboard: diver/dashboard.md

@@ -1,67 +1,48 @@
-# غواص: نظرة عامة
+# Diver: overview
 
-منطقة **الغواص** هي الجزء من التطبيق المخصص للغواص (المستخدم النهائي).
+The **Diver** area is the section of the app for divers (end users).
 
-## أمثلة (لقطات شاشة)
+## Where to find it
 
-### لوحة التحكم
+Menu: **Diver**
 
-![لوحة تحكم الغواص](../../assets/screenshots/diver/en/dashboard.png)
+## Main pages
 
-### قائمة الدورات
+- Overview (this page)
+- Dashboard
+- Courses
+- Certifications
+- My Library
+- Awards
+- Dive Logs
+- Uploaded documents
+- My Documents
+- Free Learnings
+- Store
+- Forms
 
-![قائمة الدورات](../../assets/screenshots/diver/en/courses-list.png)
+## Typical flows
 
-## البدء
+1. Follow a course: **Courses** -> open a course -> complete the steps.
+2. Review a certification: **Certifications** -> open a card -> check history (if available).
+3. Upload a document: **Uploaded documents** -> add a document -> save -> verify in the list.
+4. Add a dive log: **Dive Logs** -> New -> fill -> save -> review/update.
 
-1. سجّل الدخول باستخدام حسابك.
-2. اذهب إلى **غواص -> لوحة التحكم**.
-3. من هناك انتقل إلى الأقسام الرئيسية: دوراتي، شهاداتي، مستنداتي، سجل غوصي، المتجر.
+## If something does not work
 
-## أين تجدها
-
-القائمة: **غواص**
-
-الصفحات الرئيسية:
-
-- نظرة عامة (هذه الصفحة)
-- لوحة التحكم
-- مستنداتي
-- دوراتي
-- شهاداتي
-- مكتبتي
-- سجل غوصي
-- المتجر
-- نماذج الغارات
-
-## مسارات عمل شائعة
-
-1. متابعة دورة: **دوراتي** -> افتح دورة -> أكمل الخطوات التالية.
-2. التحقق من شهادة: **شهاداتي** -> افتح شهادة -> راجع التاريخ.
-3. إنشاء سجل غوص: **سجل غوصي** -> جديد -> املأ -> احفظ -> راجع أو حدّث.
-4. شراء دورة: **المتجر** -> اختر دورة -> إتمام الشراء -> تأكيد -> تحقق من النتيجة.
-
-## إذا حدثت مشكلة
-
-- تمت إعادتك لتسجيل الدخول: سجّل الدخول مجددا (قد تكون الجلسة انتهت).
-- حظر الوصول: تأكد من توثيق بريدك الإلكتروني.
+- Redirected to login: sign in again (session may have expired).
+- Access blocked/error: verify your email.
 
 <details>
-<summary>للدعم (تفاصيل تقنية)</summary>
+<summary>For support (technical details)</summary>
 
-صفحات الغواص تستخدم بادئة لغة في الرابط:
+Diver pages use a language prefix in the URL:
 
 ```text
 GET https://user.diveraid.com/ar/diver/...
 ```
 
-أمثلة:
-
-```text
-GET https://user.diveraid.com/ar/diver/dashboard
-```
-
-هناك أيضا روابط موقعة (عادة من رسائل البريد) تقوم بإعادة التوجيه:
+Signed links (typically from email) may redirect:
 
 ```text
 GET https://user.diveraid.com/actions/diver/certifications
@@ -71,5 +52,4 @@ GET https://user.diveraid.com/actions/diver/progress/{log_code}
 
 </details>
 
-التالي: [لوحة التحكم](dashboard.md)
-
+Next: [Dashboard](dashboard.md)

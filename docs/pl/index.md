@@ -1,32 +1,19 @@
 # Witamy w przewodniku uzytkownika DiveRaid
 
-Ten przewodnik pomaga korzystac z `user.diveraid.com`, aby zarzadzac dokumentami, kursami, certyfikatami, dziennikiem nurkowym i zakupami.
+Ten przewodnik pomaga korzystac z `user.diveraid.com`.
 
-## Glowne sekcje
+## Sekcje
 
-- [Pulpit](diver/dashboard.md)
-- [Moje kursy](diver/courses.md)
-- [Moje certyfikaty](diver/certifications.md)
-- [Moja biblioteka](diver/awards.md)
-- [Mój dziennik nurkowy](diver/dive-logs.md)
-- [Przesłane dokumenty](diver/uploaded-documents.md)
-- [Moje dokumenty](diver/documents.md)
-- [Sklep FREE-Learning](diver/free-learnings.md)
-- [Sklep](diver/store.md)
-- [Formularze RAID](diver/forms.md)
-
-## Od czego zaczac
-
-1. **Dostep do portalu:** otworz **Diver -> Pulpit** i sprawdz, czy nie masz blokady (np. niezweryfikowany email).
-2. **Konfiguracja profilu:** dodaj swoje pliki w **Przesłane dokumenty** (dokumenty osobiste i dokumenty przeslane).
-3. **Certyfikaty:** przejdz do **Moje certyfikaty** i otworz karte lub historie.
-4. **Dziennik nurkowy:** przejdz do **Mój dziennik nurkowy**, utworz nowy wpis, a nastepnie go sprawdz/edytuj.
+- [Diver](diver/overview.md): Zarzadzanie kursami, certyfikatami, dokumentami, dziennikiem nurkowan i zakupami.
+- [Moj profil](profile/overview.md): Zarzadzanie kontem, zadaniami, historia medyczna oraz ustawieniami bezpieczenstwa/prywatnosci.
+- Dive Center: Zarzadzanie Dive Center i personelem (dokumentacja wkrotce).
+- Distributor: Zarzadzanie aktywnosciami Dystrybutora (dokumentacja wkrotce).
 
 ## Jezyki
 
-Uzyj selektora jezyka w naglowku (EN/IT/DE/FR/ES/ZH/AR/NL/KO/TR/PT/PL/RU).
+Uzyj selektora jezyka w naglowku.
 
-Ikona jezyka w naglowku: :material-translate:
+Obecnie dostepne: English, Italiano, Deutsch, Francais, Espanol, 简体中文, العربية, Nederlands, 한국어, Türkçe, Portugues, Polski, Русский.
 
 <details>
 <summary>Dla wsparcia (szczegoly techniczne)</summary>
@@ -37,7 +24,7 @@ Struktura URL (po zalogowaniu):
 https://user.diveraid.com/pl/...
 ```
 
-Przyklad:
+Przyklady:
 
 ```text
 GET https://user.diveraid.com/pl/diver/dashboard
@@ -45,4 +32,4 @@ GET https://user.diveraid.com/pl/diver/dashboard
 
 </details>
 
-Przejdz do: [Diver > Przegląd](diver/overview.md)
+Przejdz do: [Diver > Przeglad](diver/overview.md)

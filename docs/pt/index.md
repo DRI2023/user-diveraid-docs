@@ -1,32 +1,19 @@
-# Bem-vindo ao Guia do utilizador DiveRaid
+# Bem-vindo ao guia do utilizador DiveRaid
 
-Este guia ajuda-te a usar `user.diveraid.com` para gerir documentos, cursos, certificacoes, log book e compras.
+Este guia ajuda a usar `user.diveraid.com`.
 
-## Secoes principais
+## Areas
 
-- [Painel](diver/dashboard.md)
-- [Meus Cursos](diver/courses.md)
-- [Meus Certificados](diver/certifications.md)
-- [Minha Biblioteca](diver/awards.md)
-- [Meu Log Book](diver/dive-logs.md)
-- [Documentos Enviados](diver/uploaded-documents.md)
-- [Meus Documentos](diver/documents.md)
-- [E-Learning](diver/free-learnings.md)
-- [Loja](diver/store.md)
-- [Formulários RAID](diver/forms.md)
-
-## Por onde comecar
-
-1. **Acesso ao portal:** abre **Diver -> Painel** e verifica se nao estas bloqueado (por exemplo, email nao verificado).
-2. **Configurar o perfil:** faz upload dos teus ficheiros em **Documentos Enviados** (documentos pessoais e documentos enviados).
-3. **Ver certificacoes:** vai a **Meus Certificados** e abre um cartao ou o historico.
-4. **Adicionar um log:** vai a **Meu Log Book**, cria um novo log e depois revê/edita.
+- [Diver](diver/overview.md): Gerir cursos, certificacoes, documentos, registos de mergulho e compras.
+- [O meu perfil](profile/overview.md): Gerir a conta, tarefas, historico medico e definicoes de seguranca/privacidade.
+- Dive Center: Gerir o Dive Center e a equipa (documentacao em breve).
+- Distributor: Gerir atividades do Distributor (documentacao em breve).
 
 ## Idiomas
 
-Usa o seletor de idioma no cabecalho (EN/IT/DE/FR/ES/ZH/AR/NL/KO/TR/PT/PL/RU).
+Use o seletor de idioma no cabecalho.
 
-Icone de idioma no cabecalho: :material-translate:
+Disponiveis: English, Italiano, Deutsch, Francais, Espanol, 简体中文, العربية, Nederlands, 한국어, Türkçe, Portugues, Polski, Русский.
 
 <details>
 <summary>Para suporte (detalhes tecnicos)</summary>
@@ -37,7 +24,7 @@ Estrutura de URL (apos login):
 https://user.diveraid.com/pt/...
 ```
 
-Exemplo:
+Exemplos:
 
 ```text
 GET https://user.diveraid.com/pt/diver/dashboard
@@ -45,4 +32,4 @@ GET https://user.diveraid.com/pt/diver/dashboard
 
 </details>
 
-Vai para: [Diver > Visao geral](diver/overview.md)
+Ir para: [Diver > Visao geral](diver/overview.md)

@@ -1,68 +1,48 @@
-# Diver: przeglad
+# Diver: overview
 
-Obszar **Diver** to czesc aplikacji przeznaczona dla nurka (uzytkownika koncowego).
+The **Diver** area is the section of the app for divers (end users).
 
-## Przyklady (zrzuty ekranu)
-
-### Pulpit
-
-![Diver dashboard](../../assets/screenshots/diver/en/dashboard.png)
-
-### Lista kursow
-
-![Course list](../../assets/screenshots/diver/en/courses-list.png)
-
-## Pierwsze kroki
-
-1. Zaloguj sie na swoje konto.
-2. Przejdz do **Diver -> Pulpit**.
-3. Następnie przejdz do glownych sekcji: **Moje kursy**, **Moje certyfikaty**, **Przesłane dokumenty**, **Moje dokumenty**, **Mój dziennik nurkowy**, **Sklep**.
-
-## Gdzie znalezc
+## Where to find it
 
 Menu: **Diver**
 
-Glowne strony:
+## Main pages
 
-- Przegląd (ta strona)
-- Pulpit
-- Przesłane dokumenty
-- Moje dokumenty
-- Moje kursy
-- Moje certyfikaty
-- Moja biblioteka
-- Mój dziennik nurkowy
-- Sklep
-- Formularze RAID
+- Overview (this page)
+- Dashboard
+- Courses
+- Certifications
+- My Library
+- Awards
+- Dive Logs
+- Uploaded documents
+- My Documents
+- Free Learnings
+- Store
+- Forms
 
-## Typowe scenariusze
+## Typical flows
 
-1. Kontynuuj kurs: **Moje kursy** -> otworz kurs -> wykonaj nastepne kroki.
-2. Sprawdz certyfikat: **Moje certyfikaty** -> otworz certyfikat -> przejrzyj historie.
-3. Utworz wpis w dzienniku: **Mój dziennik nurkowy** -> New -> wypelnij -> zapisz -> sprawdz/aktualizuj.
-4. Kup kurs: **Sklep** -> wybierz kurs -> checkout -> potwierdz -> sprawdz wynik.
+1. Follow a course: **Courses** -> open a course -> complete the steps.
+2. Review a certification: **Certifications** -> open a card -> check history (if available).
+3. Upload a document: **Uploaded documents** -> add a document -> save -> verify in the list.
+4. Add a dive log: **Dive Logs** -> New -> fill -> save -> review/update.
 
-## Gdy cos nie dziala
+## If something does not work
 
-- Przekierowanie do logowania: zaloguj sie ponownie (sesja mogla wygasnac).
-- Dostep zablokowany: upewnij sie, ze email jest zweryfikowany.
+- Redirected to login: sign in again (session may have expired).
+- Access blocked/error: verify your email.
 
 <details>
-<summary>Dla wsparcia (szczegoly techniczne)</summary>
+<summary>For support (technical details)</summary>
 
-Strony Diver uzywaja prefiksu jezyka w URL:
+Diver pages use a language prefix in the URL:
 
 ```text
 GET https://user.diveraid.com/pl/diver/...
 ```
 
-Przyklady:
-
-```text
-GET https://user.diveraid.com/pl/diver/dashboard
-```
-
-Istnieja tez podpisane linki (zwykle z emaili), ktore przekierowuja:
+Signed links (typically from email) may redirect:
 
 ```text
 GET https://user.diveraid.com/actions/diver/certifications
@@ -72,4 +52,4 @@ GET https://user.diveraid.com/actions/diver/progress/{log_code}
 
 </details>
 
-Dalej: [Pulpit](dashboard.md)
+Next: [Dashboard](dashboard.md)

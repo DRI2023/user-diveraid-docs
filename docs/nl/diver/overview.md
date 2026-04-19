@@ -1,67 +1,48 @@
-# Diver: overzicht
+# Diver: overview
 
-Het **Diver**-gedeelte is het deel van de app voor de duiker (eindgebruiker).
+The **Diver** area is the section of the app for divers (end users).
 
-## Voorbeelden (screenshots)
-
-### Dashboard
-
-![Diver dashboard](../../assets/screenshots/diver/en/dashboard.png)
-
-### Cursuslijst
-
-![Course list](../../assets/screenshots/diver/en/courses-list.png)
-
-## Aan de slag
-
-1. Meld je aan met je account.
-2. Ga naar **Dashboard**.
-3. Ga daarna naar de hoofdonderdelen: Mijn Cursussen, Mijn Certificeringen, Mijn Documenten/Geuploade documenten, Mijn Duiklogboek, Winkel.
-
-## Waar te vinden
+## Where to find it
 
 Menu: **Diver**
 
-Hoofdpagina's:
+## Main pages
 
-- Overzicht (deze pagina)
+- Overview (this page)
 - Dashboard
-- Mijn Documenten
-- Mijn Cursussen
-- Mijn Certificeringen
+- Courses
+- Certifications
+- My Library
 - Awards
-- Mijn Duiklogboek
-- Winkel
-- Raid Formulieren
+- Dive Logs
+- Uploaded documents
+- My Documents
+- Free Learnings
+- Store
+- Forms
 
-## Typische workflows
+## Typical flows
 
-1. Een cursus volgen: **Mijn Cursussen** -> open een cursus -> voltooi de volgende stappen.
-2. Een certificering bekijken: **Mijn Certificeringen** -> open een certificering -> bekijk de geschiedenis.
-3. Een duiklog maken: **Mijn Duiklogboek** -> New -> invullen -> opslaan -> bekijken/bijwerken.
-4. Een cursus kopen: **Winkel** -> kies cursus -> checkout -> bevestigen -> resultaat controleren.
+1. Follow a course: **Courses** -> open a course -> complete the steps.
+2. Review a certification: **Certifications** -> open a card -> check history (if available).
+3. Upload a document: **Uploaded documents** -> add a document -> save -> verify in the list.
+4. Add a dive log: **Dive Logs** -> New -> fill -> save -> review/update.
 
-## Als er iets misgaat
+## If something does not work
 
-- Terug naar login: opnieuw aanmelden (sessie kan verlopen zijn).
-- Toegang geblokkeerd: controleer of je email is geverifieerd.
+- Redirected to login: sign in again (session may have expired).
+- Access blocked/error: verify your email.
 
 <details>
-<summary>Voor support (technische details)</summary>
+<summary>For support (technical details)</summary>
 
-Diver-pagina's gebruiken een taalprefix in de URL:
+Diver pages use a language prefix in the URL:
 
 ```text
 GET https://user.diveraid.com/nl/diver/...
 ```
 
-Voorbeeld:
-
-```text
-GET https://user.diveraid.com/nl/diver/dashboard
-```
-
-Er zijn ook ondertekende links (meestal uit emails) die doorverwijzen:
+Signed links (typically from email) may redirect:
 
 ```text
 GET https://user.diveraid.com/actions/diver/certifications
@@ -71,5 +52,4 @@ GET https://user.diveraid.com/actions/diver/progress/{log_code}
 
 </details>
 
-Volgende: [Dashboard](dashboard.md)
-
+Next: [Dashboard](dashboard.md)

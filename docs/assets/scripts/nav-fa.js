@@ -33,7 +33,6 @@
     if (pathname === "/" || pathname === "") return "fa-house";
 
     // Diver section
-    if (pathname.includes("/diver/overview")) return "fa-circle-info";
     if (pathname.includes("/diver/dashboard")) return "fa-house";
     if (pathname.includes("/diver/uploaded-documents")) return "fa-files";
     if (pathname.includes("/diver/documents")) return "fa-folder-open";

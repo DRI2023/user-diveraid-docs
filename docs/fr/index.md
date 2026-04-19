@@ -1,42 +1,30 @@
 # Bienvenue dans le guide utilisateur DiveRaid
 
-Ce guide t'aide a utiliser `user.diveraid.com` pour gerer les documents, les cours, les certifications, les carnets de plongee et les achats.
+Ce guide vous aide a utiliser `user.diveraid.com`.
 
-## Sections principales
+## Sections
 
-- [Tableau de bord](diver/dashboard.md)
-- [Mes cours](diver/courses.md)
-- [Mes certifications](diver/certifications.md)
-- [Awards](diver/awards.md)
-- [Mon carnet de plongee](diver/dive-logs.md)
-- [Mes documents / Documents telecharges](diver/documents.md)
-- [Boutique FREE-Learning](diver/free-learnings.md)
-- [Boutique](diver/store.md)
-- [Formulaires Raid](diver/forms.md)
-
-## Par ou commencer
-
-1. **Acces au portail :** ouvre **Tableau de bord** et verifie que tu n'es pas bloque (par exemple email non verifie).
-2. **Configuration du profil :** charge tes fichiers dans **Mes documents / Documents telecharges**.
-3. **Consulter les certifications :** va dans **Mes certifications** et ouvre une carte ou ton historique.
-4. **Ajouter un carnet de plongee :** va dans **Mon carnet de plongee**, cree un nouveau log puis revois/modifie-le.
+- [Diver](diver/overview.md): Gerer les cours, certifications, documents, carnets de plongee et achats.
+- [Mon profil](profile/overview.md): Gerer votre compte, vos taches, l’historique medical et les reglages securite/vie privee.
+- Dive Center: Gerer votre Dive Center et le staff (documentation a venir).
+- Distributor: Gerer les activites Distributor (documentation a venir).
 
 ## Langues
 
-Utilise le selecteur de langue dans l'en-tete (EN/IT/DE/FR/ES/ZH/AR/NL/KO/TR/PT/PL/RU).
+Utilisez le selecteur de langue dans l’en-tete.
 
-Icone de langue dans l'en-tete : :material-translate:
+Actuellement disponibles : English, Italiano, Deutsch, Francais, Espanol, 简体中文, العربية, Nederlands, 한국어, Türkçe, Portugues, Polski, Русский.
 
 <details>
-<summary>Pour le support (details techniques)</summary>
+<summary>Pour support (details techniques)</summary>
 
-Structure des URL (apres login) :
+Structure d’URL (apres connexion) :
 
 ```text
 https://user.diveraid.com/fr/...
 ```
 
-Exemple :
+Exemples :
 
 ```text
 GET https://user.diveraid.com/fr/diver/dashboard
@@ -44,4 +32,4 @@ GET https://user.diveraid.com/fr/diver/dashboard
 
 </details>
 
-Aller a : [Diver > Overview](diver/overview.md)
+Aller a : [Diver > Apercu](diver/overview.md)

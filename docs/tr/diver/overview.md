@@ -1,67 +1,48 @@
-# Dalgıç: Genel Bakış
+# Diver: overview
 
-**Dalgıç (Diver)** alanı, dalgıç (son kullanıcı) için uygulamanın ayrılmış bölümüdür.
+The **Diver** area is the section of the app for divers (end users).
 
-## Örnekler (ekran görüntüleri)
+## Where to find it
 
-### Gösterge Tablosu
+Menu: **Diver**
 
-![Diver dashboard](../../assets/screenshots/diver/en/dashboard.png)
+## Main pages
 
-### Kurs listesi
+- Overview (this page)
+- Dashboard
+- Courses
+- Certifications
+- My Library
+- Awards
+- Dive Logs
+- Uploaded documents
+- My Documents
+- Free Learnings
+- Store
+- Forms
 
-![Course list](../../assets/screenshots/diver/en/courses-list.png)
+## Typical flows
 
-## Başlarken
+1. Follow a course: **Courses** -> open a course -> complete the steps.
+2. Review a certification: **Certifications** -> open a card -> check history (if available).
+3. Upload a document: **Uploaded documents** -> add a document -> save -> verify in the list.
+4. Add a dive log: **Dive Logs** -> New -> fill -> save -> review/update.
 
-1. Hesabınızla giriş yapın.
-2. **Dalgıç -> Gösterge Tablosu**'na gidin.
-3. Buradan ana bölümlere geçin: Kurslarım, Sertifikalarım, Belgelerim, Dalış Kayıt Defterim, Mağaza.
+## If something does not work
 
-## Nerede bulurum?
-
-Menü: **Dalgıç**
-
-Ana sayfalar:
-
-- Genel Bakış (bu sayfa)
-- Gösterge Tablosu
-- Belgelerim
-- Kurslarım
-- Sertifikalarım
-- Kitaplığım
-- Dalış Kayıt Defterim
-- Mağaza
-- RAID Formları
-
-## Tipik iş akışları
-
-1. Bir kursu takip edin: **Kurslarım** -> kursu açın -> sonraki adımları tamamlayın.
-2. Sertifika kontrol edin: **Sertifikalarım** -> sertifikayı açın -> geçmişi inceleyin.
-3. Dalış kaydı oluşturun: **Dalış Kayıt Defterim** -> **New** -> doldurun -> kaydedin -> görüntüleyin/güncelleyin.
-4. Kurs satın alın: **Mağaza** -> kurs seçin -> checkout -> onaylayın -> sonucu kontrol edin.
-
-## Bir şey ters giderse
-
-- Giriş sayfasına yönlendirildiyseniz: yeniden giriş yapın (oturum süresi dolmuş olabilir).
-- Erişim engelliyse: e-postanızın doğrulandığından emin olun.
+- Redirected to login: sign in again (session may have expired).
+- Access blocked/error: verify your email.
 
 <details>
-<summary>Destek (teknik bilgiler)</summary>
+<summary>For support (technical details)</summary>
 
-Dalgıç sayfaları URL'de dil öneki kullanır:
+Diver pages use a language prefix in the URL:
 
 ```text
 GET https://user.diveraid.com/tr/diver/...
 ```
 
-Örnekler:
-
-```text
-GET https://user.diveraid.com/tr/diver/dashboard
-```
-
-Yönlendiren imzalı bağlantılar da vardır (genellikle e-postalardan):
+Signed links (typically from email) may redirect:
 
 ```text
 GET https://user.diveraid.com/actions/diver/certifications
@@ -71,4 +52,4 @@ GET https://user.diveraid.com/actions/diver/progress/{log_code}
 
 </details>
 
-Sonraki: [Gösterge Tablosu](dashboard.md)
+Next: [Dashboard](dashboard.md)

@@ -1,67 +1,48 @@
-# 潜水员：概览
+# Diver: overview
 
-**潜水员（Diver）** 区域是面向潜水员终端用户的功能区。
+The **Diver** area is the section of the app for divers (end users).
 
-## 示例（截图）
+## Where to find it
 
-### 汇总信息
+Menu: **Diver**
 
-![潜水员汇总信息](../../assets/screenshots/diver/en/dashboard.png)
+## Main pages
 
-### 课程列表
+- Overview (this page)
+- Dashboard
+- Courses
+- Certifications
+- My Library
+- Awards
+- Dive Logs
+- Uploaded documents
+- My Documents
+- Free Learnings
+- Store
+- Forms
 
-![课程列表](../../assets/screenshots/diver/en/courses-list.png)
+## Typical flows
 
-## 快速开始
+1. Follow a course: **Courses** -> open a course -> complete the steps.
+2. Review a certification: **Certifications** -> open a card -> check history (if available).
+3. Upload a document: **Uploaded documents** -> add a document -> save -> verify in the list.
+4. Add a dive log: **Dive Logs** -> New -> fill -> save -> review/update.
 
-1. 使用你的账号登录。
-2. 打开 **潜水员 -> 汇总信息**。
-3. 从这里进入主要功能：我的课程、认证、文件、潜水日志、线上商店。
+## If something does not work
 
-## 在哪里找到
-
-菜单：**潜水员**
-
-主要页面：
-
-- 概览（本页）
-- 汇总信息
-- 常用文件
-- 我的课程
-- 我已获得的潜水员级认证
-- 我的荣誉卡
-- 我的潜水日志
-- 线上商店
-- 表格工具
-
-## 常见流程
-
-1. 跟进课程：**我的课程** -> 打开课程 -> 完成下一步。
-2. 查看认证：**我已获得的潜水员级认证** -> 打开认证 -> 查看历史记录。
-3. 创建潜水日志：**我的潜水日志** -> 新建 -> 填写 -> 保存 -> 回看/更新。
-4. 购买课程：**线上商店** -> 选择课程 -> 结账 -> 确认 -> 查看结果。
-
-## 如果遇到问题
-
-- 被重定向到登录页：可能登录已过期，请重新登录。
-- 无法访问/被限制：请确认邮箱已验证。
+- Redirected to login: sign in again (session may have expired).
+- Access blocked/error: verify your email.
 
 <details>
-<summary>技术支持（技术细节）</summary>
+<summary>For support (technical details)</summary>
 
-潜水员页面 URL 带语言前缀：
+Diver pages use a language prefix in the URL:
 
 ```text
 GET https://user.diveraid.com/zh/diver/...
 ```
 
-示例：
-
-```text
-GET https://user.diveraid.com/zh/diver/dashboard
-```
-
-也可能存在来自邮件的签名链接（会跳转）：
+Signed links (typically from email) may redirect:
 
 ```text
 GET https://user.diveraid.com/actions/diver/certifications
@@ -71,5 +52,4 @@ GET https://user.diveraid.com/actions/diver/progress/{log_code}
 
 </details>
 
-下一步：[汇总信息](dashboard.md)
-
+Next: [Dashboard](dashboard.md)

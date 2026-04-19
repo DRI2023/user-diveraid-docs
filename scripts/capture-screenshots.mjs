@@ -46,8 +46,7 @@ function ensureDir(p) {
 function outPath(locale, filename) {
   return path.join(outRoot, locale, filename);
 }
-
-// Diver docs set. Extend later (professional/dive-center/distributor).
+// Diver docs set. Extend later (dive-center/distributor).
 const targets = [
   { key: "dashboard", file: "dashboard.png", pathByLocale: (l) => `/${l}/diver/dashboard` },
   // Account dropdown menu (opened by clicking the profile photo/options icon).

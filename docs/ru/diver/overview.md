@@ -1,68 +1,48 @@
-# Дайвер: обзор
+# Diver: overview
 
-Область **Дайвер** предназначена для дайвера (конечного пользователя).
+The **Diver** area is the section of the app for divers (end users).
 
-## Примеры (скриншоты)
+## Where to find it
 
-### Панель управления
+Menu: **Diver**
 
-![Панель управления дайвера](../../assets/screenshots/diver/en/dashboard.png)
+## Main pages
 
-### Список курсов
+- Overview (this page)
+- Dashboard
+- Courses
+- Certifications
+- My Library
+- Awards
+- Dive Logs
+- Uploaded documents
+- My Documents
+- Free Learnings
+- Store
+- Forms
 
-![Список курсов](../../assets/screenshots/diver/en/courses-list.png)
+## Typical flows
 
-## Быстрый старт
+1. Follow a course: **Courses** -> open a course -> complete the steps.
+2. Review a certification: **Certifications** -> open a card -> check history (if available).
+3. Upload a document: **Uploaded documents** -> add a document -> save -> verify in the list.
+4. Add a dive log: **Dive Logs** -> New -> fill -> save -> review/update.
 
-1. Войдите в аккаунт.
-2. Перейдите в **Дайвер -> Панель управления**.
-3. Далее откройте основные разделы: Мои курсы, Мои сертификаты, Мои документы, Мой журнал погружений, Магазин.
+## If something does not work
 
-## Где найти
-
-Меню: **Дайвер**
-
-Основные страницы:
-
-- Обзор (эта страница)
-- Панель управления
-- Мои курсы
-- Мои сертификаты
-- Моя библиотека
-- Мой журнал погружений
-- Загруженные документы
-- Мои документы
-- Магазин
-- Формы рейдов
-
-## Типовые сценарии
-
-1. Пройти курс: **Мои курсы** -> открыть курс -> выполнить следующие шаги.
-2. Проверить сертификат: **Мои сертификаты** -> открыть сертификат -> посмотреть историю.
-3. Создать лог погружения: **Мой журнал погружений** -> New -> заполнить -> сохранить -> просмотреть/обновить.
-4. Купить курс: **Магазин** -> выбрать курс -> оформить -> подтвердить -> проверить результат.
-
-## Если что-то пошло не так
-
-- Переадресация на вход: войдите снова (сессия могла истечь).
-- Доступ заблокирован: убедитесь, что email подтвержден.
+- Redirected to login: sign in again (session may have expired).
+- Access blocked/error: verify your email.
 
 <details>
-<summary>Для поддержки (технические детали)</summary>
+<summary>For support (technical details)</summary>
 
-Страницы дайвера используют префикс языка в URL:
+Diver pages use a language prefix in the URL:
 
 ```text
 GET https://user.diveraid.com/ru/diver/...
 ```
 
-Пример:
-
-```text
-GET https://user.diveraid.com/ru/diver/dashboard
-```
-
-Также есть подписанные ссылки (обычно из email), которые перенаправляют:
+Signed links (typically from email) may redirect:
 
 ```text
 GET https://user.diveraid.com/actions/diver/certifications
@@ -72,5 +52,4 @@ GET https://user.diveraid.com/actions/diver/progress/{log_code}
 
 </details>
 
-Далее: [Панель управления](dashboard.md)
-
+Next: [Dashboard](dashboard.md)

@@ -1,42 +1,30 @@
 # Welkom bij de DiveRaid User Guide
 
-Deze gids helpt je `user.diveraid.com` te gebruiken om documenten, cursussen, certificeringen, duiklogs en aankopen te beheren.
+Deze gids helpt je `user.diveraid.com` te gebruiken.
 
-## Belangrijkste onderdelen
+## Onderdelen
 
-- [Dashboard](diver/dashboard.md)
-- [Mijn Cursussen](diver/courses.md)
-- [Mijn Certificeringen](diver/certifications.md)
-- [Awards](diver/awards.md)
-- [Mijn Duiklogboek](diver/dive-logs.md)
-- [Mijn Documenten / Geuploade documenten](diver/documents.md)
-- [FREE-Learning winkel](diver/free-learnings.md)
-- [Winkel](diver/store.md)
-- [Raid Formulieren](diver/forms.md)
-
-## Waar beginnen
-
-1. **Toegang tot het portaal:** open **Dashboard** en controleer of je niet geblokkeerd bent (bijv. email niet geverifieerd).
-2. **Profiel instellen:** upload je bestanden in **Mijn Documenten / Geuploade documenten**.
-3. **Certificeringen bekijken:** ga naar **Mijn Certificeringen** en open een kaart of je geschiedenis.
-4. **Duiklog toevoegen:** ga naar **Mijn Duiklogboek**, maak een nieuwe log aan en bekijk/bewerk die.
+- [Diver](diver/overview.md): Cursussen, certificeringen, documenten, duiklogs en aankopen beheren.
+- [Mijn profiel](profile/overview.md): Je account, taken, medische geschiedenis en beveiliging/privacy-instellingen beheren.
+- Dive Center: Je Dive Center en staff beheren (documentatie volgt).
+- Distributor: Distributor-activiteiten beheren (documentatie volgt).
 
 ## Talen
 
-Gebruik de taalkeuze in de header (EN/IT/DE/FR/ES/ZH/AR/NL/KO/TR/PT/PL/RU).
+Gebruik de taalkeuze in de header.
 
-Taalpictogram in de header: :material-translate:
+Nu beschikbaar: English, Italiano, Deutsch, Francais, Espanol, 简体中文, العربية, Nederlands, 한국어, Türkçe, Portugues, Polski, Русский.
 
 <details>
 <summary>Voor support (technische details)</summary>
 
-URL-structuur (na login):
+URL-structuur (na inloggen):
 
 ```text
 https://user.diveraid.com/nl/...
 ```
 
-Voorbeeld:
+Voorbeelden:
 
 ```text
 GET https://user.diveraid.com/nl/diver/dashboard
@@ -44,4 +32,4 @@ GET https://user.diveraid.com/nl/diver/dashboard
 
 </details>
 
-Ga naar: [Diver > Overview](diver/overview.md)
+Ga naar: [Diver > Overzicht](diver/overview.md)
