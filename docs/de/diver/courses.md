@@ -27,8 +27,6 @@ Typische Schritte:
 ## Kursfortschritt (Uebersicht)
 
 Wenn du einen Kurs oeffnest, landest du auf der **Fortschritt**-Seite. Das ist der Hub des Kurses: was erledigt ist und was als naechstes kommt.
-
-<!-- TODO(screenshot): docs/assets/screenshots/diver/de/courses-progress.png -->
 ![Kursfortschritt (Uebersicht)](../../assets/screenshots/diver/en/courses-progress.png)
 
 Typische Schritte:
@@ -41,8 +39,6 @@ Typische Schritte:
 Versuche sind die Seiten, auf denen du die Aktivitaet **durchfuehrst** (Fragen beantworten, absenden, bestaetigen).
 
 ### Quiz-Versuch (Modul)
-
-<!-- TODO(screenshot): docs/assets/screenshots/diver/de/courses-quiz-attempt.png -->
 ![Quiz attempt](../../assets/screenshots/diver/en/courses-quiz-attempt.png)
 
 Typische Schritte:
@@ -53,8 +49,6 @@ Typische Schritte:
 4. Ergebnisse (falls verfuegbar) oeffnen und Antworten pruefen.
 
 ### Exam-Versuch
-
-<!-- TODO(screenshot): docs/assets/screenshots/diver/de/courses-exam-attempt.png -->
 ![Exam attempt](../../assets/screenshots/diver/en/courses-exam-attempt.png)
 
 Hinweis: Das Exam ist erst verfuegbar, wenn die erforderlichen Quiz/Module abgeschlossen sind und ein Instructor es freigibt.
@@ -68,8 +62,6 @@ Typische Schritte:
 ### Skills
 
 Skills sind praktische Schritte, die je nach Kurs-Konfiguration eine Bestaetigung erfordern koennen.
-
-<!-- TODO(screenshot): docs/assets/screenshots/diver/de/courses-skills.png -->
 ![Skills signatures](../../assets/screenshots/diver/en/courses-skills.png)
 
 Hinweis: Du kannst Skills erst bestaetigen, wenn ein Instructor sie als abgeschlossen markiert hat.
@@ -79,8 +71,6 @@ Tipp: Falls der Kurs es verlangt, fuelle vorher den zugehoerigen Dive Log/Logboo
 ## Fortschrittsdetails (Quiz/Exam/Skills)
 
 Fortschrittsdetails sind die Seiten, auf denen du **Ergebnisse** pruefst (z. B. Quiz-Antworten oder Exam-Ergebnisse).
-
-<!-- TODO(screenshot): docs/assets/screenshots/diver/de/courses-results.png -->
 ![Fortschrittsdetails (Ergebnisse)](../../assets/screenshots/diver/en/courses-results.png)
 
 ## Haeufige Probleme

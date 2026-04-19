@@ -1,11 +1,7 @@
 # Diver: corsi
 
 ## Screenshot
-
-<!-- TODO(screenshot): docs/assets/screenshots/diver/it/courses-list.png -->
 ![Lista corsi](../../assets/screenshots/diver/en/courses-list.png)
-
-<!-- TODO(screenshot): docs/assets/screenshots/diver/it/courses-expired.png -->
 ![Corsi scaduti](../../assets/screenshots/diver/en/courses-expired.png)
 
 ## Dove lo trovi
@@ -29,8 +25,6 @@ Passi tipici:
 ## Progress del corso (riepilogo)
 
 Quando apri un corso, vieni portato alla pagina di **progress**. Questa pagina e' l'hub del corso: mostra cosa hai completato e qual e' il prossimo step.
-
-<!-- TODO(screenshot): docs/assets/screenshots/diver/it/courses-progress.png -->
 ![Progress del corso (riepilogo)](../../assets/screenshots/diver/en/courses-progress.png)
 
 Passi tipici:
@@ -43,8 +37,6 @@ Passi tipici:
 I tentativi sono le pagine in cui **svolgi** l'attivita' (rispondi, invii, confermi).
 
 ### Tentativo quiz (modulo)
-
-<!-- TODO(screenshot): docs/assets/screenshots/diver/it/courses-quiz-attempt.png -->
 ![Tentativo quiz](../../assets/screenshots/diver/en/courses-quiz-attempt.png)
 
 Passi tipici:
@@ -55,8 +47,6 @@ Passi tipici:
 4. Apri la pagina risultati (se disponibile) per rivedere le risposte.
 
 ### Tentativo esame
-
-<!-- TODO(screenshot): docs/assets/screenshots/diver/it/courses-exam-attempt.png -->
 ![Tentativo esame](../../assets/screenshots/diver/en/courses-exam-attempt.png)
 
 Nota: l'esame diventa disponibile solo dopo aver completato i quiz/moduli richiesti e dopo che l'istruttore lo abilita.
@@ -70,8 +60,6 @@ Passi tipici:
 ### Skills
 
 Le skills sono step pratici che possono richiedere conferma in base alla configurazione del corso.
-
-<!-- TODO(screenshot): docs/assets/screenshots/diver/it/courses-skills.png -->
 ![Skills signatures](../../assets/screenshots/diver/en/courses-skills.png)
 
 Nota: puoi confermare le skills solo dopo che l'istruttore le ha segnate come completate.
@@ -81,8 +69,6 @@ Suggerimento: se il corso lo richiede, non dimenticare di compilare il Dive Log/
 ## Dettaglio progress (quiz/esame/skills)
 
 Il dettaglio progress e' la pagina in cui **rivedi i risultati** (ad esempio risposte del quiz o risultati dell'esame).
-
-<!-- TODO(screenshot): docs/assets/screenshots/diver/it/courses-results.png -->
 ![Dettaglio progress (risultati)](../../assets/screenshots/diver/en/courses-results.png)
 
 ## Problemi comuni

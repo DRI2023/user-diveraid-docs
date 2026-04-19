@@ -1,8 +1,6 @@
 # Diver: library
 
 ## Screenshot
-
-<!-- TODO(screenshot): docs/assets/screenshots/diver/en/library.png -->
 ![Library](../../assets/screenshots/diver/en/library.png)
 
 ## Purpose

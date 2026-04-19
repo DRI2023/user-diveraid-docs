@@ -1,8 +1,6 @@
 # Diver: biblioteka
 
 ## Zrzut ekranu
-
-<!-- TODO(screenshot): docs/assets/screenshots/diver/pl/library.png -->
 <!-- Fallback: use EN screenshot until localized screenshots are available. -->
 ![Moja biblioteka](../../assets/screenshots/diver/en/library.png)
 

@@ -2,11 +2,11 @@
 
 ## Screenshot
 
-![Dashboard Diver](../../assets/screenshots/diver/it/dashboard.png)
+![Dashboard Diver](../../assets/screenshots/diver/en/dashboard.png)
 
-![Libreria](../../assets/screenshots/diver/it/library.png)
+![Libreria](../../assets/screenshots/diver/en/library.png)
 
-![Menu profilo (clic sulla foto)](../../assets/screenshots/diver/it/profile-menu.png)
+![Menu profilo (clic sulla foto)](../../assets/screenshots/diver/en/profile-menu.png)
 
 ## Scopo
 

@@ -1,8 +1,6 @@
 # Diver: 我的资料库
 
 ## 截图
-
-<!-- TODO(screenshot): docs/assets/screenshots/diver/zh/library.png -->
 <!-- Fallback: use EN screenshot until localized screenshots are available. -->
 ![我的资料库](../../assets/screenshots/diver/en/library.png)
 

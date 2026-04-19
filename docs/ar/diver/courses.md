@@ -27,8 +27,6 @@
 ## تقدم الدورة (ملخص)
 
 عند فتح دورة سيتم نقلك الى صفحة **التقدم**. هذه الصفحة هي مركز الدورة: تعرض ما تم اكماله وما هي الخطوة التالية.
-
-<!-- TODO(screenshot): docs/assets/screenshots/diver/ar/courses-progress.png -->
 ![تقدم الدورة (ملخص)](../../assets/screenshots/diver/en/courses-progress.png)
 
 خطوات شائعة:
@@ -41,8 +39,6 @@
 المحاولات هي الصفحات التي تقوم فيها بالنشاط (اجابة الاسئلة، ارسال، تاكيد).
 
 ### محاولة الاختبار (وحدة)
-
-<!-- TODO(screenshot): docs/assets/screenshots/diver/ar/courses-quiz-attempt.png -->
 ![محاولة الاختبار](../../assets/screenshots/diver/en/courses-quiz-attempt.png)
 
 خطوات شائعة:
@@ -53,8 +49,6 @@
 4. افتح صفحة النتائج (ان كانت متاحة) لمراجعة اجاباتك.
 
 ### محاولة الامتحان
-
-<!-- TODO(screenshot): docs/assets/screenshots/diver/ar/courses-exam-attempt.png -->
 ![محاولة الامتحان](../../assets/screenshots/diver/en/courses-exam-attempt.png)
 
 ملاحظة: يصبح الامتحان متاحا فقط بعد اكمال الاختبارات/الوحدات المطلوبة وبعد ان يقوم المدرب بتفعيله.
@@ -68,8 +62,6 @@
 ### المهارات
 
 المهارات هي خطوات عملية قد تتطلب تاكيدا حسب اعدادات الدورة.
-
-<!-- TODO(screenshot): docs/assets/screenshots/diver/ar/courses-skills.png -->
 ![تواقيع المهارات](../../assets/screenshots/diver/en/courses-skills.png)
 
 ملاحظة: يمكنك تاكيد المهارات فقط بعد ان يقوم المدرب بتعليمها كمكتملة.
@@ -79,8 +71,6 @@
 ## تفاصيل التقدم (اختبار/امتحان/مهارات)
 
 تفاصيل التقدم هي الصفحات التي تراجع فيها النتائج (مثل اجابات الاختبار او نتائج الامتحان).
-
-<!-- TODO(screenshot): docs/assets/screenshots/diver/ar/courses-results.png -->
 ![تفاصيل التقدم (النتائج)](../../assets/screenshots/diver/en/courses-results.png)
 
 ## مشاكل شائعة

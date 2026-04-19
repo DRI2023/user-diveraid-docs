@@ -27,8 +27,6 @@ Typowe kroki:
 ## Postep kursu (podsumowanie)
 
 Po otwarciu kursu przechodzisz do strony **postepu**. To centrum kursu: co zostalo ukonczone i jaki jest nastepny krok.
-
-<!-- TODO(screenshot): docs/assets/screenshots/diver/pl/courses-progress.png -->
 ![Postep kursu (podsumowanie)](../../assets/screenshots/diver/en/courses-progress.png)
 
 Typowe kroki:
@@ -41,8 +39,6 @@ Typowe kroki:
 Proby to strony, na ktorych **wykonujesz** aktywnosc (odpowiadasz, wysylasz, potwierdzasz).
 
 ### Proba quizu (modul)
-
-<!-- TODO(screenshot): docs/assets/screenshots/diver/pl/courses-quiz-attempt.png -->
 ![Quiz attempt](../../assets/screenshots/diver/en/courses-quiz-attempt.png)
 
 Typowe kroki:
@@ -53,8 +49,6 @@ Typowe kroki:
 4. Otworz wyniki (jesli dostepne), aby sprawdzic odpowiedzi.
 
 ### Proba egzaminu
-
-<!-- TODO(screenshot): docs/assets/screenshots/diver/pl/courses-exam-attempt.png -->
 ![Exam attempt](../../assets/screenshots/diver/en/courses-exam-attempt.png)
 
 Uwaga: egzamin jest dostepny dopiero po ukonczeniu wymaganych quizow/modulow oraz po aktywacji przez instruktora.
@@ -68,8 +62,6 @@ Typowe kroki:
 ### Skills
 
 Skills to praktyczne kroki, ktore moga wymagac potwierdzenia zaleznie od konfiguracji kursu.
-
-<!-- TODO(screenshot): docs/assets/screenshots/diver/pl/courses-skills.png -->
 ![Skills signatures](../../assets/screenshots/diver/en/courses-skills.png)
 
 Uwaga: mozesz potwierdzic skills dopiero po tym, jak instruktor oznaczy je jako ukonczone.
@@ -79,8 +71,6 @@ Wskazowka: jesli kurs tego wymaga, pamietaj o uzupelnieniu wpisu Dive Log/Logboo
 ## Szczegoly postepu (quiz/exam/skills)
 
 Szczegoly postepu to strony, na ktorych przegladasz **wyniki** (np. odpowiedzi quizu lub wyniki egzaminu).
-
-<!-- TODO(screenshot): docs/assets/screenshots/diver/pl/courses-results.png -->
 ![Szczegoly postepu (wyniki)](../../assets/screenshots/diver/en/courses-results.png)
 
 ## Typowe problemy

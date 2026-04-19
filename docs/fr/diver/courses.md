@@ -27,8 +27,6 @@ Etapes typiques:
 ## Progression du cours (resume)
 
 Quand tu ouvres un cours, tu arrives sur une page de **progression**. C'est le hub du cours: ce qui est termine et ce qui vient ensuite.
-
-<!-- TODO(screenshot): docs/assets/screenshots/diver/fr/courses-progress.png -->
 ![Progression du cours (resume)](../../assets/screenshots/diver/en/courses-progress.png)
 
 Etapes typiques:
@@ -41,8 +39,6 @@ Etapes typiques:
 Les tentatives sont les pages ou tu **fais** l'activite (repondre, envoyer, confirmer).
 
 ### Tentative de quiz (module)
-
-<!-- TODO(screenshot): docs/assets/screenshots/diver/fr/courses-quiz-attempt.png -->
 ![Quiz attempt](../../assets/screenshots/diver/en/courses-quiz-attempt.png)
 
 Etapes typiques:
@@ -53,8 +49,6 @@ Etapes typiques:
 4. Ouvre les resultats (si disponible) pour verifier tes reponses.
 
 ### Tentative d'examen
-
-<!-- TODO(screenshot): docs/assets/screenshots/diver/fr/courses-exam-attempt.png -->
 ![Exam attempt](../../assets/screenshots/diver/en/courses-exam-attempt.png)
 
 Note: l'examen devient disponible seulement apres avoir complete les quizz/modules requis et apres activation par un instructeur.
@@ -68,8 +62,6 @@ Etapes typiques:
 ### Skills
 
 Les skills sont des etapes pratiques qui peuvent demander une confirmation selon la configuration du cours.
-
-<!-- TODO(screenshot): docs/assets/screenshots/diver/fr/courses-skills.png -->
 ![Skills signatures](../../assets/screenshots/diver/en/courses-skills.png)
 
 Note: tu peux confirmer les skills seulement apres qu'un instructeur les ait marquees comme terminees.
@@ -79,8 +71,6 @@ Astuce: si le cours le demande, n'oublie pas de remplir le Dive Log/Logbook lie 
 ## Details de progression (quiz/exam/skills)
 
 Les details de progression sont les pages ou tu consultes les **resultats** (par exemple reponses du quiz ou resultats d'examen).
-
-<!-- TODO(screenshot): docs/assets/screenshots/diver/fr/courses-results.png -->
 ![Details de progression (resultats)](../../assets/screenshots/diver/en/courses-results.png)
 
 ## Problemes frequents

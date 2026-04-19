@@ -6,7 +6,7 @@ La pagina **I miei awards** contiene le recognition card (award) e il relativo f
 
 Menu: **Diver -> I miei awards**
 
-![I miei awards](../../assets/screenshots/diver/it/awards.png)
+![I miei awards](../../assets/screenshots/diver/en/awards.png)
 
 ## Tipi di award
 

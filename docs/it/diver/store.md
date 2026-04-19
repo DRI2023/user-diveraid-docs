@@ -14,7 +14,7 @@ Passi tipici:
 2. Scegli un corso.
 3. Entra nel checkout.
 
-![Store](../../assets/screenshots/diver/it/store.png)
+![Store](../../assets/screenshots/diver/en/store.png)
 
 ## Checkout e ordine corso
 

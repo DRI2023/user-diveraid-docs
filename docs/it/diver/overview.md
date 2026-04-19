@@ -6,11 +6,11 @@ L'area **Diver** e' la sezione dell'app dedicata al subacqueo (utente finale).
 
 ### Dashboard
 
-![Dashboard Diver](../../assets/screenshots/diver/it/dashboard.png)
+![Dashboard Diver](../../assets/screenshots/diver/en/dashboard.png)
 
 ### Lista corsi
 
-![Lista corsi](../../assets/screenshots/diver/it/courses-list.png)
+![Lista corsi](../../assets/screenshots/diver/en/courses-list.png)
 
 ## Come iniziare
 

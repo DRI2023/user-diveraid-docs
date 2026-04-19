@@ -1,8 +1,6 @@
 # Diver: مكتبتي
 
 ## لقطة شاشة
-
-<!-- TODO(screenshot): docs/assets/screenshots/diver/ar/library.png -->
 <!-- Fallback: use EN screenshot until localized screenshots are available. -->
 ![مكتبتي](../../assets/screenshots/diver/en/library.png)
 

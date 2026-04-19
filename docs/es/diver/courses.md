@@ -27,8 +27,6 @@ Pasos tipicos:
 ## Progreso del curso (resumen)
 
 Al abrir un curso, entras en la pagina de **progreso**. Es el centro del curso: muestra lo completado y lo que sigue.
-
-<!-- TODO(screenshot): docs/assets/screenshots/diver/es/courses-progress.png -->
 ![Progreso del curso (resumen)](../../assets/screenshots/diver/en/courses-progress.png)
 
 Pasos tipicos:
@@ -41,8 +39,6 @@ Pasos tipicos:
 Los intentos son las paginas donde **realizas** la actividad (responder, enviar, confirmar).
 
 ### Intento de quiz (modulo)
-
-<!-- TODO(screenshot): docs/assets/screenshots/diver/es/courses-quiz-attempt.png -->
 ![Quiz attempt](../../assets/screenshots/diver/en/courses-quiz-attempt.png)
 
 Pasos tipicos:
@@ -53,8 +49,6 @@ Pasos tipicos:
 4. Abre los resultados (si estan disponibles) para revisar.
 
 ### Intento de examen
-
-<!-- TODO(screenshot): docs/assets/screenshots/diver/es/courses-exam-attempt.png -->
 ![Exam attempt](../../assets/screenshots/diver/en/courses-exam-attempt.png)
 
 Nota: el examen solo esta disponible despues de completar los quizzes/modulos requeridos y cuando el instructor lo habilite.
@@ -68,8 +62,6 @@ Pasos tipicos:
 ### Skills
 
 Las skills son pasos practicos que pueden requerir confirmacion segun la configuracion del curso.
-
-<!-- TODO(screenshot): docs/assets/screenshots/diver/es/courses-skills.png -->
 ![Skills signatures](../../assets/screenshots/diver/en/courses-skills.png)
 
 Nota: solo puedes confirmar las skills despues de que el instructor las marque como completadas.
@@ -79,8 +71,6 @@ Consejo: si el curso lo requiere, recuerda completar el Dive Log/Logbook relacio
 ## Detalles de progreso (quiz/exam/skills)
 
 Los detalles de progreso son las paginas donde revisas **resultados** (por ejemplo respuestas del quiz o resultados del examen).
-
-<!-- TODO(screenshot): docs/assets/screenshots/diver/es/courses-results.png -->
 ![Detalles de progreso (resultados)](../../assets/screenshots/diver/en/courses-results.png)
 
 ## Problemas comunes

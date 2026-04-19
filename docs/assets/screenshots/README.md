@@ -2,9 +2,8 @@
 
 Put product screenshots here so they can be referenced from Markdown pages.
 
-Recommended naming (bilingual):
+Recommended naming (for now, English only):
 
-- `docs/assets/screenshots/diver/it/dashboard.png`
 - `docs/assets/screenshots/diver/en/dashboard.png`
 
 Notes:

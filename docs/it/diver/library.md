@@ -1,9 +1,7 @@
 # Diver: libreria
 
 ## Screenshot
-
-<!-- TODO(screenshot): docs/assets/screenshots/diver/it/library.png -->
-![La mia libreria](../../assets/screenshots/diver/it/library.png)
+![La mia libreria](../../assets/screenshots/diver/en/library.png)
 
 ## Scopo
 

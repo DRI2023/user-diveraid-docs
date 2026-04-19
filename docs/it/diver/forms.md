@@ -8,7 +8,7 @@ Menu: **Moduli Raid**
 
 Qui vedi l'elenco dei moduli disponibili.
 
-![Forms](../../assets/screenshots/diver/it/forms.png)
+![Forms](../../assets/screenshots/diver/en/forms.png)
 
 Passi tipici:
 

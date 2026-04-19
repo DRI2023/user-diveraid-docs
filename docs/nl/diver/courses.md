@@ -27,8 +27,6 @@ Typische stappen:
 ## Cursusvoortgang (overzicht)
 
 Wanneer je een cursus opent, kom je op de **voortgang**-pagina. Dit is de hub van de cursus: wat je hebt afgerond en wat de volgende stap is.
-
-<!-- TODO(screenshot): docs/assets/screenshots/diver/nl/courses-progress.png -->
 ![Cursusvoortgang (overzicht)](../../assets/screenshots/diver/en/courses-progress.png)
 
 Typische stappen:
@@ -41,8 +39,6 @@ Typische stappen:
 Pogingen zijn de paginas waar je de activiteit **uitvoert** (vragen beantwoorden, verzenden, bevestigen).
 
 ### Quiz poging (module)
-
-<!-- TODO(screenshot): docs/assets/screenshots/diver/nl/courses-quiz-attempt.png -->
 ![Quiz attempt](../../assets/screenshots/diver/en/courses-quiz-attempt.png)
 
 Typische stappen:
@@ -53,8 +49,6 @@ Typische stappen:
 4. Open resultaten (indien beschikbaar) om je antwoorden te bekijken.
 
 ### Examen poging
-
-<!-- TODO(screenshot): docs/assets/screenshots/diver/nl/courses-exam-attempt.png -->
 ![Exam attempt](../../assets/screenshots/diver/en/courses-exam-attempt.png)
 
 Let op: het examen is pas beschikbaar nadat je de vereiste quizzes/modules hebt voltooid en nadat een instructeur het heeft geactiveerd.
@@ -68,8 +62,6 @@ Typische stappen:
 ### Skills
 
 Skills zijn praktische stappen die afhankelijk van de cursusconfiguratie bevestiging kunnen vereisen.
-
-<!-- TODO(screenshot): docs/assets/screenshots/diver/nl/courses-skills.png -->
 ![Skills signatures](../../assets/screenshots/diver/en/courses-skills.png)
 
 Let op: je kunt skills pas bevestigen nadat een instructeur ze als voltooid heeft gemarkeerd.
@@ -79,8 +71,6 @@ Tip: als de cursus dit vereist, vul eerst de bijbehorende Dive Log/Logbook-invoe
 ## Voortgangsdetails (quiz/exam/skills)
 
 Voortgangsdetails zijn paginas waar je **resultaten** bekijkt (bijvoorbeeld quiz-antwoorden of exam-resultaten).
-
-<!-- TODO(screenshot): docs/assets/screenshots/diver/nl/courses-results.png -->
 ![Voortgangsdetails (resultaten)](../../assets/screenshots/diver/en/courses-results.png)
 
 ## Veelvoorkomende problemen

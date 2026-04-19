@@ -1,8 +1,6 @@
 # Diver: 내 라이브러리
 
 ## 스크린샷
-
-<!-- TODO(screenshot): docs/assets/screenshots/diver/ko/library.png -->
 <!-- Fallback: use EN screenshot until localized screenshots are available. -->
 ![내 라이브러리](../../assets/screenshots/diver/en/library.png)
 

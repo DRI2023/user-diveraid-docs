@@ -27,8 +27,6 @@
 ## 코스 진행 (요약)
 
 코스를 열면 **진행(progress)** 페이지로 이동합니다. 이 페이지는 코스의 허브로, 완료한 내용과 다음 단계를 보여줍니다.
-
-<!-- TODO(screenshot): docs/assets/screenshots/diver/ko/courses-progress.png -->
 ![코스 진행 (요약)](../../assets/screenshots/diver/en/courses-progress.png)
 
 일반적인 단계:
@@ -41,8 +39,6 @@
 시도는 활동을 **수행**하는 페이지입니다(답변, 제출, 확인).
 
 ### 퀴즈 시도(모듈)
-
-<!-- TODO(screenshot): docs/assets/screenshots/diver/ko/courses-quiz-attempt.png -->
 ![퀴즈 시도](../../assets/screenshots/diver/en/courses-quiz-attempt.png)
 
 일반적인 단계:
@@ -53,8 +49,6 @@
 4. (가능한 경우) 결과 페이지를 열어 답변을 확인합니다.
 
 ### 시험 시도
-
-<!-- TODO(screenshot): docs/assets/screenshots/diver/ko/courses-exam-attempt.png -->
 ![시험 시도](../../assets/screenshots/diver/en/courses-exam-attempt.png)
 
 안내: 시험은 필요한 퀴즈/모듈을 완료한 후, 그리고 강사가 활성화한 후에만 진행할 수 있습니다.
@@ -68,8 +62,6 @@
 ### 스킬(skills)
 
 스킬은 코스 설정에 따라 확인/확정이 필요한 실습 단계입니다.
-
-<!-- TODO(screenshot): docs/assets/screenshots/diver/ko/courses-skills.png -->
 ![스킬 서명](../../assets/screenshots/diver/en/courses-skills.png)
 
 안내: 스킬은 강사가 완료로 표시한 후에만 확인/확정할 수 있습니다.
@@ -79,8 +71,6 @@
 ## 진행 상세 (quiz/exam/skills)
 
 진행 상세는 결과를 확인하는 페이지입니다(예: 퀴즈 답변, 시험 결과).
-
-<!-- TODO(screenshot): docs/assets/screenshots/diver/ko/courses-results.png -->
 ![진행 상세 (결과)](../../assets/screenshots/diver/en/courses-results.png)
 
 ## 자주 발생하는 문제

@@ -6,7 +6,7 @@ La pagina **Le mie certificazioni** contiene le card di certificazione e ti perm
 
 Menu: **Diver -> Le mie certificazioni**
 
-![Elenco certificazioni](../../assets/screenshots/diver/it/certifications-02.png)
+![Elenco certificazioni](../../assets/screenshots/diver/en/certifications-02.png)
 
 ## Elenco certificazioni
 
@@ -18,13 +18,13 @@ Passi tipici:
 4. Scarica la certificazione in **PDF** o **PNG**.
 5. Se disponibile, apri **History** per vedere progress e risultati.
 
-![Dettagli certificazione (split view)](../../assets/screenshots/diver/it/certifications-01.png)
+![Dettagli certificazione (split view)](../../assets/screenshots/diver/en/certifications-01.png)
 
 ## Storico certificazione
 
 La pagina di storico mostra i dettagli di progress per una certificazione specifica (quiz/esame/skills, in base al corso).
 
-![Certification history](../../assets/screenshots/diver/it/certifications-history.png)
+![Certification history](../../assets/screenshots/diver/en/certifications-history.png)
 
 ## Problemi comuni
 

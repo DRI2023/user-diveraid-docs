@@ -8,7 +8,7 @@ Menu: **Documenti caricati**
 
 Qui trovi i documenti associati al tuo profilo (tipicamente caricati/registrati a tuo nome).
 
-![Documenti caricati](../../assets/screenshots/diver/it/documents-uploaded.png)
+![Documenti caricati](../../assets/screenshots/diver/en/documents-uploaded.png)
 
 Passi tipici:
 

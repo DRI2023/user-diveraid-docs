@@ -1,8 +1,6 @@
 # Diver: biblioteca
 
 ## Captura de ecrã
-
-<!-- TODO(screenshot): docs/assets/screenshots/diver/pt/library.png -->
 <!-- Fallback: use EN screenshot until localized screenshots are available. -->
 ![Minha Biblioteca](../../assets/screenshots/diver/en/library.png)
 

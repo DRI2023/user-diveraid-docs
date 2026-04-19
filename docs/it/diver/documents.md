@@ -8,7 +8,7 @@ Menu: **I miei documenti**
 
 Qui trovi i documenti messi a disposizione per te.
 
-![Documenti personali](../../assets/screenshots/diver/it/documents-personal.png)
+![Documenti personali](../../assets/screenshots/diver/en/documents-personal.png)
 
 Passi tipici:
 

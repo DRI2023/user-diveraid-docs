@@ -1,6 +1,6 @@
 # DiveRaid Docs (user-diveraid-docs)
 
-Static, bilingual (IT/EN) user guide for `user.diveraid.com`.
+Static, multilingual user guide for `user.diveraid.com` (EN is the source of truth; other languages are translations).
 
 ## Local setup
 
@@ -27,7 +27,7 @@ mkdocs build
 
 ## Screenshots (optional)
 
-Screenshots live in `docs/assets/screenshots/...` and are referenced from pages.
+Screenshots live in `docs/assets/screenshots/...` and are referenced from pages. For now, pages should reference only the English screenshots under `docs/assets/screenshots/diver/en/...`.
 
 To generate them automatically (requires Node + Playwright and a locally running Laravel app):
 

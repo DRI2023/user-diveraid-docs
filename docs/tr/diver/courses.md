@@ -27,8 +27,6 @@ Tipik adimlar:
 ## Kurs ilerlemesi (ozet)
 
 Bir kursu actiginda **ilerleme (progress)** sayfasina gidersin. Bu sayfa kursun merkezidir: tamamlananlari ve siradaki adimi gosterir.
-
-<!-- TODO(screenshot): docs/assets/screenshots/diver/tr/courses-progress.png -->
 ![Kurs ilerlemesi (ozet)](../../assets/screenshots/diver/en/courses-progress.png)
 
 Tipik adimlar:
@@ -41,8 +39,6 @@ Tipik adimlar:
 Denemeler, aktiviteyi **yaptigin** sayfalardir (yanitlama, gonderme, onaylama).
 
 ### Quiz denemesi (module)
-
-<!-- TODO(screenshot): docs/assets/screenshots/diver/tr/courses-quiz-attempt.png -->
 ![Quiz attempt](../../assets/screenshots/diver/en/courses-quiz-attempt.png)
 
 Tipik adimlar:
@@ -53,8 +49,6 @@ Tipik adimlar:
 4. (Varsa) sonuclari acip yanitlari kontrol et.
 
 ### Exam denemesi
-
-<!-- TODO(screenshot): docs/assets/screenshots/diver/tr/courses-exam-attempt.png -->
 ![Exam attempt](../../assets/screenshots/diver/en/courses-exam-attempt.png)
 
 Not: exam, gerekli quiz/module tamamlandiktan sonra ve egitmen etkinlestirdikten sonra kullanilabilir.
@@ -68,8 +62,6 @@ Tipik adimlar:
 ### Skills
 
 Skills, kurs ayarlarina gore onay gerektirebilen pratik adimlardir.
-
-<!-- TODO(screenshot): docs/assets/screenshots/diver/tr/courses-skills.png -->
 ![Skills signatures](../../assets/screenshots/diver/en/courses-skills.png)
 
 Not: skills onayi, egitmen tamamlandi olarak isaretledikten sonra yapilabilir.
@@ -79,8 +71,6 @@ Ipucu: kurs gerektiriyorsa, onaydan once skills ile ilgili Dive Log/Logbook kayd
 ## Ilerleme detaylari (quiz/exam/skills)
 
 Ilerleme detaylari, **sonuclari** inceledigin sayfalardir (ornegin quiz cevaplari veya exam sonuclari).
-
-<!-- TODO(screenshot): docs/assets/screenshots/diver/tr/courses-results.png -->
 ![Ilerleme detaylari (sonuclar)](../../assets/screenshots/diver/en/courses-results.png)
 
 ## Yaygin sorunlar
