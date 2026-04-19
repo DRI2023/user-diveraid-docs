@@ -4,10 +4,8 @@ Questa guida ti aiuta a usare `user.diveraid.com`.
 
 ## Sezioni
 
-- [Diver](diver/overview.md): Gestire corsi, certificazioni, documenti, log immersioni e acquisti.
 - [Il mio profilo](profile/overview.md): Gestire account, attività, storia medica e impostazioni di sicurezza/privacy.
-- Dive Center: Gestire il tuo Dive Center e lo staff (documentazione in arrivo).
-- Distributor: Gestire attivita Distributor (documentazione in arrivo).
+- [Diver](diver/overview.md): Gestire corsi, certificazioni, documenti, log immersioni e acquisti.
 
 ## Lingue
 
@@ -32,4 +30,4 @@ GET https://user.diveraid.com/it/diver/dashboard
 
 </details>
 
-Vai a: [Diver > Panoramica](diver/overview.md)
+Vai a: [Il mio profilo > Panoramica](profile/overview.md)

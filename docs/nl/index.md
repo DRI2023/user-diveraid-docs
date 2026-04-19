@@ -4,10 +4,8 @@ Deze gids helpt je `user.diveraid.com` te gebruiken.
 
 ## Onderdelen
 
-- [Diver](diver/overview.md): Cursussen, certificeringen, documenten, duiklogs en aankopen beheren.
 - [Mijn profiel](profile/overview.md): Je account, taken, medische geschiedenis en beveiliging/privacy-instellingen beheren.
-- Dive Center: Je Dive Center en staff beheren (documentatie volgt).
-- Distributor: Distributor-activiteiten beheren (documentatie volgt).
+- [Diver](diver/overview.md): Cursussen, certificeringen, documenten, duiklogs en aankopen beheren.
 
 ## Talen
 
@@ -32,4 +30,4 @@ GET https://user.diveraid.com/nl/diver/dashboard
 
 </details>
 
-Ga naar: [Diver > Overzicht](diver/overview.md)
+Ga naar: [Mijn profiel > Overzicht](profile/overview.md)

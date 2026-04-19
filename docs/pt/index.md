@@ -4,10 +4,8 @@ Este guia ajuda a usar `user.diveraid.com`.
 
 ## Areas
 
-- [Diver](diver/overview.md): Gerir cursos, certificacoes, documentos, registos de mergulho e compras.
 - [O meu perfil](profile/overview.md): Gerir a conta, tarefas, historico medico e definicoes de seguranca/privacidade.
-- Dive Center: Gerir o Dive Center e a equipa (documentacao em breve).
-- Distributor: Gerir atividades do Distributor (documentacao em breve).
+- [Diver](diver/overview.md): Gerir cursos, certificacoes, documentos, registos de mergulho e compras.
 
 ## Idiomas
 
@@ -32,4 +30,4 @@ GET https://user.diveraid.com/pt/diver/dashboard
 
 </details>
 
-Ir para: [Diver > Visao geral](diver/overview.md)
+Ir para: [O meu perfil > Visao geral](profile/overview.md)

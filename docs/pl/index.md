@@ -4,10 +4,8 @@ Ten przewodnik pomaga korzystac z `user.diveraid.com`.
 
 ## Sekcje
 
-- [Diver](diver/overview.md): Zarzadzanie kursami, certyfikatami, dokumentami, dziennikiem nurkowan i zakupami.
 - [Moj profil](profile/overview.md): Zarzadzanie kontem, zadaniami, historia medyczna oraz ustawieniami bezpieczenstwa/prywatnosci.
-- Dive Center: Zarzadzanie Dive Center i personelem (dokumentacja wkrotce).
-- Distributor: Zarzadzanie aktywnosciami Dystrybutora (dokumentacja wkrotce).
+- [Diver](diver/overview.md): Zarzadzanie kursami, certyfikatami, dokumentami, dziennikiem nurkowan i zakupami.
 
 ## Jezyki
 
@@ -32,4 +30,4 @@ GET https://user.diveraid.com/pl/diver/dashboard
 
 </details>
 
-Przejdz do: [Diver > Przeglad](diver/overview.md)
+Przejdz do: [Moj profil > Przeglad](profile/overview.md)

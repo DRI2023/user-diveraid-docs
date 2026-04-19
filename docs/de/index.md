@@ -4,10 +4,8 @@ Dieses Handbuch hilft dir bei der Nutzung von `user.diveraid.com`.
 
 ## Bereiche
 
-- [Diver](diver/overview.md): Kurse, Zertifizierungen, Dokumente, Tauchlogs und Einkäufe verwalten.
 - [Mein Profil](profile/overview.md): Konto, Aufgaben, medizinische Daten sowie Sicherheits- und Datenschutzeinstellungen verwalten.
-- Dive Center: Tauchcenter und Staff verwalten (Dokumentation folgt).
-- Distributor: Distributor-Aktivitäten verwalten (Dokumentation folgt).
+- [Diver](diver/overview.md): Kurse, Zertifizierungen, Dokumente, Tauchlogs und Einkäufe verwalten.
 
 ## Sprachen
 
@@ -32,4 +30,4 @@ GET https://user.diveraid.com/de/diver/dashboard
 
 </details>
 
-Weiter zu: [Diver > Übersicht](diver/overview.md)
+Weiter zu: [Mein Profil > Übersicht](profile/overview.md)

@@ -4,10 +4,8 @@
 
 ## 영역
 
-- [Diver](diver/overview.md): 코스, 자격증, 문서, 다이브 로그, 구매를 관리합니다.
 - [내 프로필](profile/overview.md): 계정, 작업, 의료 기록, 보안/개인정보 설정을 관리합니다.
-- Dive Center: 다이브 센터와 스태프를 관리합니다(문서화 예정).
-- Distributor: 디스트리뷰터 활동을 관리합니다(문서화 예정).
+- [Diver](diver/overview.md): 코스, 자격증, 문서, 다이브 로그, 구매를 관리합니다.
 
 ## 언어
 
@@ -32,4 +30,4 @@ GET https://user.diveraid.com/ko/diver/dashboard
 
 </details>
 
-이동: [Diver > 개요](diver/overview.md)
+이동: [내 프로필 > 개요](profile/overview.md)

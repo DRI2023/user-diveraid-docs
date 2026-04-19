@@ -4,10 +4,8 @@ Bu kilavuz `user.diveraid.com` kullaniminiza yardimci olur.
 
 ## Bolumler
 
-- [Diver](diver/overview.md): Kurslari, sertifikalari, belgeleri, dalis kayitlarini ve satin almalari yonetme.
 - [Profilim](profile/overview.md): Hesap, gorevler, tibbi gecmis ve guvenlik/gizlilik ayarlarini yonetme.
-- Dive Center: Dive Center ve personeli yonetme (dokumantasyon yakinda).
-- Distributor: Distributor aktivitelerini yonetme (dokumantasyon yakinda).
+- [Diver](diver/overview.md): Kurslari, sertifikalari, belgeleri, dalis kayitlarini ve satin almalari yonetme.
 
 ## Diller
 
@@ -32,4 +30,4 @@ GET https://user.diveraid.com/tr/diver/dashboard
 
 </details>
 
-Git: [Diver > Genel Bakis](diver/overview.md)
+Git: [Profilim > Genel Bakis](profile/overview.md)
